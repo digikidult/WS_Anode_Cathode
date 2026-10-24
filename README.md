@@ -28,3 +28,6 @@ combat-stats.js / combat-stats.csv：敵人能力資料；rewards.js：獎勵表
 ## 本次更新
 
 套用完整迷宮名稱對照；改正任務完成獎勵位置；頭目提示改為組合下方顯示；道具圖鑑改名為道具列表；加入三件初始／劇情道具的取得方式。道具取得來源及迷宮跳轉連結已同步更新。
+
+### Variable-technique effect descriptions
+Updated 72 technique descriptions from the original in-game explanations; Omegamon is intentionally unchanged. Replaced uncertain descriptions for 怪蛙王、大古加獸、砲彈獸, supplemented the verified stat-reset behavior for 怪蛙王 and 神龍獸, and labeled GranKuwagamon's value as the nominal first critical-check stage. Remaining duration and subsequent-roll uncertainties stay in detail notes. This update does not apply the separately pending tab renames, acquisition linking/version labels, or new learning-rule presentation.

@@ -3514,12 +3514,14 @@ window.TAMER_DATA={
       "combination": "亞古 +  任何伙伴數碼暴龍",
       "vp": "7",
       "type": "攻擊",
-      "effect": "敵1體傷害",
+      "effect": "對一隻敵人造成傷害！如果對手係地面型傷害就會增加",
       "image": "assets/sprites/variable/variable_000_image_0.png",
       "row": 5,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體傷害",
+      "gameEffectJapanese": "グレイモン\nテキ 1タイに\nダメージをあたえる!\nちじょうけいのテキ\nだと ダメージが\nUPする"
     },
     {
       "id": 115,
@@ -3528,12 +3530,14 @@ window.TAMER_DATA={
       "combination": "亞古 +  任何伙伴數碼暴龍",
       "vp": "14",
       "type": "攻擊",
-      "effect": "敵1體傷害",
+      "effect": "對一隻敵人造成傷害！如果對手係地面型傷害就會增加",
       "image": "assets/sprites/variable/variable_001_image_0.png",
       "row": 6,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體傷害",
+      "gameEffectJapanese": "メタルグレイモン\nテキ 1タイに\nダメージをあたえる!\nちじょうけいのテキ\nだと ダメージが\nUPする"
     },
     {
       "id": 116,
@@ -3542,12 +3546,14 @@ window.TAMER_DATA={
       "combination": "亞古 +  任何伙伴數碼暴龍",
       "vp": "16",
       "type": "攻擊",
-      "effect": "敵全體傷害",
+      "effect": "對全體敵人造成傷害！如果對手係地面型傷害就會增加",
       "image": "assets/sprites/variable/variable_002_image_0.png",
       "row": 7,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵全體傷害",
+      "gameEffectJapanese": "ウォーグレイモン\nテキゼンタイに\nダメージをあたえる!\nちじょうけいのテキ\nだと ダメージが\nUPする"
     },
     {
       "id": 117,
@@ -3556,12 +3562,14 @@ window.TAMER_DATA={
       "combination": "比丘 +  任何伙伴數碼暴龍",
       "vp": "7",
       "type": "攻擊",
-      "effect": "敵1體傷害",
+      "effect": "對一隻敵人造成傷害！如果對手係空中型傷害就會增加",
       "image": "assets/sprites/variable/variable_003_image_0.png",
       "row": 8,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體傷害",
+      "gameEffectJapanese": "バードラモン\nテキ 1タイに\nダメージをあたえる!\nくうちゅうけいのテキ\nだと ダメージが\nUPする"
     },
     {
       "id": 118,
@@ -3570,12 +3578,14 @@ window.TAMER_DATA={
       "combination": "比丘 +  任何伙伴數碼暴龍",
       "vp": "16",
       "type": "攻擊",
-      "effect": "敵1體傷害",
+      "effect": "對全體敵人造成傷害！如果對手係空中型傷害就會增加",
       "image": "assets/sprites/variable/variable_004_image_0.png",
       "row": 9,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體傷害",
+      "gameEffectJapanese": "ガルダモン\nテキゼンタイに\nダメージをあたえる!\nくうちゅうけいのテキ\nだと ダメージが\nUPする"
     },
     {
       "id": 119,
@@ -3584,12 +3594,14 @@ window.TAMER_DATA={
       "combination": "加布 +  任何伙伴數碼暴龍",
       "vp": "7",
       "type": "攻擊",
-      "effect": "敵1體傷害",
+      "effect": "對一隻敵人造成傷害！如果對手係火炎型傷害就會增加",
       "image": "assets/sprites/variable/variable_005_image_0.png",
       "row": 10,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體傷害",
+      "gameEffectJapanese": "ガルルモン\nテキ 1タイに\nダメージをあたえる!\nほのおけいのテキ\nだと ダメージが\nUPする"
     },
     {
       "id": 120,
@@ -3598,12 +3610,14 @@ window.TAMER_DATA={
       "combination": "加布 +  任何伙伴數碼暴龍",
       "vp": "14",
       "type": "攻擊",
-      "effect": "敵1體傷害",
+      "effect": "對一隻敵人造成傷害！如果對手係火炎型傷害就會增加",
       "image": "assets/sprites/variable/variable_006_image_0.png",
       "row": 11,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體傷害",
+      "gameEffectJapanese": "ワーガルルモン\nテキ 1タイに\nダメージをあたえる!\nほのおけいのテキ\nだと ダメージが\nUPする"
     },
     {
       "id": 121,
@@ -3612,12 +3626,14 @@ window.TAMER_DATA={
       "combination": "加布 +  任何伙伴數碼暴龍",
       "vp": "16",
       "type": "攻擊",
-      "effect": "敵全體傷害",
+      "effect": "對全體敵人造成傷害！如果對手係火炎型傷害就會增加",
       "image": "assets/sprites/variable/variable_007_image_0.png",
       "row": 12,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵全體傷害",
+      "gameEffectJapanese": "メタルガルルモン\nテキゼンタイに\nダメージをあたえる!\nほのおけいのテキ\nだと ダメージが\nUPする"
     },
     {
       "id": 122,
@@ -3626,12 +3642,14 @@ window.TAMER_DATA={
       "combination": "甲蟲 +  任何伙伴數碼暴龍",
       "vp": "7",
       "type": "攻擊",
-      "effect": "敵1體傷害",
+      "effect": "對一隻敵人造成傷害！如果對手係昆蟲型傷害就會增加",
       "image": "assets/sprites/variable/variable_008_image_0.png",
       "row": 13,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體傷害",
+      "gameEffectJapanese": "カブテリモン\nテキ 1タイに\nダメージをあたえる!\nムシけいのテキだと\nダメージが UPする"
     },
     {
       "id": 123,
@@ -3640,12 +3658,14 @@ window.TAMER_DATA={
       "combination": "甲蟲 +  任何伙伴數碼暴龍",
       "vp": "16",
       "type": "攻擊",
-      "effect": "敵全體傷害",
+      "effect": "對全體敵人造成傷害！如果對手係昆蟲型傷害就會增加",
       "image": "assets/sprites/variable/variable_009_image_0.png",
       "row": 14,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵全體傷害",
+      "gameEffectJapanese": "アトラーカブテリモン\nテキゼンタイに\nダメージをあたえる!\nムシけいのテキだと\nダメージが UPする"
     },
     {
       "id": 124,
@@ -3654,12 +3674,14 @@ window.TAMER_DATA={
       "combination": "巴魯 +  任何伙伴數碼暴龍",
       "vp": "7",
       "type": "攻擊",
-      "effect": "敵1體傷害",
+      "effect": "對一隻敵人造成傷害！如果對手係植物型傷害就會增加",
       "image": "assets/sprites/variable/variable_010_image_0.png",
       "row": 15,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體傷害",
+      "gameEffectJapanese": "トゲモン\nテキ 1タイに\nダメージをあたえる!\nしょくぶつけいのテキ\nだと ダメージが\nUPする"
     },
     {
       "id": 125,
@@ -3668,12 +3690,14 @@ window.TAMER_DATA={
       "combination": "巴魯 +  任何伙伴數碼暴龍",
       "vp": "16",
       "type": "攻擊",
-      "effect": "敵全體傷害",
+      "effect": "對全體敵人造成傷害！如果對手係植物型傷害就會增加",
       "image": "assets/sprites/variable/variable_011_image_0.png",
       "row": 16,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵全體傷害",
+      "gameEffectJapanese": "リリモン\nテキゼンタイに\nダメージをあたえる!\nしょくぶつけいのテキ\nだと ダメージが\nUPする"
     },
     {
       "id": 126,
@@ -3682,12 +3706,14 @@ window.TAMER_DATA={
       "combination": "哥瑪 +  任何伙伴數碼暴龍",
       "vp": "7",
       "type": "攻擊",
-      "effect": "敵1體傷害",
+      "effect": "對一隻敵人造成傷害！如果對手係水中型傷害就會增加",
       "image": "assets/sprites/variable/variable_012_image_0.png",
       "row": 17,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體傷害",
+      "gameEffectJapanese": "イッカクモン\nテキ 1タイに\nダメージをあたえる!\nすいちゅうけいのテキ\nだと ダメージが\nUPする"
     },
     {
       "id": 127,
@@ -3696,12 +3722,14 @@ window.TAMER_DATA={
       "combination": "哥瑪 +  任何伙伴數碼暴龍",
       "vp": "16",
       "type": "攻擊",
-      "effect": "敵全體傷害",
+      "effect": "對全體敵人造成傷害！如果對手係水中型傷害就會增加",
       "image": "assets/sprites/variable/variable_013_image_0.png",
       "row": 18,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵全體傷害",
+      "gameEffectJapanese": "ズドモン\nテキゼンタイに\nダメージをあたえる!\nすいちゅうけいのテキ\nだと ダメージが\nUPする"
     },
     {
       "id": 128,
@@ -3710,12 +3738,14 @@ window.TAMER_DATA={
       "combination": "巴達 +  任何伙伴數碼暴龍",
       "vp": "7",
       "type": "攻擊",
-      "effect": "敵1體傷害",
+      "effect": "對一隻敵人造成傷害！如果對手係惡魔型傷害就會增加",
       "image": "assets/sprites/variable/variable_014_image_0.png",
       "row": 19,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體傷害",
+      "gameEffectJapanese": "エンジェモン\nテキ 1タイに\nダメージをあたえる!\nアクマけいのテキだと\nダメージが UPする"
     },
     {
       "id": 129,
@@ -3724,12 +3754,14 @@ window.TAMER_DATA={
       "combination": "巴達 +  任何伙伴數碼暴龍",
       "vp": "16",
       "type": "攻擊",
-      "effect": "敵全體傷害",
+      "effect": "對全體敵人造成傷害！如果對手係惡魔型傷害就會增加",
       "image": "assets/sprites/variable/variable_015_image_0.png",
       "row": 20,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵全體傷害",
+      "gameEffectJapanese": "ホーリーエンジェモン\nテキゼンタイに\nダメージをあたえる!\nアクマけいのテキだと\nダメージが UPする"
     },
     {
       "id": 130,
@@ -3738,12 +3770,14 @@ window.TAMER_DATA={
       "combination": "迪路獸 + 任何伙伴數碼暴龍",
       "vp": "8",
       "type": "輔助",
-      "effect": "我方1體DP UP",
+      "effect": "完全回復我方單體的DP(體力)！",
       "image": "assets/sprites/variable/variable_016_image_0.png",
       "row": 21,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "我方1體DP UP",
+      "gameEffectJapanese": "エンジェウーモン\nミカタ 1タイの\nDP(たいりょく)を\nカンゼン カイフク!"
     },
     {
       "id": 131,
@@ -3752,12 +3786,14 @@ window.TAMER_DATA={
       "combination": "迪路獸 + 任何伙伴數碼暴龍",
       "vp": "20",
       "type": "輔助",
-      "effect": "我方全體DP UP",
+      "effect": "稍為回復我方全體的DP(體力)！",
       "image": "assets/sprites/variable/variable_017_image_0.png",
       "row": 22,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "我方全體DP UP",
+      "gameEffectJapanese": "ホーリードラモン\nミカタゼンタイの\nDP(たいりょく)を\nすこし カイフク!"
     },
     {
       "id": 132,
@@ -3766,12 +3802,14 @@ window.TAMER_DATA={
       "combination": "長牙獸 ＋ 螃蟹獸",
       "vp": "9",
       "type": "攻擊",
-      "effect": "敵1體傷害",
+      "effect": "對一隻敵人造成傷害！如果對手係地面型傷害就會增加",
       "image": "assets/sprites/variable/variable_018_image_0.png",
       "row": 23,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體傷害",
+      "gameEffectJapanese": "プクモン\nテキ 1タイに\nダメージをあたえる!\nちじょうけいのテキ\nだと ダメージが\nUPする"
     },
     {
       "id": 133,
@@ -3780,12 +3818,14 @@ window.TAMER_DATA={
       "combination": "海龍 ＋ 西拉獸",
       "vp": "36",
       "type": "攻擊",
-      "effect": "敵1體傷害",
+      "effect": "對一隻敵人造成傷害！如果對手係空中型傷害就會增加",
       "image": "assets/sprites/variable/variable_019_image_0.png",
       "row": 24,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體傷害",
+      "gameEffectJapanese": "メタルシードラモン\nテキ 1タイに\nダメージをあたえる!\nくうちゅうけいのテキ\nだと ダメージが\nUPする"
     },
     {
       "id": 134,
@@ -3794,12 +3834,14 @@ window.TAMER_DATA={
       "combination": "V龍獸* + 飛龍獸/獨角馬獸",
       "vp": "62",
       "type": "攻擊",
-      "effect": "敵1體傷害",
+      "effect": "對一隻敵人造成傷害！如果對手係空中型傷害就會增加",
       "image": "assets/sprites/variable/variable_020_image_0.png",
       "row": 25,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體傷害",
+      "gameEffectJapanese": "エアロブイドラモン\nテキ 1タイに\nダメージをあたえる!\nくうちゅうけいのテキ\nだと ダメージが\nUPする"
     },
     {
       "id": 135,
@@ -3808,12 +3850,14 @@ window.TAMER_DATA={
       "combination": "八爪鱼 ＋螳螂獸",
       "vp": "16",
       "type": "攻擊",
-      "effect": "敵1體傷害",
+      "effect": "對一隻敵人造成傷害！如果對手係水中型傷害就會增加",
       "image": "assets/sprites/variable/variable_021_image_0.png",
       "row": 26,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體傷害",
+      "gameEffectJapanese": "ダゴモン\nテキ 1タイに\nダメージをあたえる!\nすいちゅうけいのテキ\nだと ダメージが\nUPする"
     },
     {
       "id": 136,
@@ -3822,12 +3866,14 @@ window.TAMER_DATA={
       "combination": "蘑菇獸 ＋海豚獸",
       "vp": "17",
       "type": "攻擊",
-      "effect": "敵1體傷害",
+      "effect": "對一隻敵人造成傷害！如果對手係水中型傷害就會增加",
       "image": "assets/sprites/variable/variable_022_image_0.png",
       "row": 27,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體傷害",
+      "gameEffectJapanese": "ハンギョモン\nテキ 1タイに\nダメージをあたえる!\nすいちゅうけいのテキ\nだと ダメージが\nUPする"
     },
     {
       "id": 137,
@@ -3836,12 +3882,14 @@ window.TAMER_DATA={
       "combination": "惡魔獸 ＋邪魔獸",
       "vp": "26",
       "type": "攻擊",
-      "effect": "敵1體傷害",
+      "effect": "對一隻敵人造成傷害！如果對手係神聖系傷害就會增加",
       "image": "assets/sprites/variable/variable_023_image_0.png",
       "row": 28,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體傷害",
+      "gameEffectJapanese": "レディーデビモン\nテキ 1タイに\nダメージをあたえる!\nシンセイけいのテキ\nだと ダメージが\nUPする"
     },
     {
       "id": 138,
@@ -3850,12 +3898,14 @@ window.TAMER_DATA={
       "combination": "墨魚獸＋邪龍獸",
       "vp": "10",
       "type": "攻擊",
-      "effect": "敵1體傷害",
+      "effect": "對一隻敵人造成傷害！如果對手係神聖系傷害就會增加",
       "image": "assets/sprites/variable/variable_024_image_0.png",
       "row": 29,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體傷害",
+      "gameEffectJapanese": "マリンデビモン\nテキ 1タイに\nダメージをあたえる!\nシンセイけいのテキ\nだと ダメージが\nUPする"
     },
     {
       "id": 139,
@@ -3864,12 +3914,14 @@ window.TAMER_DATA={
       "combination": "黑暗巨龍 ＋獨眼龍獸",
       "vp": "18",
       "type": "攻擊",
-      "effect": "敵1體傷害",
+      "effect": "對一隻敵人造成傷害！如果對手係神聖系傷害就會增加",
       "image": "assets/sprites/variable/variable_025_image_0.png",
       "row": 30,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體傷害",
+      "gameEffectJapanese": "スカルグレイモン\nテキ 1タイに\nダメージをあたえる!\nシンセイけいのテキ\nだと ダメージが\nUPする"
     },
     {
       "id": 140,
@@ -3878,12 +3930,14 @@ window.TAMER_DATA={
       "combination": "雪人獸＋毛人獸",
       "vp": "38",
       "type": "攻擊",
-      "effect": "敵1體傷害",
+      "effect": "對一隻敵人造成傷害！如果對手係火炎型傷害就會增加",
       "image": "assets/sprites/variable/variable_026_image_0.png",
       "row": 31,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體傷害",
+      "gameEffectJapanese": "マンモン\nテキ 1タイに\nダメージをあたえる!\nほのおけいのテキ\nだと ダメージが\nUPする"
     },
     {
       "id": 141,
@@ -3892,12 +3946,14 @@ window.TAMER_DATA={
       "combination": "雪人獸＋毛人獸",
       "vp": "42",
       "type": "攻擊",
-      "effect": "敵全體傷害",
+      "effect": "對全體敵人造成傷害！如果對手係火炎型傷害就會增加",
       "image": "assets/sprites/variable/variable_027_image_0.png",
       "row": 32,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵全體傷害",
+      "gameEffectJapanese": "スカルマンモン\nテキゼンタイに\nダメージをあたえる!\nほのおけいのテキ\nだと ダメージが\nUPする"
     },
     {
       "id": 142,
@@ -3906,12 +3962,14 @@ window.TAMER_DATA={
       "combination": "小火焰獸 ＋蠟燭獸",
       "vp": "19",
       "type": "攻擊",
-      "effect": "敵1體傷害",
+      "effect": "對一隻敵人造成傷害！如果對手係冰雪型傷害就會增加",
       "image": "assets/sprites/variable/variable_028_image_0.png",
       "row": 33,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體傷害",
+      "gameEffectJapanese": "デスメラモン\nテキ 1タイに\nダメージをあたえる!\nゆきけいのテキだと\nダメージが UPする"
     },
     {
       "id": 143,
@@ -3920,12 +3978,14 @@ window.TAMER_DATA={
       "combination": "種子獸 ＋鼻屎獸",
       "vp": "20",
       "type": "攻擊",
-      "effect": "敵1體傷害",
+      "effect": "對一隻敵人造成傷害！如果對手係植物型傷害就會增加",
       "image": "assets/sprites/variable/variable_029_image_0.png",
       "row": 34,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體傷害",
+      "gameEffectJapanese": "ブロッサモン\nテキ 1タイに\nダメージをあたえる!\nしょくぶつけいのテキ\nだと ダメージが\nUPする"
     },
     {
       "id": 144,
@@ -3934,12 +3994,14 @@ window.TAMER_DATA={
       "combination": "貝殼獸 + 野人獸",
       "vp": "12",
       "type": "輔助",
-      "effect": "我方1體AP UP",
+      "effect": "令我方單體的AP(攻擊力)提升！",
       "image": "assets/sprites/variable/variable_030_image_0.png",
       "row": 35,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "我方1體AP UP",
+      "gameEffectJapanese": "メガシードラモン\nミカタ 1タイの\nAP(こうげき)を\nUPさせる!"
     },
     {
       "id": 145,
@@ -3948,12 +4010,14 @@ window.TAMER_DATA={
       "combination": "毛人 + 巧木獸",
       "vp": "26",
       "type": "輔助",
-      "effect": "我方全體AP UP",
+      "effect": "令我方全體的AP(攻擊力)提升！",
       "image": "assets/sprites/variable/variable_031_image_0.png",
       "row": 36,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "我方全體AP UP",
+      "gameEffectJapanese": "ジジモン\nミカタゼンタイの\nAP(こうげき)を\nUPさせる!"
     },
     {
       "id": 146,
@@ -3962,12 +4026,14 @@ window.TAMER_DATA={
       "combination": "鼻屎獸 + 紅鼻屎獸",
       "vp": "12",
       "type": "輔助",
-      "effect": "敵1體AP Down",
+      "effect": "令敵方單體的AP(攻擊力)減少！",
       "image": "assets/sprites/variable/variable_032_image_0.png",
       "row": 37,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體AP Down",
+      "gameEffectJapanese": "デジタマモン\nテキ 1タイの\nAP(こうげき)を\nマイナスさせる!"
     },
     {
       "id": 147,
@@ -3976,12 +4042,14 @@ window.TAMER_DATA={
       "combination": "亡魂獸 + 猛鬼獸",
       "vp": "26",
       "type": "輔助",
-      "effect": "敵全體AP down",
+      "effect": "令敵方全體的AP(攻擊力)減少！",
       "image": "assets/sprites/variable/variable_033_image_0.png",
       "row": 38,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵全體AP down",
+      "gameEffectJapanese": "ファントモン\nテキゼンタイの\nAP(こうげき)を\nマイナスさせる!"
     },
     {
       "id": 148,
@@ -3990,12 +4058,14 @@ window.TAMER_DATA={
       "combination": "積木獸 + 企鵝獸",
       "vp": "12",
       "type": "輔助",
-      "effect": "我方1體PP UP",
+      "effect": "令我方單體的PP(防禦力)提升！",
       "image": "assets/sprites/variable/variable_034_image_0.png",
       "row": 39,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "我方1體PP UP",
+      "gameEffectJapanese": "エクスティラノモン\nミカタ 1タイの\nPP(ぼうぎょ)を\nUPさせる!"
     },
     {
       "id": 149,
@@ -4004,12 +4074,14 @@ window.TAMER_DATA={
       "combination": "多達獸 + 礦石獸",
       "vp": "38",
       "type": "輔助",
-      "effect": "我方全體PP UP",
+      "effect": "令我方全體的PP(防禦力)提升！",
       "image": "assets/sprites/variable/variable_035_image_0.png",
       "row": 40,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "我方全體PP UP",
+      "gameEffectJapanese": "ジャガモン\nミカタゼンタイの\nPP(ぼうぎょ)を\nUPさせる!"
     },
     {
       "id": 150,
@@ -4018,12 +4090,14 @@ window.TAMER_DATA={
       "combination": "鼻涕獸 +亞伯獸",
       "vp": "26",
       "type": "輔助",
-      "effect": "我方全體PP UP",
+      "effect": "令我方全體的PP(防禦力)提升！",
       "image": "assets/sprites/variable/variable_036_image_0.png",
       "row": 41,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "我方全體PP UP",
+      "gameEffectJapanese": "もんざえモン\nミカタゼンタイの\nPP(ぼうぎょ)を\nUPさせる!"
     },
     {
       "id": 151,
@@ -4032,12 +4106,14 @@ window.TAMER_DATA={
       "combination": "巫師獸 +流星獸",
       "vp": "12",
       "type": "輔助",
-      "effect": "敵1體PP Down",
+      "effect": "令敵方單體的PP(防禦力)減少！",
       "image": "assets/sprites/variable/variable_037_image_0.png",
       "row": 42,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體PP Down",
+      "gameEffectJapanese": "ベーダモン\nテキ 1タイの\nPP(ぼうぎょ)を\nマイナスさせる!"
     },
     {
       "id": 152,
@@ -4046,12 +4122,14 @@ window.TAMER_DATA={
       "combination": "巧木獸 + 奇鳥獸",
       "vp": "38",
       "type": "輔助",
-      "effect": "敵全體PP Down",
+      "effect": "令敵方全體的PP(防禦力)減少！",
       "image": "assets/sprites/variable/variable_038_image_0.png",
       "row": 43,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵全體PP Down",
+      "gameEffectJapanese": "ジュレイモン\nテキゼンタイの\nPP(ぼうぎょ)を\nマイナスさせる!"
     },
     {
       "id": 153,
@@ -4060,12 +4138,14 @@ window.TAMER_DATA={
       "combination": "小惡魔獸 +亞伯獸",
       "vp": "16",
       "type": "輔助",
-      "effect": "敵全體PP Down",
+      "effect": "令敵方全體的PP(防禦力)減少！",
       "image": "assets/sprites/variable/variable_039_image_0.png",
       "row": 44,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵全體PP Down",
+      "gameEffectJapanese": "ワルもんざえモン\nテキゼンタイの\nPP(ぼうぎょ)を\nマイナスさせる!"
     },
     {
       "id": 154,
@@ -4074,12 +4154,14 @@ window.TAMER_DATA={
       "combination": "巫師獸 +比特獸",
       "vp": "12",
       "type": "輔助",
-      "effect": "我方1體SP UP",
+      "effect": "令我方單體的SP(速度)提升！",
       "image": "assets/sprites/variable/variable_040_image_0.png",
       "row": 45,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "我方1體SP UP",
+      "gameEffectJapanese": "ピッコロモン\nミカタ 1タイの\nSP(スピード)を\nUPさせる!"
     },
     {
       "id": 155,
@@ -4088,12 +4170,14 @@ window.TAMER_DATA={
       "combination": "守衛獸 + 齒輪獸",
       "vp": "16",
       "type": "輔助",
-      "effect": "我方全體SP UP",
+      "effect": "令我方全體的SP(速度)提升！",
       "image": "assets/sprites/variable/variable_041_image_0.png",
       "row": 46,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "我方全體SP UP",
+      "gameEffectJapanese": "ナノモン\nミカタゼンタイの\nSP(スピード)を\nUPさせる!"
     },
     {
       "id": 156,
@@ -4102,12 +4186,14 @@ window.TAMER_DATA={
       "combination": "獅子 + 獨角馬",
       "vp": "8",
       "type": "輔助",
-      "effect": "敵1體SP Down",
+      "effect": "令敵方單體的SP(速度)減少！",
       "image": "assets/sprites/variable/variable_042_image_0.png",
       "row": 47,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體SP Down",
+      "gameEffectJapanese": "サーベルレオモン\nテキ 1タイの\nSP(スピード)を\nマイナスさせる!"
     },
     {
       "id": 157,
@@ -4116,12 +4202,14 @@ window.TAMER_DATA={
       "combination": "飛龍獸 +沙地蜻蜓獸",
       "vp": "18",
       "type": "輔助",
-      "effect": "敵全體SP Down",
+      "effect": "令敵方全體的SP(速度)減少！",
       "image": "assets/sprites/variable/variable_043_image_0.png",
       "row": 48,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵全體SP Down",
+      "gameEffectJapanese": "グリフォモン\nテキゼンタイの\nSP(スピード)を\nマイナスさせる!"
     },
     {
       "id": 158,
@@ -4130,12 +4218,14 @@ window.TAMER_DATA={
       "combination": "怪蛙獸 + 八爪魚獸",
       "vp": "48",
       "type": "輔助",
-      "effect": "敵方全體??",
+      "effect": "將敵我雙方被變數技改變的 AP、PP、SP 還原至基準值。DP、VP 不會回復。",
       "image": "assets/sprites/variable/variable_044_image_0.png",
       "row": 49,
       "gid": 0,
       "exclusive": false,
-      "uncertain": true
+      "uncertain": false,
+      "sheetEffect": "敵方全體??",
+      "gameEffectJapanese": "トノサマゲコモン\nテキ ミカタ ともに\nヴァリアブルによって\nへんかさせられた\nパラメータのすうちを\nもとにもどす!"
     },
     {
       "id": 159,
@@ -4144,12 +4234,15 @@ window.TAMER_DATA={
       "combination": "古加 + 黃蜂",
       "vp": "14",
       "type": "輔助",
-      "effect": "我方全體???",
+      "effect": "提高我方暴擊機會；首段暴擊判定由名義 25% 提升至 55%（增加 30 個百分點），SP 不變。",
       "image": "assets/sprites/variable/variable_045_image_0.png",
       "row": 50,
       "gid": 0,
       "exclusive": false,
-      "uncertain": true
+      "uncertain": false,
+      "sheetEffect": "我方全體???",
+      "gameEffectJapanese": "オオクワモン\nミカタのデジモンが\nこうげきするとき\nクリティカルヒットが\nでやすくなる!",
+      "effectNotes": "上述為首段暴擊判定值，並非傷害增加 30%。完整後續判定及效果持續時間仍待核對。"
     },
     {
       "id": 160,
@@ -4158,12 +4251,15 @@ window.TAMER_DATA={
       "combination": "爛泥獸 + 礦石獸",
       "vp": "8",
       "type": "輔助",
-      "effect": "敵方全體??",
+      "effect": "敵我雙方均無法使用變數技。",
       "image": "assets/sprites/variable/variable_046_image_0.png",
       "row": 51,
       "gid": 0,
       "exclusive": false,
-      "uncertain": true
+      "uncertain": false,
+      "sheetEffect": "敵方全體??",
+      "gameEffectJapanese": "ギロモン\nテキ ミカタ ともに\nヴァリアブルわざが\nつかえなくなる!",
+      "effectNotes": "此為使用限制，並非能力值加減。效果持續時間仍待核對。"
     },
     {
       "id": 161,
@@ -4172,12 +4268,14 @@ window.TAMER_DATA={
       "combination": "浮遊獸 +比茲獸",
       "vp": "24",
       "type": "輔助",
-      "effect": "(1/3機率0暫停對方1體一回合",
+      "effect": "令一隻敵人無法行動一次！",
       "image": "assets/sprites/variable/variable_047_image_0.png",
       "row": 52,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "(1/3機率0暫停對方1體一回合",
+      "gameEffectJapanese": "マリンエンジェモン\nテキ 1タイが\n1かいだけ こうどう\nできなくなる!"
     },
     {
       "id": 162,
@@ -4186,12 +4284,14 @@ window.TAMER_DATA={
       "combination": "悟空獸+猿人獸",
       "vp": "8",
       "type": "輔助",
-      "effect": "敵1體道具使用不可",
+      "effect": "在這場戰鬥中唔可以使用道具！",
       "image": "assets/sprites/variable/variable_048_image_0.png",
       "row": 53,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體道具使用不可",
+      "gameEffectJapanese": "メタルエテモン\nこのバトルちゅうは\nアイテムが しよう\nできなくなる!"
     },
     {
       "id": 163,
@@ -4200,12 +4300,14 @@ window.TAMER_DATA={
       "combination": "鼻涕+大便",
       "vp": "18",
       "type": "輔助",
-      "effect": "敵全體便意Max",
+      "effect": "敵方全體的UP(大便)會變滿！",
       "image": "assets/sprites/variable/variable_049_image_0.png",
       "row": 54,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵全體便意Max",
+      "gameEffectJapanese": "ガーベモン\nテキゼンタイの\nUP(ウンチ)が\nいっぱいになる!"
     },
     {
       "id": 164,
@@ -4214,12 +4316,14 @@ window.TAMER_DATA={
       "combination": "坦克獸 + 猿人獸",
       "vp": "42",
       "type": "輔助",
-      "effect": "1回合敵方全體普通攻擊無效化",
+      "effect": "使我方全體在一定時間內即使受到攻擊都唔會受傷！",
       "image": "assets/sprites/variable/variable_050_image_0.png",
       "row": 55,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "1回合敵方全體普通攻擊無效化",
+      "gameEffectJapanese": "ボルトモン\nミカタゼンタイが\nいっていじかんに\nかぎり こうげき\nされても ダメージを\nくわない!"
     },
     {
       "id": 165,
@@ -4228,12 +4332,14 @@ window.TAMER_DATA={
       "combination": "蜘蛛獸 +武士獸",
       "vp": "8",
       "type": "輔助",
-      "effect": "敵1體VP下降",
+      "effect": "減少敵方單體的VP(變數值)！",
       "image": "assets/sprites/variable/variable_051_image_0.png",
       "row": 56,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體VP下降",
+      "gameEffectJapanese": "アシュラモン\nテキ 1タイの VP\n(ヴァリアブル)を\nマイナスする!"
     },
     {
       "id": 166,
@@ -4242,12 +4348,14 @@ window.TAMER_DATA={
       "combination": "企鵝獸 +野人獸",
       "vp": "32",
       "type": "輔助",
-      "effect": "敵AP、SP、PP、VP下降",
+      "effect": "一次性減少敵方單體的AP、PP、SP以及VP！",
       "image": "assets/sprites/variable/variable_052_image_0.png",
       "row": 57,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵AP、SP、PP、VP下降",
+      "gameEffectJapanese": "ブラキモン\nテキ 1タイの\nAP PP SP\nVPを いちどに\nマイナスする!"
     },
     {
       "id": 167,
@@ -4256,12 +4364,14 @@ window.TAMER_DATA={
       "combination": "亞古 + 任何幼年期",
       "vp": "3",
       "type": "輔助",
-      "effect": "我方1體DP UP",
+      "effect": "稍為回復我方單體的DP(體力)！",
       "image": "assets/sprites/variable/variable_053_image_0.png",
       "row": 58,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "我方1體DP UP",
+      "gameEffectJapanese": "ホエーモン\nミカタ 1タイの\nDP(たいりょく)を\nすこし カイフクする"
     },
     {
       "id": 168,
@@ -4270,12 +4380,14 @@ window.TAMER_DATA={
       "combination": "Ver.1獸 + Ver.2幼年期",
       "vp": "3",
       "type": "攻擊",
-      "effect": "敵1體傷害",
+      "effect": "對一隻敵人造成傷害！",
       "image": "assets/sprites/variable/variable_054_image_0.png",
       "row": 59,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體傷害",
+      "gameEffectJapanese": "マメモン\nテキ 1タイに\nダメージをあたえる!"
     },
     {
       "id": 169,
@@ -4284,12 +4396,14 @@ window.TAMER_DATA={
       "combination": "Ver.1獸 + Ver.2幼年期",
       "vp": "3",
       "type": "攻擊",
-      "effect": "敵1體傷害",
+      "effect": "對全體敵人造成傷害！",
       "image": "assets/sprites/variable/variable_055_image_0.png",
       "row": 60,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體傷害",
+      "gameEffectJapanese": "メタルマメモン\nテキゼンタイに\nダメージをあたえる!"
     },
     {
       "id": 170,
@@ -4298,12 +4412,14 @@ window.TAMER_DATA={
       "combination": "Ver.1獸 + Ver.2幼年期",
       "vp": "8",
       "type": "攻擊",
-      "effect": "敵1體傷害",
+      "effect": "對一隻敵人造成傷害！",
       "image": "assets/sprites/variable/variable_056_image_0.png",
       "row": 61,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體傷害",
+      "gameEffectJapanese": "ビッグマメモン\nテキ 1タイに\nダメージをあたえる!"
     },
     {
       "id": 171,
@@ -4312,12 +4428,14 @@ window.TAMER_DATA={
       "combination": "Ver.4成熟期兩體",
       "vp": "4",
       "type": "攻擊",
-      "effect": "敵1體傷害",
+      "effect": "對一隻敵人造成傷害！",
       "image": "assets/sprites/variable/variable_057_image_0.png",
       "row": 62,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體傷害",
+      "gameEffectJapanese": "メガドラモン\nテキ 1タイに\nダメージをあたえる!"
     },
     {
       "id": 172,
@@ -4326,12 +4444,14 @@ window.TAMER_DATA={
       "combination": "Ver.3成熟期兩體",
       "vp": "3",
       "type": "攻擊",
-      "effect": "敵1體傷害",
+      "effect": "對一隻敵人造成傷害！",
       "image": "assets/sprites/variable/variable_058_image_0.png",
       "row": 63,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體傷害",
+      "gameEffectJapanese": "アンドロモン\nテキ 1タイに\nダメージをあたえる!"
     },
     {
       "id": 173,
@@ -4340,12 +4460,14 @@ window.TAMER_DATA={
       "combination": "Pen.2成熟期兩體",
       "vp": "7",
       "type": "攻擊",
-      "effect": "敵1體傷害",
+      "effect": "對一隻敵人造成傷害！",
       "image": "assets/sprites/variable/variable_059_image_0.png",
       "row": 64,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體傷害",
+      "gameEffectJapanese": "アノマロカリモン\nテキ 1タイに\nダメージをあたえる!"
     },
     {
       "id": 174,
@@ -4354,12 +4476,14 @@ window.TAMER_DATA={
       "combination": "Pen.4成熟期兩體",
       "vp": "9",
       "type": "攻擊",
-      "effect": "敵1體傷害",
+      "effect": "對一隻敵人造成傷害！",
       "image": "assets/sprites/variable/variable_060_image_0.png",
       "row": 65,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體傷害",
+      "gameEffectJapanese": "ピノッキモン\nテキ 1タイに\nダメージをあたえる!"
     },
     {
       "id": 175,
@@ -4368,12 +4492,14 @@ window.TAMER_DATA={
       "combination": "Pen.3の成長期同士",
       "vp": "3",
       "type": "攻擊",
-      "effect": "敵1體傷害",
+      "effect": "對一隻敵人造成傷害！",
       "image": "assets/sprites/variable/variable_061_image_0.png",
       "row": 66,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體傷害",
+      "gameEffectJapanese": "パンプモン\nテキ 1タイに\nダメージをあたえる!"
     },
     {
       "id": 176,
@@ -4382,12 +4508,14 @@ window.TAMER_DATA={
       "combination": "Pen.4成長期兩體",
       "vp": "10",
       "type": "攻擊",
-      "effect": "敵1體傷害",
+      "effect": "對一隻敵人造成傷害！",
       "image": "assets/sprites/variable/variable_062_image_0.png",
       "row": 67,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體傷害",
+      "gameEffectJapanese": "デラモン\nテキ 1タイに\nダメージをあたえる!"
     },
     {
       "id": 177,
@@ -4396,12 +4524,14 @@ window.TAMER_DATA={
       "combination": "Pen.1成長期兩體",
       "vp": "6",
       "type": "攻擊",
-      "effect": "敵1體傷害",
+      "effect": "對一隻敵人造成傷害！",
       "image": "assets/sprites/variable/variable_063_image_0.png",
       "row": 68,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體傷害",
+      "gameEffectJapanese": "トリケラモン\nテキ 1タイに\nダメージをあたえる!"
     },
     {
       "id": 178,
@@ -4410,12 +4540,14 @@ window.TAMER_DATA={
       "combination": "Ver.5成長期兩體/黑暗巨龍 + 巨龍",
       "vp": "5",
       "type": "攻擊",
-      "effect": "敵1體傷害",
+      "effect": "對一隻敵人造成傷害！",
       "image": "assets/sprites/variable/variable_064_image_0.png",
       "row": 69,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體傷害",
+      "gameEffectJapanese": "メタルティラノモン\nテキ 1タイに\nダメージをあたえる!"
     },
     {
       "id": 179,
@@ -4424,12 +4556,14 @@ window.TAMER_DATA={
       "combination": "Pen.5成長期兩體",
       "vp": "12",
       "type": "攻擊",
-      "effect": "敵1體傷害",
+      "effect": "對一隻敵人造成傷害！",
       "image": "assets/sprites/variable/variable_065_image_0.png",
       "row": 70,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵1體傷害",
+      "gameEffectJapanese": "ナイトモン\nテキ 1タイに\nダメージをあたえる!"
     },
     {
       "id": 180,
@@ -4438,12 +4572,14 @@ window.TAMER_DATA={
       "combination": "惡魔+奧加",
       "vp": "48",
       "type": "輔助",
-      "effect": "1回合我方1體不可使用合體進化;攻擊次數+1",
+      "effect": "我方單體可以連續攻擊2次！",
       "image": "assets/sprites/variable/variable_066_image_0.png",
       "row": 71,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "1回合我方1體不可使用合體進化;攻擊次數+1",
+      "gameEffectJapanese": "スカルサタモン\nミカタ 1タイが\n2カイ れんぞくで\nこうげきできる!"
     },
     {
       "id": 181,
@@ -4452,12 +4588,14 @@ window.TAMER_DATA={
       "combination": "悟空獸 + 加支獸",
       "vp": "48",
       "type": "輔助",
-      "effect": "我方一定時間內不受合體進化傷害",
+      "effect": "我方單體在一定時間內即使被變數技攻擊都唔會受傷！",
       "image": "assets/sprites/variable/variable_067_image_0.png",
       "row": 72,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "我方一定時間內不受合體進化傷害",
+      "gameEffectJapanese": "キングエテモン\nミカタ 1タイが\nいっていじかんに\nかぎりヴァリアブルで\nこうげきされても\nダメージをくわない!"
     },
     {
       "id": 182,
@@ -4466,12 +4604,14 @@ window.TAMER_DATA={
       "combination": "吸血魔 + 小惡魔獸",
       "vp": "48",
       "type": "輔助",
-      "effect": "敵全體VP0",
+      "effect": "將敵方全體的VP(變數值)變為0！",
       "image": "assets/sprites/variable/variable_068_image_0.png",
       "row": 73,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵全體VP0",
+      "gameEffectJapanese": "ヴェノムヴァンデモン\nテキゼンタイの VP\n(ヴァリアブル)を\n0にする!"
     },
     {
       "id": 183,
@@ -4480,12 +4620,14 @@ window.TAMER_DATA={
       "combination": "小丑皇 + 火炎獸",
       "vp": "48",
       "type": "輔助",
-      "effect": "對手全體便意Max及進入肌餓狀態",
+      "effect": "將敵方全體的EP(食欲)UP(大便)降至最差狀態！",
       "image": "assets/sprites/variable/variable_069_image_0.png",
       "row": 74,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "對手全體便意Max及進入肌餓狀態",
+      "gameEffectJapanese": "ディアボロモン\nテキゼンタイの\nEP(しょくじ)\nUP(ウンチ)を\nさいていの じょうた\nいに する!"
     },
     {
       "id": 184,
@@ -4494,12 +4636,14 @@ window.TAMER_DATA={
       "combination": "千年 + 基米拉(陽)/究極邪龍獸(陰)",
       "vp": "68",
       "type": "攻擊",
-      "effect": "敵全體傷害",
+      "effect": "對全體敵人造成傷害！",
       "image": "assets/sprites/variable/variable_070_image_0.png",
       "row": 75,
       "gid": 0,
       "exclusive": false,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "敵全體傷害",
+      "gameEffectJapanese": "アポカリモン\nテキゼンタイに\nダメージをあたえる!"
     },
     {
       "id": 185,
@@ -4522,12 +4666,14 @@ window.TAMER_DATA={
       "combination": "配佈V龍獸專屬變數技*",
       "vp": "48",
       "type": "輔助",
-      "effect": "完全恢複我方及敵方AP, VP, SP & PP",
+      "effect": "將敵我雙方 AP、PP、SP、VP 還原至基準值；不回復目前 DP。",
       "image": "assets/sprites/variable/variable_072_image_0.png",
       "row": 77,
       "gid": 0,
       "exclusive": true,
-      "uncertain": false
+      "uncertain": false,
+      "sheetEffect": "完全恢複我方及敵方AP, VP, SP & PP",
+      "gameEffectJapanese": "ゴッドドラモン\nテキ ミカタ ともに\nすべてのパラメータを\nもとにもどす!"
     }
   ],
   "stages": [
