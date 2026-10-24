@@ -55,3 +55,6 @@ Dungeon sections now include a Boss overview using the first enemy marked by the
 
 ### Enemy lineups and battle maps
 Each round now shows possible enemy lineups separately from possible battle map IDs. Duplicate enemy arrays are consolidated only as lineups, retaining their original option numbers. Original map options remain expandable. Maps and enemies are selected with separate draws in the normal path; numbered options must not be paired. Version badges and differences filtering include map-selection differences. IDs are shown without invented map artwork. All 720 map-table entries were compared with the original ROMs; native audit details are in the separately supplied map-combination report.
+
+### Verified game stats and actual enemy figures
+All 113 catalogue base-stat records now use values cross-checked against both original Japanese games. Corrected six values across five Digimon; SP is numeric, with no percent sign. Original sheet values are archived in sheetStats for audit. Dungeon enemy and boss cards show actual initial DP/AP/PP/SP/VP/MP from the separate combat-stats.js dataset, replacing the multiplier. combat-stats.csv logs all 720 configurations / 1920 enemy occurrences. 226 native base-initialization and 905 native scaling cases passed; combat state changes and unresolved slots are excluded.

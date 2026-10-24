@@ -9,12 +9,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "開始之街上方洞穴",
       "stats": {
-        "DP": "50",
-        "AP": "22",
-        "PP": "5",
-        "SP": "20%",
-        "VP": "10",
-        "MP": "3"
+        "DP": 50,
+        "AP": 22,
+        "PP": 5,
+        "SP": 20,
+        "VP": 10,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_000_image_0.png",
@@ -22,7 +22,16 @@ window.TAMER_DATA={
       ],
       "row": 6,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "50",
+        "AP": "22",
+        "PP": "5",
+        "SP": "20%",
+        "VP": "10",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 2,
@@ -31,12 +40,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "開始之街上方洞穴",
       "stats": {
-        "DP": "50",
-        "AP": "22",
-        "PP": "5",
-        "SP": "20%",
-        "VP": "10",
-        "MP": "3"
+        "DP": 50,
+        "AP": 22,
+        "PP": 5,
+        "SP": 20,
+        "VP": 10,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_001_image_0.png",
@@ -44,7 +53,16 @@ window.TAMER_DATA={
       ],
       "row": 7,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "50",
+        "AP": "22",
+        "PP": "5",
+        "SP": "20%",
+        "VP": "10",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 3,
@@ -53,12 +71,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "初始DM/隱藏關卡D",
       "stats": {
-        "DP": "0",
-        "AP": "32",
-        "PP": "7",
-        "SP": "10%",
-        "VP": "24",
-        "MP": "3"
+        "DP": 150,
+        "AP": 32,
+        "PP": 7,
+        "SP": 10,
+        "VP": 24,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_002_image_0.png",
@@ -66,7 +84,16 @@ window.TAMER_DATA={
       ],
       "row": 8,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "0",
+        "AP": "32",
+        "PP": "7",
+        "SP": "10%",
+        "VP": "24",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 4,
@@ -75,12 +102,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "",
       "stats": {
-        "DP": "150",
-        "AP": "30",
-        "PP": "7",
-        "SP": "10%",
-        "VP": "24",
-        "MP": "3"
+        "DP": 150,
+        "AP": 30,
+        "PP": 7,
+        "SP": 10,
+        "VP": 24,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_003_image_0.png",
@@ -88,7 +115,16 @@ window.TAMER_DATA={
       ],
       "row": 9,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "150",
+        "AP": "30",
+        "PP": "7",
+        "SP": "10%",
+        "VP": "24",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 5,
@@ -97,12 +133,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "通過開始之街上方洞穴",
       "stats": {
-        "DP": "230",
-        "AP": "42",
-        "PP": "10",
-        "SP": "5%",
-        "VP": "46",
-        "MP": "2"
+        "DP": 230,
+        "AP": 42,
+        "PP": 10,
+        "SP": 5,
+        "VP": 46,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_004_image_0.png",
@@ -110,7 +146,16 @@ window.TAMER_DATA={
       ],
       "row": 10,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "230",
+        "AP": "42",
+        "PP": "10",
+        "SP": "5%",
+        "VP": "46",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 6,
@@ -119,12 +164,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "",
       "stats": {
-        "DP": "200",
-        "AP": "42",
-        "PP": "8",
-        "SP": "5%",
-        "VP": "46",
-        "MP": "4"
+        "DP": 200,
+        "AP": 42,
+        "PP": 8,
+        "SP": 5,
+        "VP": 46,
+        "MP": 4
       },
       "sprites": [
         "assets/sprites/normal/normal_005_image_0.png",
@@ -132,7 +177,16 @@ window.TAMER_DATA={
       ],
       "row": 11,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "200",
+        "AP": "42",
+        "PP": "8",
+        "SP": "5%",
+        "VP": "46",
+        "MP": "4"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 7,
@@ -141,12 +195,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "",
       "stats": {
-        "DP": "230",
-        "AP": "42",
-        "PP": "10",
-        "SP": "5%",
-        "VP": "46",
-        "MP": "2"
+        "DP": 230,
+        "AP": 42,
+        "PP": 10,
+        "SP": 5,
+        "VP": 46,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_006_image_0.png",
@@ -154,7 +208,16 @@ window.TAMER_DATA={
       ],
       "row": 12,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "230",
+        "AP": "42",
+        "PP": "10",
+        "SP": "5%",
+        "VP": "46",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 8,
@@ -163,12 +226,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "開始之街上方洞穴",
       "stats": {
-        "DP": "50",
-        "AP": "22",
-        "PP": "5",
-        "SP": "20%",
-        "VP": "10",
-        "MP": "3"
+        "DP": 50,
+        "AP": 22,
+        "PP": 5,
+        "SP": 20,
+        "VP": 10,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_007_image_0.png",
@@ -176,7 +239,16 @@ window.TAMER_DATA={
       ],
       "row": 13,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "50",
+        "AP": "22",
+        "PP": "5",
+        "SP": "20%",
+        "VP": "10",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 9,
@@ -185,12 +257,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "開始之街上方洞穴",
       "stats": {
-        "DP": "50",
-        "AP": "22",
-        "PP": "5",
-        "SP": "20%",
-        "VP": "10",
-        "MP": "3"
+        "DP": 50,
+        "AP": 22,
+        "PP": 5,
+        "SP": 20,
+        "VP": 10,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_008_image_0.png",
@@ -198,7 +270,16 @@ window.TAMER_DATA={
       ],
       "row": 14,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "50",
+        "AP": "22",
+        "PP": "5",
+        "SP": "20%",
+        "VP": "10",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 10,
@@ -207,12 +288,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "擊敗吸血魔獸加入/隱藏關卡D",
       "stats": {
-        "DP": "225",
-        "AP": "48",
-        "PP": "16",
-        "SP": "10%",
-        "VP": "24",
-        "MP": "3"
+        "DP": 225,
+        "AP": 48,
+        "PP": 16,
+        "SP": 10,
+        "VP": 24,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_009_image_0.png",
@@ -220,7 +301,16 @@ window.TAMER_DATA={
       ],
       "row": 15,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "225",
+        "AP": "48",
+        "PP": "16",
+        "SP": "10%",
+        "VP": "24",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 11,
@@ -229,12 +319,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "",
       "stats": {
-        "DP": "150",
-        "AP": "30",
-        "PP": "7",
-        "SP": "10%",
-        "VP": "24",
-        "MP": "3"
+        "DP": 150,
+        "AP": 30,
+        "PP": 7,
+        "SP": 10,
+        "VP": 24,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_010_image_0.png",
@@ -242,7 +332,16 @@ window.TAMER_DATA={
       ],
       "row": 16,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "150",
+        "AP": "30",
+        "PP": "7",
+        "SP": "10%",
+        "VP": "24",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 12,
@@ -251,12 +350,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "",
       "stats": {
-        "DP": "230",
-        "AP": "42",
-        "PP": "10",
-        "SP": "5%",
-        "VP": "46",
-        "MP": "2"
+        "DP": 230,
+        "AP": 42,
+        "PP": 10,
+        "SP": 5,
+        "VP": 46,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_011_image_0.png",
@@ -264,7 +363,16 @@ window.TAMER_DATA={
       ],
       "row": 17,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "230",
+        "AP": "42",
+        "PP": "10",
+        "SP": "5%",
+        "VP": "46",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 13,
@@ -273,12 +381,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "",
       "stats": {
-        "DP": "230",
-        "AP": "42",
-        "PP": "10",
-        "SP": "5%",
-        "VP": "46",
-        "MP": "2"
+        "DP": 230,
+        "AP": 42,
+        "PP": 10,
+        "SP": 5,
+        "VP": 46,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_012_image_0.png",
@@ -286,7 +394,16 @@ window.TAMER_DATA={
       ],
       "row": 18,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "230",
+        "AP": "42",
+        "PP": "10",
+        "SP": "5%",
+        "VP": "46",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 14,
@@ -295,12 +412,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "",
       "stats": {
-        "DP": "50",
-        "AP": "22",
-        "PP": "5",
-        "SP": "20%",
-        "VP": "10",
-        "MP": "3"
+        "DP": 50,
+        "AP": 22,
+        "PP": 5,
+        "SP": 20,
+        "VP": 10,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_013_image_0.png",
@@ -308,7 +425,16 @@ window.TAMER_DATA={
       ],
       "row": 19,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "50",
+        "AP": "22",
+        "PP": "5",
+        "SP": "20%",
+        "VP": "10",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 15,
@@ -317,12 +443,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "",
       "stats": {
-        "DP": "50",
-        "AP": "22",
-        "PP": "5",
-        "SP": "20%",
-        "VP": "10",
-        "MP": "3"
+        "DP": 50,
+        "AP": 22,
+        "PP": 5,
+        "SP": 20,
+        "VP": 10,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_014_image_0.png",
@@ -330,7 +456,16 @@ window.TAMER_DATA={
       ],
       "row": 20,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "50",
+        "AP": "22",
+        "PP": "5",
+        "SP": "20%",
+        "VP": "10",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 16,
@@ -339,12 +474,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "擊敗悟空獸加入/隱藏關卡D",
       "stats": {
-        "DP": "180",
-        "AP": "38",
-        "PP": "10",
-        "SP": "45%",
-        "VP": "10",
-        "MP": "5"
+        "DP": 180,
+        "AP": 38,
+        "PP": 10,
+        "SP": 45,
+        "VP": 10,
+        "MP": 5
       },
       "sprites": [
         "assets/sprites/normal/normal_015_image_0.png",
@@ -352,7 +487,16 @@ window.TAMER_DATA={
       ],
       "row": 21,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "180",
+        "AP": "38",
+        "PP": "10",
+        "SP": "45%",
+        "VP": "10",
+        "MP": "5"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 17,
@@ -361,12 +505,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "",
       "stats": {
-        "DP": "150",
-        "AP": "30",
-        "PP": "7",
-        "SP": "10%",
-        "VP": "24",
-        "MP": "3"
+        "DP": 150,
+        "AP": 30,
+        "PP": 7,
+        "SP": 10,
+        "VP": 24,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_016_image_0.png",
@@ -374,7 +518,16 @@ window.TAMER_DATA={
       ],
       "row": 22,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "150",
+        "AP": "30",
+        "PP": "7",
+        "SP": "10%",
+        "VP": "24",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 18,
@@ -383,12 +536,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "",
       "stats": {
-        "DP": "200",
-        "AP": "42",
-        "PP": "8",
-        "SP": "5%",
-        "VP": "24",
-        "MP": "3"
+        "DP": 200,
+        "AP": 42,
+        "PP": 8,
+        "SP": 5,
+        "VP": 46,
+        "MP": 4
       },
       "sprites": [
         "assets/sprites/normal/normal_017_image_0.png",
@@ -396,7 +549,16 @@ window.TAMER_DATA={
       ],
       "row": 23,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "200",
+        "AP": "42",
+        "PP": "8",
+        "SP": "5%",
+        "VP": "24",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 19,
@@ -405,12 +567,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "",
       "stats": {
-        "DP": "230",
-        "AP": "42",
-        "PP": "10",
-        "SP": "5%",
-        "VP": "46",
-        "MP": "2"
+        "DP": 230,
+        "AP": 42,
+        "PP": 10,
+        "SP": 5,
+        "VP": 46,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_018_image_0.png",
@@ -418,7 +580,16 @@ window.TAMER_DATA={
       ],
       "row": 24,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "230",
+        "AP": "42",
+        "PP": "10",
+        "SP": "5%",
+        "VP": "46",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 20,
@@ -427,12 +598,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "千年第6關",
       "stats": {
-        "DP": "230",
-        "AP": "42",
-        "PP": "10",
-        "SP": "5%",
-        "VP": "46",
-        "MP": "2"
+        "DP": 230,
+        "AP": 42,
+        "PP": 10,
+        "SP": 5,
+        "VP": 46,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_019_image_0.png",
@@ -440,7 +611,16 @@ window.TAMER_DATA={
       ],
       "row": 25,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "230",
+        "AP": "42",
+        "PP": "10",
+        "SP": "5%",
+        "VP": "46",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 21,
@@ -449,12 +629,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "",
       "stats": {
-        "DP": "230",
-        "AP": "34",
-        "PP": "10",
-        "SP": "5%",
-        "VP": "46",
-        "MP": "2"
+        "DP": 230,
+        "AP": 34,
+        "PP": 10,
+        "SP": 5,
+        "VP": 46,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_020_image_0.png",
@@ -462,7 +642,16 @@ window.TAMER_DATA={
       ],
       "row": 26,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "230",
+        "AP": "34",
+        "PP": "10",
+        "SP": "5%",
+        "VP": "46",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 22,
@@ -471,12 +660,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "",
       "stats": {
-        "DP": "230",
-        "AP": "42",
-        "PP": "10",
-        "SP": "5%",
-        "VP": "46",
-        "MP": "2"
+        "DP": 230,
+        "AP": 42,
+        "PP": 10,
+        "SP": 5,
+        "VP": 46,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_021_image_0.png",
@@ -484,7 +673,16 @@ window.TAMER_DATA={
       ],
       "row": 27,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "230",
+        "AP": "42",
+        "PP": "10",
+        "SP": "5%",
+        "VP": "46",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 23,
@@ -493,12 +691,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "以鼻涕獸通訊交換",
       "stats": {
-        "DP": "230",
-        "AP": "42",
-        "PP": "10",
-        "SP": "5%",
-        "VP": "46",
-        "MP": "2"
+        "DP": 230,
+        "AP": 42,
+        "PP": 10,
+        "SP": 5,
+        "VP": 46,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_022_image_0.png",
@@ -506,7 +704,16 @@ window.TAMER_DATA={
       ],
       "row": 28,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "230",
+        "AP": "42",
+        "PP": "10",
+        "SP": "5%",
+        "VP": "46",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 24,
@@ -515,12 +722,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "千年第7關/隱藏關卡C",
       "stats": {
-        "DP": "290",
-        "AP": "50",
-        "PP": "14",
-        "SP": "5%",
-        "VP": "70",
-        "MP": "3"
+        "DP": 290,
+        "AP": 50,
+        "PP": 14,
+        "SP": 5,
+        "VP": 70,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_023_image_0.png",
@@ -528,7 +735,16 @@ window.TAMER_DATA={
       ],
       "row": 29,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "290",
+        "AP": "50",
+        "PP": "14",
+        "SP": "5%",
+        "VP": "70",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 25,
@@ -537,12 +753,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "",
       "stats": {
-        "DP": "40",
-        "AP": "22",
-        "PP": "3",
-        "SP": "20%",
-        "VP": "10",
-        "MP": "5"
+        "DP": 40,
+        "AP": 22,
+        "PP": 3,
+        "SP": 20,
+        "VP": 10,
+        "MP": 5
       },
       "sprites": [
         "assets/sprites/normal/normal_024_image_0.png",
@@ -550,7 +766,16 @@ window.TAMER_DATA={
       ],
       "row": 30,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "40",
+        "AP": "22",
+        "PP": "3",
+        "SP": "20%",
+        "VP": "10",
+        "MP": "5"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 26,
@@ -559,12 +784,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "",
       "stats": {
-        "DP": "50",
-        "AP": "22",
-        "PP": "5",
-        "SP": "20%",
-        "VP": "10",
-        "MP": "3"
+        "DP": 50,
+        "AP": 22,
+        "PP": 5,
+        "SP": 20,
+        "VP": 10,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_025_image_0.png",
@@ -572,7 +797,16 @@ window.TAMER_DATA={
       ],
       "row": 31,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "50",
+        "AP": "22",
+        "PP": "5",
+        "SP": "20%",
+        "VP": "10",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 27,
@@ -581,12 +815,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "打敗惡魔獸後加入/隱藏關卡D",
       "stats": {
-        "DP": "195",
-        "AP": "42",
-        "PP": "10",
-        "SP": "20%",
-        "VP": "24",
-        "MP": "3"
+        "DP": 195,
+        "AP": 42,
+        "PP": 10,
+        "SP": 20,
+        "VP": 24,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_026_image_0.png",
@@ -594,7 +828,16 @@ window.TAMER_DATA={
       ],
       "row": 32,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "195",
+        "AP": "42",
+        "PP": "10",
+        "SP": "20%",
+        "VP": "24",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 28,
@@ -603,12 +846,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "",
       "stats": {
-        "DP": "230",
-        "AP": "42",
-        "PP": "10",
-        "SP": "5%",
-        "VP": "46",
-        "MP": "2"
+        "DP": 230,
+        "AP": 42,
+        "PP": 10,
+        "SP": 5,
+        "VP": 46,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_027_image_0.png",
@@ -616,7 +859,16 @@ window.TAMER_DATA={
       ],
       "row": 33,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "230",
+        "AP": "42",
+        "PP": "10",
+        "SP": "5%",
+        "VP": "46",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 29,
@@ -625,12 +877,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "無限山第二關",
       "stats": {
-        "DP": "230",
-        "AP": "42",
-        "PP": "10",
-        "SP": "5%",
-        "VP": "46",
-        "MP": "2"
+        "DP": 230,
+        "AP": 42,
+        "PP": 10,
+        "SP": 5,
+        "VP": 46,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_028_image_0.png",
@@ -638,7 +890,16 @@ window.TAMER_DATA={
       ],
       "row": 34,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "230",
+        "AP": "42",
+        "PP": "10",
+        "SP": "5%",
+        "VP": "46",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 30,
@@ -647,12 +908,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "",
       "stats": {
-        "DP": "230",
-        "AP": "42",
-        "PP": "10",
-        "SP": "5%",
-        "VP": "46",
-        "MP": "2"
+        "DP": 230,
+        "AP": 42,
+        "PP": 10,
+        "SP": 5,
+        "VP": 46,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_029_image_0.png",
@@ -660,7 +921,16 @@ window.TAMER_DATA={
       ],
       "row": 35,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "230",
+        "AP": "42",
+        "PP": "10",
+        "SP": "5%",
+        "VP": "46",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 31,
@@ -669,12 +939,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "",
       "stats": {
-        "DP": "230",
-        "AP": "42",
-        "PP": "10",
-        "SP": "5%",
-        "VP": "46",
-        "MP": "2"
+        "DP": 230,
+        "AP": 42,
+        "PP": 10,
+        "SP": 5,
+        "VP": 46,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_030_image_0.png",
@@ -682,7 +952,16 @@ window.TAMER_DATA={
       ],
       "row": 36,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "230",
+        "AP": "42",
+        "PP": "10",
+        "SP": "5%",
+        "VP": "46",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 32,
@@ -691,12 +970,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "",
       "stats": {
-        "DP": "50",
-        "AP": "22",
-        "PP": "5",
-        "SP": "20%",
-        "VP": "10",
-        "MP": "3"
+        "DP": 50,
+        "AP": 22,
+        "PP": 5,
+        "SP": 20,
+        "VP": 10,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_031_image_0.png",
@@ -704,7 +983,16 @@ window.TAMER_DATA={
       ],
       "row": 37,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "50",
+        "AP": "22",
+        "PP": "5",
+        "SP": "20%",
+        "VP": "10",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 33,
@@ -713,12 +1001,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "",
       "stats": {
-        "DP": "40",
-        "AP": "22",
-        "PP": "3",
-        "SP": "20%",
-        "VP": "10",
-        "MP": "5"
+        "DP": 40,
+        "AP": 22,
+        "PP": 3,
+        "SP": 20,
+        "VP": 10,
+        "MP": 5
       },
       "sprites": [
         "assets/sprites/normal/normal_032_image_0.png",
@@ -726,7 +1014,16 @@ window.TAMER_DATA={
       ],
       "row": 38,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "40",
+        "AP": "22",
+        "PP": "3",
+        "SP": "20%",
+        "VP": "10",
+        "MP": "5"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 34,
@@ -735,12 +1032,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "千年第7關",
       "stats": {
-        "DP": "150",
-        "AP": "30",
-        "PP": "7",
-        "SP": "10%",
-        "VP": "24",
-        "MP": "3"
+        "DP": 150,
+        "AP": 30,
+        "PP": 7,
+        "SP": 10,
+        "VP": 24,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_033_image_0.png",
@@ -748,7 +1045,16 @@ window.TAMER_DATA={
       ],
       "row": 39,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "150",
+        "AP": "30",
+        "PP": "7",
+        "SP": "10%",
+        "VP": "24",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 35,
@@ -757,12 +1063,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "",
       "stats": {
-        "DP": "150",
-        "AP": "24",
-        "PP": "7",
-        "SP": "10%",
-        "VP": "24",
-        "MP": "3"
+        "DP": 150,
+        "AP": 24,
+        "PP": 7,
+        "SP": 10,
+        "VP": 24,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_034_image_0.png",
@@ -770,7 +1076,16 @@ window.TAMER_DATA={
       ],
       "row": 40,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "150",
+        "AP": "24",
+        "PP": "7",
+        "SP": "10%",
+        "VP": "24",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 36,
@@ -779,12 +1094,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "",
       "stats": {
-        "DP": "230",
-        "AP": "42",
-        "PP": "10",
-        "SP": "5%",
-        "VP": "46",
-        "MP": "2"
+        "DP": 230,
+        "AP": 42,
+        "PP": 10,
+        "SP": 5,
+        "VP": 46,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_035_image_0.png",
@@ -792,7 +1107,16 @@ window.TAMER_DATA={
       ],
       "row": 41,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "230",
+        "AP": "42",
+        "PP": "10",
+        "SP": "5%",
+        "VP": "46",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 37,
@@ -801,12 +1125,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "",
       "stats": {
-        "DP": "230",
-        "AP": "42",
-        "PP": "10",
-        "SP": "5%",
-        "VP": "46",
-        "MP": "2"
+        "DP": 230,
+        "AP": 42,
+        "PP": 10,
+        "SP": 5,
+        "VP": 46,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_036_image_0.png",
@@ -814,7 +1138,16 @@ window.TAMER_DATA={
       ],
       "row": 42,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "230",
+        "AP": "42",
+        "PP": "10",
+        "SP": "5%",
+        "VP": "46",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 38,
@@ -823,12 +1156,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "",
       "stats": {
-        "DP": "200",
-        "AP": "42",
-        "PP": "8",
-        "SP": "5%",
-        "VP": "46",
-        "MP": "4"
+        "DP": 200,
+        "AP": 42,
+        "PP": 8,
+        "SP": 5,
+        "VP": 46,
+        "MP": 4
       },
       "sprites": [
         "assets/sprites/normal/normal_037_image_0.png",
@@ -836,7 +1169,16 @@ window.TAMER_DATA={
       ],
       "row": 43,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "200",
+        "AP": "42",
+        "PP": "8",
+        "SP": "5%",
+        "VP": "46",
+        "MP": "4"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 39,
@@ -845,12 +1187,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "",
       "stats": {
-        "DP": "230",
-        "AP": "42",
-        "PP": "10",
-        "SP": "5%",
-        "VP": "46",
-        "MP": "2"
+        "DP": 230,
+        "AP": 42,
+        "PP": 10,
+        "SP": 5,
+        "VP": 46,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_038_image_0.png",
@@ -858,7 +1200,16 @@ window.TAMER_DATA={
       ],
       "row": 44,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "230",
+        "AP": "42",
+        "PP": "10",
+        "SP": "5%",
+        "VP": "46",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 40,
@@ -867,12 +1218,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "",
       "stats": {
-        "DP": "200",
-        "AP": "42",
-        "PP": "8",
-        "SP": "5%",
-        "VP": "46",
-        "MP": "4"
+        "DP": 200,
+        "AP": 42,
+        "PP": 8,
+        "SP": 5,
+        "VP": 46,
+        "MP": 4
       },
       "sprites": [
         "assets/sprites/normal/normal_039_image_0.png",
@@ -880,7 +1231,16 @@ window.TAMER_DATA={
       ],
       "row": 45,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "200",
+        "AP": "42",
+        "PP": "8",
+        "SP": "5%",
+        "VP": "46",
+        "MP": "4"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 41,
@@ -889,12 +1249,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "",
       "stats": {
-        "DP": "230",
-        "AP": "42",
-        "PP": "10",
-        "SP": "5%",
-        "VP": "46",
-        "MP": "2"
+        "DP": 230,
+        "AP": 42,
+        "PP": 10,
+        "SP": 5,
+        "VP": 46,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_040_image_0.png",
@@ -902,7 +1262,16 @@ window.TAMER_DATA={
       ],
       "row": 46,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "230",
+        "AP": "42",
+        "PP": "10",
+        "SP": "5%",
+        "VP": "46",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 42,
@@ -911,12 +1280,12 @@ window.TAMER_DATA={
       "category": "元祖1-5代",
       "location": "",
       "stats": {
-        "DP": "230",
-        "AP": "42",
-        "PP": "10",
-        "SP": "5%",
-        "VP": "46",
-        "MP": "2"
+        "DP": 230,
+        "AP": 42,
+        "PP": 10,
+        "SP": 5,
+        "VP": 46,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_041_image_0.png",
@@ -924,7 +1293,16 @@ window.TAMER_DATA={
       ],
       "row": 47,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "230",
+        "AP": "42",
+        "PP": "10",
+        "SP": "5%",
+        "VP": "46",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 43,
@@ -933,12 +1311,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "",
       "stats": {
-        "DP": "60",
-        "AP": "24",
-        "PP": "6",
-        "SP": "20%",
-        "VP": "15",
-        "MP": "3"
+        "DP": 60,
+        "AP": 24,
+        "PP": 6,
+        "SP": 20,
+        "VP": 15,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_042_image_0.png",
@@ -946,7 +1324,16 @@ window.TAMER_DATA={
       ],
       "row": 49,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "60",
+        "AP": "24",
+        "PP": "6",
+        "SP": "20%",
+        "VP": "15",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 44,
@@ -955,12 +1342,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "",
       "stats": {
-        "DP": "60",
-        "AP": "24",
-        "PP": "6",
-        "SP": "20%",
-        "VP": "15",
-        "MP": "3"
+        "DP": 60,
+        "AP": 24,
+        "PP": 6,
+        "SP": 20,
+        "VP": 15,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_043_image_0.png",
@@ -968,7 +1355,16 @@ window.TAMER_DATA={
       ],
       "row": 50,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "60",
+        "AP": "24",
+        "PP": "6",
+        "SP": "20%",
+        "VP": "15",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 45,
@@ -977,12 +1373,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "打敗惡魔獸後加入/隱藏關卡D",
       "stats": {
-        "DP": "175",
-        "AP": "42",
-        "PP": "10",
-        "SP": "40%",
-        "VP": "30",
-        "MP": "5"
+        "DP": 175,
+        "AP": 42,
+        "PP": 10,
+        "SP": 40,
+        "VP": 30,
+        "MP": 5
       },
       "sprites": [
         "assets/sprites/normal/normal_044_image_0.png",
@@ -990,7 +1386,16 @@ window.TAMER_DATA={
       ],
       "row": 51,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "175",
+        "AP": "42",
+        "PP": "10",
+        "SP": "40%",
+        "VP": "30",
+        "MP": "5"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 46,
@@ -999,12 +1404,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "千年第1關",
       "stats": {
-        "DP": "160",
-        "AP": "32",
-        "PP": "8",
-        "SP": "10%",
-        "VP": "30",
-        "MP": "3"
+        "DP": 160,
+        "AP": 32,
+        "PP": 8,
+        "SP": 10,
+        "VP": 30,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_045_image_0.png",
@@ -1012,7 +1417,16 @@ window.TAMER_DATA={
       ],
       "row": 52,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "160",
+        "AP": "32",
+        "PP": "8",
+        "SP": "10%",
+        "VP": "30",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 47,
@@ -1021,12 +1435,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "四天王區右屋第1關",
       "stats": {
-        "DP": "160",
-        "AP": "24",
-        "PP": "8",
-        "SP": "10%",
-        "VP": "30",
-        "MP": "3"
+        "DP": 160,
+        "AP": 24,
+        "PP": 8,
+        "SP": 10,
+        "VP": 30,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_046_image_0.png",
@@ -1034,7 +1448,16 @@ window.TAMER_DATA={
       ],
       "row": 53,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "160",
+        "AP": "24",
+        "PP": "8",
+        "SP": "10%",
+        "VP": "30",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 48,
@@ -1043,12 +1466,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "",
       "stats": {
-        "DP": "240",
-        "AP": "44",
-        "PP": "12",
-        "SP": "5%",
-        "VP": "52",
-        "MP": "2"
+        "DP": 240,
+        "AP": 44,
+        "PP": 12,
+        "SP": 5,
+        "VP": 52,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_047_image_0.png",
@@ -1056,7 +1479,16 @@ window.TAMER_DATA={
       ],
       "row": 54,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "240",
+        "AP": "44",
+        "PP": "12",
+        "SP": "5%",
+        "VP": "52",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 49,
@@ -1065,12 +1497,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "四天王區左屋第1關",
       "stats": {
-        "DP": "240",
-        "AP": "44",
-        "PP": "12",
-        "SP": "5%",
-        "VP": "52",
-        "MP": "2"
+        "DP": 240,
+        "AP": 44,
+        "PP": 12,
+        "SP": 5,
+        "VP": 52,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_048_image_0.png",
@@ -1078,7 +1510,16 @@ window.TAMER_DATA={
       ],
       "row": 55,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "240",
+        "AP": "44",
+        "PP": "12",
+        "SP": "5%",
+        "VP": "52",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 50,
@@ -1087,12 +1528,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "千年第2關",
       "stats": {
-        "DP": "240",
-        "AP": "44",
-        "PP": "12",
-        "SP": "5%",
-        "VP": "52",
-        "MP": "2"
+        "DP": 240,
+        "AP": 44,
+        "PP": 12,
+        "SP": 5,
+        "VP": 52,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_049_image_0.png",
@@ -1100,7 +1541,16 @@ window.TAMER_DATA={
       ],
       "row": 56,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "240",
+        "AP": "44",
+        "PP": "12",
+        "SP": "5%",
+        "VP": "52",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 51,
@@ -1109,12 +1559,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "四天王區右屋第1關",
       "stats": {
-        "DP": "200",
-        "AP": "44",
-        "PP": "10",
-        "SP": "5%",
-        "VP": "52",
-        "MP": "4"
+        "DP": 200,
+        "AP": 44,
+        "PP": 10,
+        "SP": 5,
+        "VP": 52,
+        "MP": 4
       },
       "sprites": [
         "assets/sprites/normal/normal_050_image_0.png",
@@ -1122,7 +1572,16 @@ window.TAMER_DATA={
       ],
       "row": 57,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "200",
+        "AP": "44",
+        "PP": "10",
+        "SP": "5%",
+        "VP": "52",
+        "MP": "4"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 52,
@@ -1131,12 +1590,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "以蝌蚪獸通訊交換",
       "stats": {
-        "DP": "240",
-        "AP": "36",
-        "PP": "12",
-        "SP": "5%",
-        "VP": "52",
-        "MP": "2"
+        "DP": 240,
+        "AP": 36,
+        "PP": 12,
+        "SP": 5,
+        "VP": 52,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_051_image_0.png",
@@ -1144,7 +1603,16 @@ window.TAMER_DATA={
       ],
       "row": 58,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "240",
+        "AP": "36",
+        "PP": "12",
+        "SP": "5%",
+        "VP": "52",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 53,
@@ -1153,12 +1621,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "",
       "stats": {
-        "DP": "60",
-        "AP": "24",
-        "PP": "6",
-        "SP": "20%",
-        "VP": "15",
-        "MP": "3"
+        "DP": 60,
+        "AP": 24,
+        "PP": 6,
+        "SP": 20,
+        "VP": 15,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_052_image_0.png",
@@ -1166,7 +1634,16 @@ window.TAMER_DATA={
       ],
       "row": 59,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "60",
+        "AP": "24",
+        "PP": "6",
+        "SP": "20%",
+        "VP": "15",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 54,
@@ -1175,12 +1652,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "",
       "stats": {
-        "DP": "60",
-        "AP": "24",
-        "PP": "6",
-        "SP": "20%",
-        "VP": "15",
-        "MP": "3"
+        "DP": 60,
+        "AP": 24,
+        "PP": 6,
+        "SP": 20,
+        "VP": 15,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_053_image_0.png",
@@ -1188,7 +1665,16 @@ window.TAMER_DATA={
       ],
       "row": 60,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "60",
+        "AP": "24",
+        "PP": "6",
+        "SP": "20%",
+        "VP": "15",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 55,
@@ -1197,12 +1683,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "擊敗吸血魔獸加入/隱藏關卡D",
       "stats": {
-        "DP": "210",
-        "AP": "36",
-        "PP": "12",
-        "SP": "10%",
-        "VP": "30",
-        "MP": "3"
+        "DP": 210,
+        "AP": 36,
+        "PP": 12,
+        "SP": 10,
+        "VP": 30,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_054_image_0.png",
@@ -1210,7 +1696,16 @@ window.TAMER_DATA={
       ],
       "row": 61,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "210",
+        "AP": "36",
+        "PP": "12",
+        "SP": "10%",
+        "VP": "30",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 56,
@@ -1219,12 +1714,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "吸血魔區左屋第1關",
       "stats": {
-        "DP": "60",
-        "AP": "26",
-        "PP": "8",
-        "SP": "10%",
-        "VP": "30",
-        "MP": "3"
+        "DP": 160,
+        "AP": 26,
+        "PP": 8,
+        "SP": 10,
+        "VP": 30,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_055_image_0.png",
@@ -1232,7 +1727,16 @@ window.TAMER_DATA={
       ],
       "row": 62,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "60",
+        "AP": "26",
+        "PP": "8",
+        "SP": "10%",
+        "VP": "30",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 57,
@@ -1241,12 +1745,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "吸血魔區左屋第2關",
       "stats": {
-        "DP": "160",
-        "AP": "26",
-        "PP": "8",
-        "SP": "10%",
-        "VP": "30",
-        "MP": "3"
+        "DP": 160,
+        "AP": 26,
+        "PP": 8,
+        "SP": 10,
+        "VP": 30,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_056_image_0.png",
@@ -1254,7 +1758,16 @@ window.TAMER_DATA={
       ],
       "row": 63,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "160",
+        "AP": "26",
+        "PP": "8",
+        "SP": "10%",
+        "VP": "30",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 58,
@@ -1263,12 +1776,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "四天王區左屋第2關",
       "stats": {
-        "DP": "240",
-        "AP": "34",
-        "PP": "12",
-        "SP": "5%",
-        "VP": "52",
-        "MP": "2"
+        "DP": 240,
+        "AP": 34,
+        "PP": 12,
+        "SP": 5,
+        "VP": 52,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_057_image_0.png",
@@ -1276,7 +1789,16 @@ window.TAMER_DATA={
       ],
       "row": 64,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "240",
+        "AP": "34",
+        "PP": "12",
+        "SP": "5%",
+        "VP": "52",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 59,
@@ -1285,12 +1807,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "",
       "stats": {
-        "DP": "240",
-        "AP": "34",
-        "PP": "12",
-        "SP": "5%",
-        "VP": "52",
-        "MP": "2"
+        "DP": 240,
+        "AP": 34,
+        "PP": 12,
+        "SP": 5,
+        "VP": 52,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_058_image_0.png",
@@ -1298,7 +1820,16 @@ window.TAMER_DATA={
       ],
       "row": 65,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "240",
+        "AP": "34",
+        "PP": "12",
+        "SP": "5%",
+        "VP": "52",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 60,
@@ -1307,12 +1838,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "",
       "stats": {
-        "DP": "240",
-        "AP": "34",
-        "PP": "12",
-        "SP": "5%",
-        "VP": "52",
-        "MP": "2"
+        "DP": 240,
+        "AP": 34,
+        "PP": 12,
+        "SP": 5,
+        "VP": 52,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_059_image_0.png",
@@ -1320,7 +1851,16 @@ window.TAMER_DATA={
       ],
       "row": 66,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "240",
+        "AP": "34",
+        "PP": "12",
+        "SP": "5%",
+        "VP": "52",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 61,
@@ -1329,12 +1869,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "",
       "stats": {
-        "DP": "240",
-        "AP": "34",
-        "PP": "10",
-        "SP": "5%",
-        "VP": "52",
-        "MP": "2"
+        "DP": 240,
+        "AP": 34,
+        "PP": 12,
+        "SP": 5,
+        "VP": 52,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_060_image_0.png",
@@ -1342,7 +1882,16 @@ window.TAMER_DATA={
       ],
       "row": 67,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "240",
+        "AP": "34",
+        "PP": "10",
+        "SP": "5%",
+        "VP": "52",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 62,
@@ -1351,12 +1900,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "吸血魔區左屋第2關",
       "stats": {
-        "DP": "240",
-        "AP": "34",
-        "PP": "12",
-        "SP": "5%",
-        "VP": "52",
-        "MP": "2"
+        "DP": 240,
+        "AP": 34,
+        "PP": 12,
+        "SP": 5,
+        "VP": 52,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_061_image_0.png",
@@ -1364,7 +1913,16 @@ window.TAMER_DATA={
       ],
       "row": 68,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "240",
+        "AP": "34",
+        "PP": "12",
+        "SP": "5%",
+        "VP": "52",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 63,
@@ -1373,12 +1931,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "吸血魔區左屋第4關",
       "stats": {
-        "DP": "50",
-        "AP": "24",
-        "PP": "4",
-        "SP": "20%",
-        "VP": "15",
-        "MP": "5"
+        "DP": 50,
+        "AP": 24,
+        "PP": 4,
+        "SP": 20,
+        "VP": 15,
+        "MP": 5
       },
       "sprites": [
         "assets/sprites/normal/normal_062_image_0.png",
@@ -1386,7 +1944,16 @@ window.TAMER_DATA={
       ],
       "row": 69,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "50",
+        "AP": "24",
+        "PP": "4",
+        "SP": "20%",
+        "VP": "15",
+        "MP": "5"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 64,
@@ -1395,12 +1962,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "吸血魔區左屋第3關",
       "stats": {
-        "DP": "50",
-        "AP": "24",
-        "PP": "4",
-        "SP": "20%",
-        "VP": "15",
-        "MP": "5"
+        "DP": 50,
+        "AP": 24,
+        "PP": 4,
+        "SP": 20,
+        "VP": 15,
+        "MP": 5
       },
       "sprites": [
         "assets/sprites/normal/normal_063_image_0.png",
@@ -1408,7 +1975,16 @@ window.TAMER_DATA={
       ],
       "row": 70,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "50",
+        "AP": "24",
+        "PP": "4",
+        "SP": "20%",
+        "VP": "15",
+        "MP": "5"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 65,
@@ -1417,12 +1993,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "吸血魔區左屋第3關",
       "stats": {
-        "DP": "160",
-        "AP": "32",
-        "PP": "8",
-        "SP": "10%",
-        "VP": "30",
-        "MP": "3"
+        "DP": 160,
+        "AP": 32,
+        "PP": 8,
+        "SP": 10,
+        "VP": 30,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_064_image_0.png",
@@ -1430,7 +2006,16 @@ window.TAMER_DATA={
       ],
       "row": 71,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "160",
+        "AP": "32",
+        "PP": "8",
+        "SP": "10%",
+        "VP": "30",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 66,
@@ -1439,12 +2024,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "千年第4關",
       "stats": {
-        "DP": "140",
-        "AP": "32",
-        "PP": "6",
-        "SP": "10%",
-        "VP": "30",
-        "MP": "5"
+        "DP": 140,
+        "AP": 32,
+        "PP": 6,
+        "SP": 10,
+        "VP": 30,
+        "MP": 5
       },
       "sprites": [
         "assets/sprites/normal/normal_065_image_0.png",
@@ -1452,7 +2037,16 @@ window.TAMER_DATA={
       ],
       "row": 72,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "140",
+        "AP": "32",
+        "PP": "6",
+        "SP": "10%",
+        "VP": "30",
+        "MP": "5"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 67,
@@ -1461,12 +2055,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "千年第8關",
       "stats": {
-        "DP": "140",
-        "AP": "32",
-        "PP": "6",
-        "SP": "10%",
-        "VP": "30",
-        "MP": "5"
+        "DP": 140,
+        "AP": 32,
+        "PP": 6,
+        "SP": 10,
+        "VP": 30,
+        "MP": 5
       },
       "sprites": [
         "assets/sprites/normal/normal_066_image_0.png",
@@ -1474,7 +2068,16 @@ window.TAMER_DATA={
       ],
       "row": 73,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "140",
+        "AP": "32",
+        "PP": "6",
+        "SP": "10%",
+        "VP": "30",
+        "MP": "5"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 68,
@@ -1483,12 +2086,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "吸血魔區右屋第4關",
       "stats": {
-        "DP": "240",
-        "AP": "44",
-        "PP": "12",
-        "SP": "5%",
-        "VP": "52",
-        "MP": "2"
+        "DP": 240,
+        "AP": 44,
+        "PP": 12,
+        "SP": 5,
+        "VP": 52,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_067_image_0.png",
@@ -1496,7 +2099,16 @@ window.TAMER_DATA={
       ],
       "row": 74,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "240",
+        "AP": "44",
+        "PP": "12",
+        "SP": "5%",
+        "VP": "52",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 69,
@@ -1505,12 +2117,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "吸血魔區左屋第3關",
       "stats": {
-        "DP": "240",
-        "AP": "44",
-        "PP": "12",
-        "SP": "5%",
-        "VP": "52",
-        "MP": "2"
+        "DP": 240,
+        "AP": 44,
+        "PP": 12,
+        "SP": 5,
+        "VP": 52,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_068_image_0.png",
@@ -1518,7 +2130,16 @@ window.TAMER_DATA={
       ],
       "row": 75,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "240",
+        "AP": "44",
+        "PP": "12",
+        "SP": "5%",
+        "VP": "52",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 70,
@@ -1527,12 +2148,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "吸血魔區右屋第2關",
       "stats": {
-        "DP": "200",
-        "AP": "44",
-        "PP": "10",
-        "SP": "5%",
-        "VP": "52",
-        "MP": "4"
+        "DP": 200,
+        "AP": 44,
+        "PP": 10,
+        "SP": 5,
+        "VP": 52,
+        "MP": 4
       },
       "sprites": [
         "assets/sprites/normal/normal_069_image_0.png",
@@ -1540,7 +2161,16 @@ window.TAMER_DATA={
       ],
       "row": 76,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "200",
+        "AP": "44",
+        "PP": "10",
+        "SP": "5%",
+        "VP": "52",
+        "MP": "4"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 71,
@@ -1549,12 +2179,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "千年第6關/隱藏關卡C",
       "stats": {
-        "DP": "240",
-        "AP": "48",
-        "PP": "14",
-        "SP": "5%",
-        "VP": "75",
-        "MP": "4"
+        "DP": 240,
+        "AP": 48,
+        "PP": 14,
+        "SP": 5,
+        "VP": 75,
+        "MP": 4
       },
       "sprites": [
         "assets/sprites/normal/normal_070_image_0.png",
@@ -1562,7 +2192,16 @@ window.TAMER_DATA={
       ],
       "row": 77,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "240",
+        "AP": "48",
+        "PP": "14",
+        "SP": "5%",
+        "VP": "75",
+        "MP": "4"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 72,
@@ -1571,12 +2210,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "千年第3關",
       "stats": {
-        "DP": "200",
-        "AP": "44",
-        "PP": "10",
-        "SP": "5%",
-        "VP": "52",
-        "MP": "4"
+        "DP": 200,
+        "AP": 44,
+        "PP": 10,
+        "SP": 5,
+        "VP": 52,
+        "MP": 4
       },
       "sprites": [
         "assets/sprites/normal/normal_071_image_0.png",
@@ -1584,7 +2223,16 @@ window.TAMER_DATA={
       ],
       "row": 78,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "200",
+        "AP": "44",
+        "PP": "10",
+        "SP": "5%",
+        "VP": "52",
+        "MP": "4"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 73,
@@ -1593,12 +2241,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "千年第8關/隱藏關卡C",
       "stats": {
-        "DP": "250",
-        "AP": "57",
-        "PP": "18",
-        "SP": "12%",
-        "VP": "84",
-        "MP": "5"
+        "DP": 250,
+        "AP": 57,
+        "PP": 18,
+        "SP": 12,
+        "VP": 84,
+        "MP": 5
       },
       "sprites": [
         "assets/sprites/normal/normal_072_image_0.png",
@@ -1606,7 +2254,16 @@ window.TAMER_DATA={
       ],
       "row": 79,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "250",
+        "AP": "57",
+        "PP": "18",
+        "SP": "12%",
+        "VP": "84",
+        "MP": "5"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 74,
@@ -1615,12 +2272,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "千年第9關/隱藏關卡C",
       "stats": {
-        "DP": "310",
-        "AP": "62",
-        "PP": "24",
-        "SP": "12%",
-        "VP": "96",
-        "MP": "3"
+        "DP": 310,
+        "AP": 62,
+        "PP": 24,
+        "SP": 12,
+        "VP": 96,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_073_image_0.png",
@@ -1628,7 +2285,16 @@ window.TAMER_DATA={
       ],
       "row": 80,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "310",
+        "AP": "62",
+        "PP": "24",
+        "SP": "12%",
+        "VP": "96",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 75,
@@ -1637,12 +2303,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "",
       "stats": {
-        "DP": "60",
-        "AP": "24",
-        "PP": "6",
-        "SP": "20%",
-        "VP": "15",
-        "MP": "3"
+        "DP": 60,
+        "AP": 24,
+        "PP": 6,
+        "SP": 20,
+        "VP": 15,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_074_image_0.png",
@@ -1650,7 +2316,16 @@ window.TAMER_DATA={
       ],
       "row": 81,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "60",
+        "AP": "24",
+        "PP": "6",
+        "SP": "20%",
+        "VP": "15",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 76,
@@ -1659,12 +2334,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "",
       "stats": {
-        "DP": "60",
-        "AP": "24",
-        "PP": "6",
-        "SP": "20%",
-        "VP": "15",
-        "MP": "3"
+        "DP": 60,
+        "AP": 24,
+        "PP": 6,
+        "SP": 20,
+        "VP": 15,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_075_image_0.png",
@@ -1672,7 +2347,16 @@ window.TAMER_DATA={
       ],
       "row": 82,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "60",
+        "AP": "24",
+        "PP": "6",
+        "SP": "20%",
+        "VP": "15",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 77,
@@ -1681,12 +2365,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "擊敗悟空獸加入/隱藏關卡D",
       "stats": {
-        "DP": "190",
-        "AP": "44",
-        "PP": "10",
-        "SP": "35%",
-        "VP": "30",
-        "MP": "5"
+        "DP": 190,
+        "AP": 44,
+        "PP": 10,
+        "SP": 35,
+        "VP": 30,
+        "MP": 5
       },
       "sprites": [
         "assets/sprites/normal/normal_076_image_0.png",
@@ -1694,7 +2378,16 @@ window.TAMER_DATA={
       ],
       "row": 83,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "190",
+        "AP": "44",
+        "PP": "10",
+        "SP": "35%",
+        "VP": "30",
+        "MP": "5"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 78,
@@ -1703,12 +2396,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "吸血魔區右屋第3關",
       "stats": {
-        "DP": "160",
-        "AP": "32",
-        "PP": "8",
-        "SP": "10%",
-        "VP": "30",
-        "MP": "3"
+        "DP": 160,
+        "AP": 32,
+        "PP": 8,
+        "SP": 10,
+        "VP": 30,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_077_image_0.png",
@@ -1716,7 +2409,16 @@ window.TAMER_DATA={
       ],
       "row": 84,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "160",
+        "AP": "32",
+        "PP": "8",
+        "SP": "10%",
+        "VP": "30",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 79,
@@ -1725,12 +2427,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "",
       "stats": {
-        "DP": "160",
-        "AP": "32",
-        "PP": "8",
-        "SP": "10%",
-        "VP": "30",
-        "MP": "3"
+        "DP": 160,
+        "AP": 32,
+        "PP": 8,
+        "SP": 10,
+        "VP": 30,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_078_image_0.png",
@@ -1738,7 +2440,16 @@ window.TAMER_DATA={
       ],
       "row": 85,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "160",
+        "AP": "32",
+        "PP": "8",
+        "SP": "10%",
+        "VP": "30",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 80,
@@ -1747,12 +2458,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "活動限定-斯路(零丸)",
       "stats": {
-        "DP": "333",
-        "AP": "44",
-        "PP": "12",
-        "SP": "5%",
-        "VP": "52",
-        "MP": "2"
+        "DP": 333,
+        "AP": 44,
+        "PP": 12,
+        "SP": 5,
+        "VP": 52,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_079_image_0.png",
@@ -1760,7 +2471,16 @@ window.TAMER_DATA={
       ],
       "row": 86,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "333",
+        "AP": "44",
+        "PP": "12",
+        "SP": "5%",
+        "VP": "52",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 81,
@@ -1769,12 +2489,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "",
       "stats": {
-        "DP": "240",
-        "AP": "44",
-        "PP": "12",
-        "SP": "5%",
-        "VP": "52",
-        "MP": "2"
+        "DP": 240,
+        "AP": 44,
+        "PP": 12,
+        "SP": 5,
+        "VP": 52,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_080_image_0.png",
@@ -1782,7 +2502,16 @@ window.TAMER_DATA={
       ],
       "row": 87,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "240",
+        "AP": "44",
+        "PP": "12",
+        "SP": "5%",
+        "VP": "52",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 82,
@@ -1791,12 +2520,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "",
       "stats": {
-        "DP": "240",
-        "AP": "44",
-        "PP": "12",
-        "SP": "5%",
-        "VP": "52",
-        "MP": "2"
+        "DP": 240,
+        "AP": 44,
+        "PP": 12,
+        "SP": 5,
+        "VP": 52,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_081_image_0.png",
@@ -1804,7 +2533,16 @@ window.TAMER_DATA={
       ],
       "row": 88,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "240",
+        "AP": "44",
+        "PP": "12",
+        "SP": "5%",
+        "VP": "52",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 83,
@@ -1813,12 +2551,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "吸血魔獸第3關",
       "stats": {
-        "DP": "240",
-        "AP": "44",
-        "PP": "12",
-        "SP": "5%",
-        "VP": "52",
-        "MP": "2"
+        "DP": 240,
+        "AP": 44,
+        "PP": 12,
+        "SP": 5,
+        "VP": 52,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_082_image_0.png",
@@ -1826,7 +2564,16 @@ window.TAMER_DATA={
       ],
       "row": 89,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "240",
+        "AP": "44",
+        "PP": "12",
+        "SP": "5%",
+        "VP": "52",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 84,
@@ -1835,12 +2582,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "吸血魔獸第4關",
       "stats": {
-        "DP": "60",
-        "AP": "24",
-        "PP": "6",
-        "SP": "20%",
-        "VP": "15",
-        "MP": "3"
+        "DP": 60,
+        "AP": 24,
+        "PP": 6,
+        "SP": 20,
+        "VP": 15,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_083_image_0.png",
@@ -1848,7 +2595,16 @@ window.TAMER_DATA={
       ],
       "row": 90,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "60",
+        "AP": "24",
+        "PP": "6",
+        "SP": "20%",
+        "VP": "15",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 85,
@@ -1857,12 +2613,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "吸血魔獸第4關",
       "stats": {
-        "DP": "60",
-        "AP": "24",
-        "PP": "6",
-        "SP": "20%",
-        "VP": "15",
-        "MP": "3"
+        "DP": 60,
+        "AP": 24,
+        "PP": 6,
+        "SP": 20,
+        "VP": 15,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_084_image_0.png",
@@ -1870,7 +2626,16 @@ window.TAMER_DATA={
       ],
       "row": 91,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "60",
+        "AP": "24",
+        "PP": "6",
+        "SP": "20%",
+        "VP": "15",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 86,
@@ -1879,12 +2644,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "",
       "stats": {
-        "DP": "160",
-        "AP": "32",
-        "PP": "8",
-        "SP": "10%",
-        "VP": "30",
-        "MP": "3"
+        "DP": 160,
+        "AP": 32,
+        "PP": 8,
+        "SP": 10,
+        "VP": 30,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_085_image_0.png",
@@ -1892,7 +2657,16 @@ window.TAMER_DATA={
       ],
       "row": 92,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "160",
+        "AP": "32",
+        "PP": "8",
+        "SP": "10%",
+        "VP": "30",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 87,
@@ -1901,12 +2675,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "吸血魔獸尾關",
       "stats": {
-        "DP": "160",
-        "AP": "32",
-        "PP": "8",
-        "SP": "10%",
-        "VP": "30",
-        "MP": "3"
+        "DP": 160,
+        "AP": 32,
+        "PP": 8,
+        "SP": 10,
+        "VP": 30,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_086_image_0.png",
@@ -1914,7 +2688,16 @@ window.TAMER_DATA={
       ],
       "row": 93,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "160",
+        "AP": "32",
+        "PP": "8",
+        "SP": "10%",
+        "VP": "30",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 88,
@@ -1923,12 +2706,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "吸血魔獸第4關",
       "stats": {
-        "DP": "160",
-        "AP": "32",
-        "PP": "8",
-        "SP": "10%",
-        "VP": "30",
-        "MP": "3"
+        "DP": 160,
+        "AP": 32,
+        "PP": 8,
+        "SP": 10,
+        "VP": 30,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_087_image_0.png",
@@ -1936,7 +2719,16 @@ window.TAMER_DATA={
       ],
       "row": 94,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "160",
+        "AP": "32",
+        "PP": "8",
+        "SP": "10%",
+        "VP": "30",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 89,
@@ -1945,12 +2737,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "四天王區左屋第5關",
       "stats": {
-        "DP": "240",
-        "AP": "44",
-        "PP": "12",
-        "SP": "5%",
-        "VP": "52",
-        "MP": "2"
+        "DP": 240,
+        "AP": 44,
+        "PP": 12,
+        "SP": 5,
+        "VP": 52,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_088_image_0.png",
@@ -1958,7 +2750,16 @@ window.TAMER_DATA={
       ],
       "row": 95,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "240",
+        "AP": "44",
+        "PP": "12",
+        "SP": "5%",
+        "VP": "52",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 90,
@@ -1967,12 +2768,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "吸血魔獸第4關",
       "stats": {
-        "DP": "240",
-        "AP": "44",
-        "PP": "12",
-        "SP": "5%",
-        "VP": "52",
-        "MP": "2"
+        "DP": 240,
+        "AP": 44,
+        "PP": 12,
+        "SP": 5,
+        "VP": 52,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_089_image_0.png",
@@ -1980,7 +2781,16 @@ window.TAMER_DATA={
       ],
       "row": 96,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "240",
+        "AP": "44",
+        "PP": "12",
+        "SP": "5%",
+        "VP": "52",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 91,
@@ -1989,12 +2799,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "吸血魔獸尾關",
       "stats": {
-        "DP": "240",
-        "AP": "44",
-        "PP": "12",
-        "SP": "5%",
-        "VP": "52",
-        "MP": "2"
+        "DP": 240,
+        "AP": 44,
+        "PP": 12,
+        "SP": 5,
+        "VP": 52,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_090_image_0.png",
@@ -2002,7 +2812,16 @@ window.TAMER_DATA={
       ],
       "row": 97,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "240",
+        "AP": "44",
+        "PP": "12",
+        "SP": "5%",
+        "VP": "52",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 92,
@@ -2011,12 +2830,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "",
       "stats": {
-        "DP": "240",
-        "AP": "44",
-        "PP": "12",
-        "SP": "5%",
-        "VP": "52",
-        "MP": "2"
+        "DP": 240,
+        "AP": 44,
+        "PP": 12,
+        "SP": 5,
+        "VP": 52,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_091_image_0.png",
@@ -2024,7 +2843,16 @@ window.TAMER_DATA={
       ],
       "row": 98,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "240",
+        "AP": "44",
+        "PP": "12",
+        "SP": "5%",
+        "VP": "52",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 93,
@@ -2033,12 +2861,12 @@ window.TAMER_DATA={
       "category": "超龍1-5代",
       "location": "千年第5關",
       "stats": {
-        "DP": "240",
-        "AP": "44",
-        "PP": "12",
-        "SP": "5%",
-        "VP": "52",
-        "MP": "2"
+        "DP": 240,
+        "AP": 44,
+        "PP": 12,
+        "SP": 5,
+        "VP": 52,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_092_image_0.png",
@@ -2046,7 +2874,16 @@ window.TAMER_DATA={
       ],
       "row": 99,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "240",
+        "AP": "44",
+        "PP": "12",
+        "SP": "5%",
+        "VP": "52",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 94,
@@ -2055,12 +2892,12 @@ window.TAMER_DATA={
       "category": "其他系列(SS/WS系列)",
       "location": "擊敗吸血魔獸加入/隱藏關卡D",
       "stats": {
-        "DP": "285",
-        "AP": "48",
-        "PP": "20",
-        "SP": "20%",
-        "VP": "52",
-        "MP": "3"
+        "DP": 285,
+        "AP": 48,
+        "PP": 20,
+        "SP": 20,
+        "VP": 52,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_093_image_0.png",
@@ -2068,7 +2905,16 @@ window.TAMER_DATA={
       ],
       "row": 101,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "285",
+        "AP": "48",
+        "PP": "20",
+        "SP": "20%",
+        "VP": "52",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 95,
@@ -2077,12 +2923,12 @@ window.TAMER_DATA={
       "category": "其他系列(SS/WS系列)",
       "location": "四天王區左屋第1關",
       "stats": {
-        "DP": "250",
-        "AP": "36",
-        "PP": "12",
-        "SP": "5%",
-        "VP": "58",
-        "MP": "2"
+        "DP": 250,
+        "AP": 36,
+        "PP": 12,
+        "SP": 5,
+        "VP": 58,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_094_image_0.png",
@@ -2090,7 +2936,16 @@ window.TAMER_DATA={
       ],
       "row": 102,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "250",
+        "AP": "36",
+        "PP": "12",
+        "SP": "5%",
+        "VP": "58",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 96,
@@ -2099,12 +2954,12 @@ window.TAMER_DATA={
       "category": "其他系列(SS/WS系列)",
       "location": "四天王區左屋第2關",
       "stats": {
-        "DP": "250",
-        "AP": "44",
-        "PP": "12",
-        "SP": "5%",
-        "VP": "58",
-        "MP": "2"
+        "DP": 250,
+        "AP": 44,
+        "PP": 12,
+        "SP": 5,
+        "VP": 58,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_095_image_0.png",
@@ -2112,7 +2967,16 @@ window.TAMER_DATA={
       ],
       "row": 103,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "250",
+        "AP": "44",
+        "PP": "12",
+        "SP": "5%",
+        "VP": "58",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 97,
@@ -2121,12 +2985,12 @@ window.TAMER_DATA={
       "category": "其他系列(SS/WS系列)",
       "location": "四天王區左屋第3關",
       "stats": {
-        "DP": "250",
-        "AP": "44",
-        "PP": "12",
-        "SP": "5%",
-        "VP": "58",
-        "MP": "2"
+        "DP": 250,
+        "AP": 44,
+        "PP": 12,
+        "SP": 5,
+        "VP": 58,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_096_image_0.png",
@@ -2134,7 +2998,16 @@ window.TAMER_DATA={
       ],
       "row": 104,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "250",
+        "AP": "44",
+        "PP": "12",
+        "SP": "5%",
+        "VP": "58",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 98,
@@ -2143,12 +3016,12 @@ window.TAMER_DATA={
       "category": "其他系列(SS/WS系列)",
       "location": "四天王區左屋第4關",
       "stats": {
-        "DP": "250",
-        "AP": "44",
-        "PP": "12",
-        "SP": "5%",
-        "VP": "58",
-        "MP": "2"
+        "DP": 250,
+        "AP": 44,
+        "PP": 12,
+        "SP": 5,
+        "VP": 58,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_097_image_0.png",
@@ -2156,7 +3029,16 @@ window.TAMER_DATA={
       ],
       "row": 105,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "250",
+        "AP": "44",
+        "PP": "12",
+        "SP": "5%",
+        "VP": "58",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 99,
@@ -2165,12 +3047,12 @@ window.TAMER_DATA={
       "category": "其他系列(SS/WS系列)",
       "location": "四天王區左屋第5關",
       "stats": {
-        "DP": "250",
-        "AP": "44",
-        "PP": "12",
-        "SP": "5%",
-        "VP": "58",
-        "MP": "2"
+        "DP": 250,
+        "AP": 44,
+        "PP": 12,
+        "SP": 5,
+        "VP": 58,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_098_image_0.png",
@@ -2178,7 +3060,16 @@ window.TAMER_DATA={
       ],
       "row": 106,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "250",
+        "AP": "44",
+        "PP": "12",
+        "SP": "5%",
+        "VP": "58",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 100,
@@ -2187,12 +3078,12 @@ window.TAMER_DATA={
       "category": "其他系列(SS/WS系列)",
       "location": "四天王區右屋第2關",
       "stats": {
-        "DP": "260",
-        "AP": "48",
-        "PP": "12",
-        "SP": "5%",
-        "VP": "62",
-        "MP": "2"
+        "DP": 260,
+        "AP": 48,
+        "PP": 12,
+        "SP": 5,
+        "VP": 62,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_099_image_0.png",
@@ -2200,7 +3091,16 @@ window.TAMER_DATA={
       ],
       "row": 107,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "260",
+        "AP": "48",
+        "PP": "12",
+        "SP": "5%",
+        "VP": "62",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 101,
@@ -2209,12 +3109,12 @@ window.TAMER_DATA={
       "category": "其他系列(SS/WS系列)",
       "location": "四天王區右屋第3關",
       "stats": {
-        "DP": "260",
-        "AP": "48",
-        "PP": "12",
-        "SP": "5%",
-        "VP": "62",
-        "MP": "2"
+        "DP": 260,
+        "AP": 48,
+        "PP": 12,
+        "SP": 5,
+        "VP": 62,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_100_image_0.png",
@@ -2222,7 +3122,16 @@ window.TAMER_DATA={
       ],
       "row": 108,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "260",
+        "AP": "48",
+        "PP": "12",
+        "SP": "5%",
+        "VP": "62",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 102,
@@ -2231,12 +3140,12 @@ window.TAMER_DATA={
       "category": "其他系列(SS/WS系列)",
       "location": "四天王區右屋第4關",
       "stats": {
-        "DP": "260",
-        "AP": "48",
-        "PP": "12",
-        "SP": "5%",
-        "VP": "62",
-        "MP": "2"
+        "DP": 260,
+        "AP": 48,
+        "PP": 12,
+        "SP": 5,
+        "VP": 62,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_101_image_0.png",
@@ -2244,7 +3153,16 @@ window.TAMER_DATA={
       ],
       "row": 109,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "260",
+        "AP": "48",
+        "PP": "12",
+        "SP": "5%",
+        "VP": "62",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 103,
@@ -2253,12 +3171,12 @@ window.TAMER_DATA={
       "category": "其他系列(SS/WS系列)",
       "location": "四天王區右屋第5關",
       "stats": {
-        "DP": "260",
-        "AP": "48",
-        "PP": "12",
-        "SP": "5%",
-        "VP": "62",
-        "MP": "2"
+        "DP": 260,
+        "AP": 48,
+        "PP": 12,
+        "SP": 5,
+        "VP": 62,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_102_image_0.png",
@@ -2266,7 +3184,16 @@ window.TAMER_DATA={
       ],
       "row": 110,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "260",
+        "AP": "48",
+        "PP": "12",
+        "SP": "5%",
+        "VP": "62",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 104,
@@ -2275,12 +3202,12 @@ window.TAMER_DATA={
       "category": "其他系列(SS/WS系列)",
       "location": "四天王第4關",
       "stats": {
-        "DP": "160",
-        "AP": "26",
-        "PP": "8",
-        "SP": "10%",
-        "VP": "32",
-        "MP": "3"
+        "DP": 160,
+        "AP": 26,
+        "PP": 8,
+        "SP": 10,
+        "VP": 32,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_103_image_0.png",
@@ -2288,7 +3215,16 @@ window.TAMER_DATA={
       ],
       "row": 111,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "160",
+        "AP": "26",
+        "PP": "8",
+        "SP": "10%",
+        "VP": "32",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 105,
@@ -2297,12 +3233,12 @@ window.TAMER_DATA={
       "category": "其他系列(SS/WS系列)",
       "location": "",
       "stats": {
-        "DP": "160",
-        "AP": "32",
-        "PP": "8",
-        "SP": "10%",
-        "VP": "32",
-        "MP": "3"
+        "DP": 160,
+        "AP": 32,
+        "PP": 8,
+        "SP": 10,
+        "VP": 32,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_104_image_0.png",
@@ -2310,7 +3246,16 @@ window.TAMER_DATA={
       ],
       "row": 112,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "160",
+        "AP": "32",
+        "PP": "8",
+        "SP": "10%",
+        "VP": "32",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 106,
@@ -2319,12 +3264,12 @@ window.TAMER_DATA={
       "category": "其他系列(SS/WS系列)",
       "location": "四天王第1關",
       "stats": {
-        "DP": "260",
-        "AP": "48",
-        "PP": "12",
-        "SP": "5%",
-        "VP": "64",
-        "MP": "2"
+        "DP": 260,
+        "AP": 48,
+        "PP": 12,
+        "SP": 5,
+        "VP": 64,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_105_image_0.png",
@@ -2332,7 +3277,16 @@ window.TAMER_DATA={
       ],
       "row": 113,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "260",
+        "AP": "48",
+        "PP": "12",
+        "SP": "5%",
+        "VP": "64",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 107,
@@ -2341,12 +3295,12 @@ window.TAMER_DATA={
       "category": "其他系列(SS/WS系列)",
       "location": "四天王第2關",
       "stats": {
-        "DP": "260",
-        "AP": "48",
-        "PP": "12",
-        "SP": "5%",
-        "VP": "64",
-        "MP": "2"
+        "DP": 260,
+        "AP": 48,
+        "PP": 12,
+        "SP": 5,
+        "VP": 64,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_106_image_0.png",
@@ -2354,7 +3308,16 @@ window.TAMER_DATA={
       ],
       "row": 114,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "260",
+        "AP": "48",
+        "PP": "12",
+        "SP": "5%",
+        "VP": "64",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 108,
@@ -2363,12 +3326,12 @@ window.TAMER_DATA={
       "category": "其他系列(SS/WS系列)",
       "location": "以猛鬼獸通訊交換後獲得",
       "stats": {
-        "DP": "220",
-        "AP": "48",
-        "PP": "10",
-        "SP": "5%",
-        "VP": "64",
-        "MP": "4"
+        "DP": 220,
+        "AP": 48,
+        "PP": 10,
+        "SP": 5,
+        "VP": 64,
+        "MP": 4
       },
       "sprites": [
         "assets/sprites/normal/normal_107_image_0.png",
@@ -2376,7 +3339,16 @@ window.TAMER_DATA={
       ],
       "row": 115,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "220",
+        "AP": "48",
+        "PP": "10",
+        "SP": "5%",
+        "VP": "64",
+        "MP": "4"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 109,
@@ -2385,12 +3357,12 @@ window.TAMER_DATA={
       "category": "其他系列(SS/WS系列)",
       "location": "四天王第3關",
       "stats": {
-        "DP": "260",
-        "AP": "48",
-        "PP": "12",
-        "SP": "5%",
-        "VP": "64",
-        "MP": "2"
+        "DP": 260,
+        "AP": 48,
+        "PP": 12,
+        "SP": 5,
+        "VP": 64,
+        "MP": 2
       },
       "sprites": [
         "assets/sprites/normal/normal_108_image_0.png",
@@ -2398,7 +3370,16 @@ window.TAMER_DATA={
       ],
       "row": 116,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "260",
+        "AP": "48",
+        "PP": "12",
+        "SP": "5%",
+        "VP": "64",
+        "MP": "2"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 110,
@@ -2407,12 +3388,12 @@ window.TAMER_DATA={
       "category": "其他系列(SS/WS系列)",
       "location": "四天王第4關",
       "stats": {
-        "DP": "220",
-        "AP": "48",
-        "PP": "12",
-        "SP": "5%",
-        "VP": "64",
-        "MP": "4"
+        "DP": 220,
+        "AP": 48,
+        "PP": 10,
+        "SP": 5,
+        "VP": 64,
+        "MP": 4
       },
       "sprites": [
         "assets/sprites/normal/normal_109_image_0.png",
@@ -2420,7 +3401,16 @@ window.TAMER_DATA={
       ],
       "row": 117,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "220",
+        "AP": "48",
+        "PP": "12",
+        "SP": "5%",
+        "VP": "64",
+        "MP": "4"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 111,
@@ -2429,12 +3419,12 @@ window.TAMER_DATA={
       "category": "其他系列(SS/WS系列)",
       "location": "隱藏關卡C(陽極限定)",
       "stats": {
-        "DP": "330",
-        "AP": "54",
-        "PP": "32",
-        "SP": "5%",
-        "VP": "99",
-        "MP": "3"
+        "DP": 330,
+        "AP": 54,
+        "PP": 32,
+        "SP": 5,
+        "VP": 99,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_110_image_0.png",
@@ -2442,7 +3432,16 @@ window.TAMER_DATA={
       ],
       "row": 118,
       "gid": 496078725,
-      "version": "陽極限定"
+      "version": "陽極限定",
+      "sheetStats": {
+        "DP": "330",
+        "AP": "54",
+        "PP": "32",
+        "SP": "5%",
+        "VP": "99",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 112,
@@ -2451,12 +3450,12 @@ window.TAMER_DATA={
       "category": "其他系列(SS/WS系列)",
       "location": "隱藏關卡C(陰極限定)",
       "stats": {
-        "DP": "330",
-        "AP": "54",
-        "PP": "32",
-        "SP": "5%",
-        "VP": "99",
-        "MP": "3"
+        "DP": 330,
+        "AP": 54,
+        "PP": 32,
+        "SP": 5,
+        "VP": 99,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_111_image_0.png",
@@ -2464,7 +3463,16 @@ window.TAMER_DATA={
       ],
       "row": 119,
       "gid": 496078725,
-      "version": "陰極限定"
+      "version": "陰極限定",
+      "sheetStats": {
+        "DP": "330",
+        "AP": "54",
+        "PP": "32",
+        "SP": "5%",
+        "VP": "99",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     },
     {
       "id": 113,
@@ -2473,12 +3481,12 @@ window.TAMER_DATA={
       "category": "其他系列(SS/WS系列)",
       "location": "隱藏關卡C",
       "stats": {
-        "DP": "333",
-        "AP": "56",
-        "PP": "42",
-        "SP": "5%",
-        "VP": "108",
-        "MP": "3"
+        "DP": 333,
+        "AP": 56,
+        "PP": 42,
+        "SP": 5,
+        "VP": 108,
+        "MP": 3
       },
       "sprites": [
         "assets/sprites/normal/normal_112_image_0.png",
@@ -2486,7 +3494,16 @@ window.TAMER_DATA={
       ],
       "row": 120,
       "gid": 496078725,
-      "version": "未註明限定"
+      "version": "未註明限定",
+      "sheetStats": {
+        "DP": "333",
+        "AP": "56",
+        "PP": "42",
+        "SP": "5%",
+        "VP": "108",
+        "MP": "3"
+      },
+      "statSource": "Original Japanese game data"
     }
   ],
   "techniques": [
