@@ -42,3 +42,10 @@
 
 ### 原版迷宮掃描
 新增迷宮編號篩選、已核對的戰鬥槽對應及敵人 AP／PP 倍率。18 筆描述在兩版一致；184 個原生索引計算案例通過。迷宮 17 最後兩槽超出遭遇表宣告範圍，尚未列出敵人。編號未對照正式名稱，槽數不能直接當作實際樓層數。
+
+## Dungeon grouping draft
+
+- 18 collapsible dungeon sections; each contains its extracted battle slots.
+- Supplied individual sprites link to existing profiles. Enemies without a matching catalogue entry retain their names; no substitute image is invented.
+- Compare versions shows matching configuration numbers side by side and highlights species that differ in the corresponding enemy position. Mobile comparisons stack with version labels.
+- Removed the separate 捕捉地點 view. Dungeon names and locations remain pending the user's draft.
