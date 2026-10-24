@@ -31,3 +31,6 @@ combat-stats.js / combat-stats.csv：敵人能力資料；rewards.js：獎勵表
 
 ### Variable-technique effect descriptions
 Updated 72 technique descriptions from the original in-game explanations; Omegamon is intentionally unchanged. Replaced uncertain descriptions for 怪蛙王、大古加獸、砲彈獸, supplemented the verified stat-reset behavior for 怪蛙王 and 神龍獸, and labeled GranKuwagamon's value as the nominal first critical-check stage. Remaining duration and subsequent-roll uncertainties stay in detail notes. This update does not apply the separately pending tab renames, acquisition linking/version labels, or new learning-rule presentation.
+
+### Variable-technique learning rules
+Applied original-game learning rules from 61 recipe records to 71 techniques. Detail views show eligible learner/partner groups and the learner's known-tech prerequisite for higher techniques; group names link to catalogue profiles. Combination keywords search both original sheet terms and actual group members. The two techniques without native recipes are marked as special routes; observation-learning conditions are described separately, with no guarantee of learning after ten observations. Omegamon's effect text is unchanged. Other currently logged renames and acquisition cross-links are not included in this update.
