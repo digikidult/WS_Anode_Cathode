@@ -40,3 +40,6 @@ Added acquisition.js with capture-location candidates (excluding marked boss pos
 
 ### Consolidated acquisition display
 Catalogue location/condition fields are now regenerated from 關卡攻略 encounter locations and quest rewards. Cards preview actual stage names, rounds and version labels; profiles expose all links and separate whole-quest completion conditions. Added acquisition-method filters and stage-name search. The original sheet location survives in sheetLocation for traceability. Known locations are not replaced with a generic pending warning; only capture success remains subject to in-game conditions. Rebuilding data also regenerates the acquisition view so older sheet locations do not overwrite the integration.
+
+圖鑑收集清單：勾選狀態以網站專用鍵儲存在目前瀏覽器；可篩選已取得／未取得。清除網站資料或更換瀏覽器不會保留，無帳號同步。
+關卡獎勵摘要：收合標題列出整個關卡的可能道具、任務完成新增數碼獸，以及三隻全部存活的額外獎勵；比較版本時分開顯示兩版。

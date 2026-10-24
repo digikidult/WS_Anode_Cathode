@@ -1,0 +1,10 @@
+const collectionKey='digikidult-ws-tamer-collected-v1';
+let collectionFilter='all',collectionSaved=true;
+function loadCollection(){try{const value=JSON.parse(localStorage.getItem(collectionKey)||'[]');return new Set(Array.isArray(value)?value.filter(id=>Number.isInteger(id)&&id>=1&&id<=113):[]);}catch{return new Set();}}
+let collected=loadCollection();
+function collectionControl(m){return '<label class="collection-toggle" for="collected-'+m.id+'"><input id="collected-'+m.id+'" type="checkbox" data-collected="'+m.id+'" '+(collected.has(m.id)?'checked':'')+'>已取得 <span class="sr-only">'+esc(m.name)+'</span></label>';}
+function collectionFilters(){return '<label>收集狀態<select id="collection-filter">'+[['all','全部數碼獸'],['missing','只看未取得'],['owned','只看已取得']].map(([v,n])=>'<option value="'+v+'" '+(collectionFilter===v?'selected':'')+'>'+n+'</option>').join('')+'</select></label>';}
+function collectionMatches(m){return collectionFilter==='all'||(collectionFilter==='owned'?collected.has(m.id):!collected.has(m.id));}
+function collectionProgress(){return '<section class="collection-progress" aria-label="圖鑑收集進度"><div><strong>已取得 '+collected.size+' / '+D.monsters.length+'</strong><span>'+Math.round(collected.size/D.monsters.length*100)+'%</span></div><progress max="'+D.monsters.length+'" value="'+collected.size+'" aria-label="已取得數碼獸數量"></progress><p role="status">'+(collectionSaved?'自動儲存在此瀏覽器；不會同步至其他裝置。':'此瀏覽器無法儲存；目前勾選只保留至本頁關閉。')+'</p></section>';}
+document.addEventListener('change',e=>{if(e.target.id==='collection-filter'){collectionFilter=e.target.value;render();return;}const id=Number(e.target.dataset?.collected);if(!D.monsters.some(m=>m.id===id))return;if(e.target.checked)collected.add(id);else collected.delete(id);try{localStorage.setItem(collectionKey,JSON.stringify([...collected]));collectionSaved=true;}catch{collectionSaved=false;}render();const toggle=document.getElementById('collected-'+id);if(toggle)toggle.focus({preventScroll:true});else $('#collection-filter').focus({preventScroll:true});});
+window.addEventListener('storage',e=>{if(e.key!==collectionKey)return;collected=loadCollection();if(page==='archive')render();});
