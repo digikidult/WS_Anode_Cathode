@@ -31,3 +31,6 @@ body{font:15px/1.75 system-ui,-apple-system,"Segoe UI","Microsoft JhengHei",sans
 @media(max-width:380px){.bottom-social-banner{gap:10px;padding-left:10px;padding-right:10px}.bottom-social-banner .social-credit{font-size:10px}.bottom-social-banner .digikidult-logo{width:42px;height:42px}}
 
 .reward-version-grid.shared-reward{grid-template-columns:1fr}.lineup .lineup-version{flex-basis:100%;width:100%;margin:0 0 8px}
+
+/* Center every element in the social bar at all screen sizes. */
+.bottom-social-banner{justify-content:center;align-items:center;text-align:center}.bottom-social-banner .digikidult-logo{align-self:center;margin:0}.bottom-social-banner .social-credit-group{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;min-width:0}.bottom-social-banner .social-credit{margin:0;text-align:center}.bottom-social-banner .social-links{display:flex;align-items:center;justify-content:center;margin:0}.bottom-social-banner .social-links a{display:flex;align-items:center;justify-content:center}.bottom-social-banner .social-links svg{display:block}
