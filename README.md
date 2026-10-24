@@ -52,3 +52,6 @@
 
 ### Boss entries
 Dungeon sections now include a Boss overview using the first enemy marked by the original initialization code when the slot reaches the dungeon descriptor threshold. Marked battle cards are labeled. Both versions passed 552 isolated flag-calculation checks in total; this is not a complete boss playthrough. An unmarked descriptor is reported as no verified boss entry, never as proof of no boss.
+
+### Enemy lineups and battle maps
+Each round now shows possible enemy lineups separately from possible battle map IDs. Duplicate enemy arrays are consolidated only as lineups, retaining their original option numbers. Original map options remain expandable. Maps and enemies are selected with separate draws in the normal path; numbered options must not be paired. Version badges and differences filtering include map-selection differences. IDs are shown without invented map artwork. All 720 map-table entries were compared with the original ROMs; native audit details are in the separately supplied map-combination report.
