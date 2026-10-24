@@ -58,3 +58,6 @@ Each round now shows possible enemy lineups separately from possible battle map 
 
 ### Verified game stats and actual enemy figures
 All 113 catalogue base-stat records now use values cross-checked against both original Japanese games. Corrected six values across five Digimon; SP is numeric, with no percent sign. Original sheet values are archived in sheetStats for audit. Dungeon enemy and boss cards show actual initial DP/AP/PP/SP/VP/MP from the separate combat-stats.js dataset, replacing the multiplier. combat-stats.csv logs all 720 configurations / 1920 enemy occurrences. 226 native base-initialization and 905 native scaling cases passed; combat state changes and unresolved slots are excluded.
+
+### Round rewards and player-facing labels
+Round headings are now 第一輪、第二輪… . Each round includes possible item rewards with descriptions, maximum item count and bag-space caveat, money range, and Server Room Digimon rewards. Extra rewards for all three surviving party actors are separated. Version comparisons include reward differences. Original Anode and Cathode use different live recruitment tables; 720 item-pool reads and 2592 native recruitment cases passed. No modifications from the ROM-editing gameplay candidates are included. Internal DUNGEON labels, area indices, and user-supplied-name credits are removed from section headings.
