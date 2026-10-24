@@ -1,7 +1,8 @@
 const acquisitionFor=id=>window.TAMER_ACQUISITION.find(x=>x.id===id);
 function acquisitionVersion(versions){return versions.length===2?'陽極／陰極':versions[0]==='anode'?'陽極限定':'陰極限定';}
 function acquisitionDungeon(id){return window.TAMER_DUNGEONS.descriptors.find(d=>d.id===id)?.name||'迷宮 '+String(id).padStart(2,'0');}
-function acquisitionHasVersion(m,selected){if(selected==='all')return true;if(selected==='交換限定')return acquisitionFor(m.id).exchangeOnly;const key=selected==='陽極限定'?'anode':'cathode',a=acquisitionFor(m.id);return [...a.captures,...a.rewards,...a.other].some(s=>s.versions?.length===1&&s.versions[0]===key)||m.version===selected;}
+function acquisitionEditions(a){return [...new Set([...a.captures,...a.rewards,...a.exchanges,...a.other].flatMap(s=>s.versions||['anode','cathode']))];}
+function acquisitionHasVersion(m,selected){if(selected==='all')return true;const a=acquisitionFor(m.id);if(selected==='交換限定')return a.exchangeOnly;const versions=acquisitionEditions(a),key=selected==='陽極限定'?'anode':'cathode';return versions.length===1&&versions[0]===key;}
 let acquisitionMethod='all';
 function acquisitionMatchesMethod(m){const a=acquisitionFor(m.id);return acquisitionMethod==='all'||acquisitionMethod==='capture'&&a.captures.length>0||acquisitionMethod==='reward'&&a.rewards.length>0||acquisitionMethod==='exchange'&&a.exchanges.length>0||acquisitionMethod==='special'&&a.other.length>0;}
 function acquisitionMethodFilter(){return '<label>入手方式<select id="acquisition-method">'+[['all','全部方式'],['capture','戰鬥捕捉'],['reward','任務完成獎勵'],['exchange','通訊交換'],['special','初始／劇情／配布']].map(([v,n])=>'<option value="'+v+'" '+(v===acquisitionMethod?'selected':'')+'>'+n+'</option>').join('')+'</select></label>';}
@@ -12,6 +13,6 @@ let pendingAcquisitionTarget=null;
 function scrollToAcquisition(){if(!pendingAcquisitionTarget||page!=='dungeons')return;const target=document.getElementById(pendingAcquisitionTarget);if(target){target.scrollIntoView({behavior:'instant',block:'start'});target.focus({preventScroll:true});}pendingAcquisitionTarget=null;}
 document.addEventListener('click',e=>{const link=e.target.closest('[data-acq-dungeon]');if(!link)return;$('#detail').close();dungeonId=link.dataset.acqDungeon;dungeonEdition=link.dataset.acqEdition;dungeonDifferences=false;query='';$('#search').value='';pendingAcquisitionTarget=link.dataset.acqTarget;if(page==='dungeons')nav();else location.hash='#/dungeons';});
 
-function acquisitionBadges(m){const a=acquisitionFor(m.id);if(a.exchangeOnly)return '<span class="version-tag">交換限定</span>';return [['captures','捕捉'],['rewards','任務獎勵']].flatMap(([key,label])=>['anode','cathode'].filter(v=>a[key].some(s=>s.versions.length===1&&s.versions[0]===v)).map(v=>'<span class="version-tag">'+label+'途徑：'+(v==='anode'?'陽極限定':'陰極限定')+'</span>')).join('');}
+function acquisitionBadges(m){const a=acquisitionFor(m.id);if(a.exchangeOnly)return '<span class="version-tag">交換限定</span>';const versions=acquisitionEditions(a);return '<span class="version-tag">'+(versions.length===2?'兩版可取得':versions.length===1?(versions[0]==='anode'?'陽極限定':'陰極限定'):'版本待確認')+'</span>';}
 
 function acquisitionSearch(m){const a=acquisitionFor(m.id);return acquisitionSummary(m)+' '+[...a.captures,...a.rewards].map(s=>acquisitionDungeon(s.dungeonId)).join(' ');}
