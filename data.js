@@ -4934,27 +4934,45 @@ window.TAMER_DATA={
     "paragraphs": [
       {
         "text": "綽號：ZERO（對應漫畫《V訓獸師01》中的主角）",
-        "url": null
+        "url": null,
+        "row": 4,
+        "col": 0
       },
       {
         "text": "等級：成熟期",
-        "url": null
+        "url": null,
+        "row": 5,
+        "col": 0
       },
       {
         "text": "屬性：疫苗種",
-        "url": null
+        "url": null,
+        "row": 6,
+        "col": 0
       },
       {
         "text": "日本地區：日本國內抽選活動，隨 Campaign Limited Version 遊戲卡帶限量派發，共500件。",
-        "url": null
+        "url": null,
+        "row": 7,
+        "col": 0
       },
       {
         "text": "香港地區：據說代理瑞華行曾舉辦活動限量派發，但數量及具體活動內容不詳。",
-        "url": null
+        "url": null,
+        "row": 8,
+        "col": 0
       },
       {
         "text": "限定技能：奧米加獸及神龍獸技能，除經此限定配布入手外，無法從任何數碼暴龍組合習得。",
-        "url": null
+        "url": null,
+        "row": 11,
+        "col": 0
+      },
+      {
+        "text": "備注：想要完成圖鑑體驗最後隱藏關卡，必須擁有此配布解鎖奧米加獸及神龍獸圖鑑（除非你手上的版本是 Campaign Limited Version）。但由於WS卡有經常掉存檔問題及本身派發量不多，估計現存擁有此配布的不超過5人。",
+        "url": null,
+        "row": 24,
+        "col": 0
       }
     ],
     "images": [
