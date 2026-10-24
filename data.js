@@ -7,7 +7,7 @@ window.TAMER_DATA={
       "name": "黑球獸",
       "jp": "ボタモン",
       "category": "元祖1-5代",
-      "location": "開始之街上方洞穴",
+      "location": "捕捉：開始之街上方洞穴 第1輪（陽極／陰極）／捕捉：開始之街上方洞穴 第2輪（陽極／陰極）／捕捉：隱藏關卡A 第1輪（陽極限定）／捕捉：隱藏關卡A 第6輪（陽極限定）／捕捉：隱藏關卡A 第7輪（陽極限定）",
       "stats": {
         "DP": 50,
         "AP": 22,
@@ -31,14 +31,15 @@ window.TAMER_DATA={
         "VP": "10",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "開始之街上方洞穴"
     },
     {
       "id": 2,
       "name": "滾球獸",
       "jp": "コロモン",
       "category": "元祖1-5代",
-      "location": "開始之街上方洞穴",
+      "location": "捕捉：開始之街上方洞穴 第1輪（陽極／陰極）／捕捉：開始之街上方洞穴 第2輪（陽極／陰極）／捕捉：隱藏關卡A 第1輪（陽極限定）／捕捉：隱藏關卡A 第7輪（陽極限定）／任務完成獎勵：開始之街上方洞穴（陽極／陰極）",
       "stats": {
         "DP": 50,
         "AP": 22,
@@ -62,14 +63,15 @@ window.TAMER_DATA={
         "VP": "10",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "開始之街上方洞穴"
     },
     {
       "id": 3,
       "name": "亞古獸",
       "jp": "アグモン",
       "category": "元祖1-5代",
-      "location": "初始DM/隱藏關卡D",
+      "location": "捕捉：隱藏關卡D 第5輪（陽極／陰極）／初始夥伴",
       "stats": {
         "DP": 150,
         "AP": 32,
@@ -93,14 +95,15 @@ window.TAMER_DATA={
         "VP": "24",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "初始DM/隱藏關卡D"
     },
     {
       "id": 4,
       "name": "比特獸",
       "jp": "ベタモン",
       "category": "元祖1-5代",
-      "location": "",
+      "location": "捕捉：無限山下小屋(左門) 第1輪（陽極／陰極）／捕捉：隱藏關卡A 第1輪（陰極限定）／捕捉：隱藏關卡A 第6輪（陰極限定）／捕捉：隱藏關卡A 第7輪（陰極限定）",
       "stats": {
         "DP": 150,
         "AP": 30,
@@ -124,14 +127,15 @@ window.TAMER_DATA={
         "VP": "24",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 5,
       "name": "巨龍獸",
       "jp": "ティラノモン",
       "category": "元祖1-5代",
-      "location": "通過開始之街上方洞穴",
+      "location": "捕捉：無限山下小屋(左門) 第2輪（陽極／陰極）／任務完成獎勵：開始之街上方洞穴（陽極／陰極）",
       "stats": {
         "DP": 230,
         "AP": 42,
@@ -155,14 +159,15 @@ window.TAMER_DATA={
         "VP": "46",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "通過開始之街上方洞穴"
     },
     {
       "id": 6,
       "name": "飛龍獸",
       "jp": "エアドラモン",
       "category": "元祖1-5代",
-      "location": "",
+      "location": "捕捉：隱藏關卡B 第1輪（陽極限定）／捕捉：隱藏關卡B 第3輪（陽極限定）／捕捉：隱藏關卡B 第4輪（陽極限定）／任務完成獎勵：隱藏關卡B（陽極限定）",
       "stats": {
         "DP": 200,
         "AP": 42,
@@ -186,14 +191,15 @@ window.TAMER_DATA={
         "VP": "46",
         "MP": "4"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 7,
       "name": "鼻涕獸",
       "jp": "ヌメモン",
       "category": "元祖1-5代",
-      "location": "",
+      "location": "捕捉：無限山下小屋(左門) 第2輪（陽極／陰極）",
       "stats": {
         "DP": 230,
         "AP": 42,
@@ -217,14 +223,15 @@ window.TAMER_DATA={
         "VP": "46",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 8,
       "name": "布尼獸",
       "jp": "プニモン",
       "category": "元祖1-5代",
-      "location": "開始之街上方洞穴",
+      "location": "捕捉：開始之街上方洞穴 第2輪（陽極／陰極）／捕捉：隱藏關卡A 第1輪（陽極限定）／捕捉：隱藏關卡A 第2輪（陽極限定）／捕捉：隱藏關卡A 第7輪（陽極限定）／任務完成獎勵：隱藏關卡A（陽極限定；三隻夥伴全部存活）",
       "stats": {
         "DP": 50,
         "AP": 22,
@@ -248,14 +255,15 @@ window.TAMER_DATA={
         "VP": "10",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "開始之街上方洞穴"
     },
     {
       "id": 9,
       "name": "獨角獸",
       "jp": "ツノモン",
       "category": "元祖1-5代",
-      "location": "開始之街上方洞穴",
+      "location": "捕捉：開始之街上方洞穴 第2輪（陽極／陰極）／捕捉：隱藏關卡A 第2輪（陽極限定）／捕捉：隱藏關卡A 第3輪（陽極限定）",
       "stats": {
         "DP": 50,
         "AP": 22,
@@ -279,14 +287,15 @@ window.TAMER_DATA={
         "VP": "10",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "開始之街上方洞穴"
     },
     {
       "id": 10,
       "name": "加布獸",
       "jp": "ガブモン",
       "category": "元祖1-5代",
-      "location": "擊敗吸血魔獸加入/隱藏關卡D",
+      "location": "捕捉：隱藏關卡D 第2輪（陽極／陰極）／捕捉：隱藏關卡D 第4輪（陽極／陰極）／擊敗吸血魔獸加入",
       "stats": {
         "DP": 225,
         "AP": 48,
@@ -310,14 +319,15 @@ window.TAMER_DATA={
         "VP": "24",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "擊敗吸血魔獸加入/隱藏關卡D"
     },
     {
       "id": 11,
       "name": "艾力獸",
       "jp": "エレキモン",
       "category": "元祖1-5代",
-      "location": "",
+      "location": "捕捉：無限山下小屋(左門) 第1輪（陽極／陰極）／捕捉：隱藏關卡A 第1輪（陰極限定）",
       "stats": {
         "DP": 150,
         "AP": 30,
@@ -341,14 +351,15 @@ window.TAMER_DATA={
         "VP": "24",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 12,
       "name": "雪人獸",
       "jp": "ユキダルモン",
       "category": "元祖1-5代",
-      "location": "",
+      "location": "捕捉：無限山下小屋(左門) 第3輪（陽極限定）／任務完成獎勵：無限山下小屋(左門)（陽極限定；三隻夥伴全部存活）",
       "stats": {
         "DP": 230,
         "AP": 42,
@@ -372,14 +383,15 @@ window.TAMER_DATA={
         "VP": "46",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 13,
       "name": "鼻屎獸",
       "jp": "ベジーモン",
       "category": "元祖1-5代",
-      "location": "",
+      "location": "捕捉：無限山下小屋(左門) 第3輪（陽極限定）",
       "stats": {
         "DP": 230,
         "AP": 42,
@@ -403,14 +415,15 @@ window.TAMER_DATA={
         "VP": "46",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 14,
       "name": "浮遊獸",
       "jp": "ポヨモン",
       "category": "元祖1-5代",
-      "location": "",
+      "location": "捕捉：無限山下小屋(左門) 第1輪（陽極／陰極）／捕捉：無限山下小屋(左門) 第2輪（陽極／陰極）／捕捉：無限山下小屋(左門) 第3輪（陽極／陰極）／捕捉：隱藏關卡A 第2輪（陽極限定）／捕捉：隱藏關卡A 第3輪（陽極限定）／任務完成獎勵：無限山下小屋(左門)（陽極／陰極）",
       "stats": {
         "DP": 50,
         "AP": 22,
@@ -434,14 +447,15 @@ window.TAMER_DATA={
         "VP": "10",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 15,
       "name": "迪歌獸",
       "jp": "トコモン",
       "category": "元祖1-5代",
-      "location": "",
+      "location": "捕捉：無限山下小屋(左門) 第1輪（陽極／陰極）／捕捉：無限山下小屋(左門) 第2輪（陽極／陰極）／捕捉：無限山下小屋(左門) 第3輪（陽極／陰極）／捕捉：無限山 第1輪（陽極／陰極）／捕捉：隱藏關卡A 第3輪（陽極限定）／捕捉：隱藏關卡A 第4輪（陽極限定）／任務完成獎勵：隱藏關卡A（陽極限定）",
       "stats": {
         "DP": 50,
         "AP": 22,
@@ -465,14 +479,15 @@ window.TAMER_DATA={
         "VP": "10",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 16,
       "name": "巴達獸",
       "jp": "パタモン",
       "category": "元祖1-5代",
-      "location": "擊敗悟空獸加入/隱藏關卡D",
+      "location": "捕捉：隱藏關卡D 第3輪（陽極／陰極）／捕捉：隱藏關卡D 第5輪（陽極／陰極）／擊敗悟空獸加入",
       "stats": {
         "DP": 180,
         "AP": 38,
@@ -496,14 +511,15 @@ window.TAMER_DATA={
         "VP": "10",
         "MP": "5"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "擊敗悟空獸加入/隱藏關卡D"
     },
     {
       "id": 17,
       "name": "古尼獸",
       "jp": "クネモン",
       "category": "元祖1-5代",
-      "location": "",
+      "location": "捕捉：無限山下小屋(右門) 第1輪（陽極／陰極）／捕捉：隱藏關卡A 第1輪（陰極限定）／捕捉：隱藏關卡A 第2輪（陰極限定）／捕捉：隱藏關卡A 第7輪（陰極限定）",
       "stats": {
         "DP": 150,
         "AP": 30,
@@ -527,14 +543,15 @@ window.TAMER_DATA={
         "VP": "24",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 18,
       "name": "獨角馬獸",
       "jp": "ユニモン",
       "category": "元祖1-5代",
-      "location": "",
+      "location": "捕捉：無限山下小屋(右門) 第1輪（陽極／陰極）／捕捉：隱藏關卡B 第1輪（陽極限定）／捕捉：隱藏關卡B 第2輪（陽極限定）／捕捉：隱藏關卡B 第7輪（陽極限定）／任務完成獎勵：無限山下小屋(右門)（陽極限定；三隻夥伴全部存活）",
       "stats": {
         "DP": 200,
         "AP": 42,
@@ -558,14 +575,15 @@ window.TAMER_DATA={
         "VP": "24",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 19,
       "name": "人馬獸",
       "jp": "ケンタルモン",
       "category": "元祖1-5代",
-      "location": "",
+      "location": "捕捉：無限山下小屋(右門) 第1輪（陽極／陰極）",
       "stats": {
         "DP": 230,
         "AP": 42,
@@ -589,14 +607,15 @@ window.TAMER_DATA={
         "VP": "46",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 20,
       "name": "奧加獸",
       "jp": "オーガモン",
       "category": "元祖1-5代",
-      "location": "千年第6關",
+      "location": "捕捉：無限山下小屋(右門) 第2輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第7輪（陽極／陰極）／捕捉：隱藏關卡C 第2輪（陽極／陰極）",
       "stats": {
         "DP": 230,
         "AP": 42,
@@ -620,14 +639,15 @@ window.TAMER_DATA={
         "VP": "46",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "千年第6關"
     },
     {
       "id": 21,
       "name": "貝殼獸",
       "jp": "シェルモン",
       "category": "元祖1-5代",
-      "location": "",
+      "location": "捕捉：無限山下小屋(右門) 第2輪（陽極／陰極）／捕捉：無限山下小屋(左門) 第3輪（陰極限定）／捕捉：隱藏關卡B 第1輪（陰極限定）／捕捉：隱藏關卡B 第2輪（陰極限定）／捕捉：隱藏關卡B 第3輪（陰極限定）／捕捉：隱藏關卡B 第4輪（陰極限定）／任務完成獎勵：無限山下小屋(左門)（陰極限定；三隻夥伴全部存活）／任務完成獎勵：無限山下小屋(右門)（陰極限定；三隻夥伴全部存活）",
       "stats": {
         "DP": 230,
         "AP": 34,
@@ -651,14 +671,15 @@ window.TAMER_DATA={
         "VP": "46",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 22,
       "name": "鑽地獸",
       "jp": "ドリモゲモン",
       "category": "元祖1-5代",
-      "location": "",
+      "location": "捕捉：無限山下小屋(右門) 第2輪（陽極／陰極）／捕捉：無限山 第1輪（陽極／陰極）",
       "stats": {
         "DP": 230,
         "AP": 42,
@@ -682,14 +703,15 @@ window.TAMER_DATA={
         "VP": "46",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 23,
       "name": "大便獸",
       "jp": "スカモン",
       "category": "元祖1-5代",
-      "location": "以鼻涕獸通訊交換",
+      "location": "交換限定：鼻涕獸通訊交換後變化",
       "stats": {
         "DP": 230,
         "AP": 42,
@@ -713,14 +735,15 @@ window.TAMER_DATA={
         "VP": "46",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "以鼻涕獸通訊交換"
     },
     {
       "id": 24,
       "name": "悟空獸",
       "jp": "エテモン",
       "category": "元祖1-5代",
-      "location": "千年第7關/隱藏關卡C",
+      "location": "捕捉：隱藏關卡C 第3輪（陽極／陰極）",
       "stats": {
         "DP": 290,
         "AP": 50,
@@ -744,14 +767,15 @@ window.TAMER_DATA={
         "VP": "70",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "千年第7關/隱藏關卡C"
     },
     {
       "id": 25,
       "name": "浮游獸",
       "jp": "ユラモン",
       "category": "元祖1-5代",
-      "location": "",
+      "location": "捕捉：無限山下小屋(右門) 第1輪（陽極／陰極）／捕捉：無限山下小屋(右門) 第2輪（陽極／陰極）／捕捉：無限山下小屋(右門) 第3輪（陽極／陰極）／捕捉：無限山 第1輪（陽極／陰極）／捕捉：無限山 第2輪（陽極／陰極）／捕捉：隱藏關卡A 第4輪（陽極限定）／捕捉：隱藏關卡A 第5輪（陽極限定）／捕捉：隱藏關卡B 第1輪（陽極限定）／捕捉：隱藏關卡B 第2輪（陽極限定）／捕捉：隱藏關卡B 第4輪（陽極限定）／捕捉：隱藏關卡B 第5輪（陽極限定）／捕捉：隱藏關卡B 第7輪（陽極限定）／任務完成獎勵：無限山下小屋(右門)（陽極／陰極）",
       "stats": {
         "DP": 40,
         "AP": 22,
@@ -775,14 +799,15 @@ window.TAMER_DATA={
         "VP": "10",
         "MP": "5"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 26,
       "name": "種子獸",
       "jp": "タネモン",
       "category": "元祖1-5代",
-      "location": "",
+      "location": "捕捉：無限山下小屋(右門) 第1輪（陽極／陰極）／捕捉：無限山下小屋(右門) 第2輪（陽極／陰極）／捕捉：無限山下小屋(右門) 第3輪（陽極／陰極）／捕捉：無限山 第1輪（陽極／陰極）／捕捉：無限山 第2輪（陽極／陰極）／捕捉：隱藏關卡A 第5輪（陽極限定）／捕捉：隱藏關卡A 第6輪（陽極限定）／任務完成獎勵：隱藏關卡A（陽極限定）",
       "stats": {
         "DP": 50,
         "AP": 22,
@@ -806,14 +831,15 @@ window.TAMER_DATA={
         "VP": "10",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 27,
       "name": "巴魯獸",
       "jp": "パルモン",
       "category": "元祖1-5代",
-      "location": "打敗惡魔獸後加入/隱藏關卡D",
+      "location": "捕捉：隱藏關卡D 第2輪（陽極／陰極）／捕捉：隱藏關卡D 第4輪（陽極／陰極）／打敗惡魔獸後加入",
       "stats": {
         "DP": 195,
         "AP": 42,
@@ -837,14 +863,15 @@ window.TAMER_DATA={
         "VP": "24",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "打敗惡魔獸後加入/隱藏關卡D"
     },
     {
       "id": 28,
       "name": "巨雞獸",
       "jp": "コカトリモン",
       "category": "元祖1-5代",
-      "location": "",
+      "location": "捕捉：無限山下小屋(右門) 第3輪（陽極／陰極）／捕捉：無限山 第2輪（陽極／陰極）",
       "stats": {
         "DP": 230,
         "AP": 42,
@@ -868,14 +895,15 @@ window.TAMER_DATA={
         "VP": "46",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 29,
       "name": "獅子獸",
       "jp": "レオモン",
       "category": "元祖1-5代",
-      "location": "無限山第二關",
+      "location": "捕捉：無限山下小屋(右門) 第3輪（陽極／陰極）／捕捉：無限山 第2輪（陽極／陰極）",
       "stats": {
         "DP": 230,
         "AP": 42,
@@ -899,14 +927,15 @@ window.TAMER_DATA={
         "VP": "46",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "無限山第二關"
     },
     {
       "id": 30,
       "name": "毛人獸",
       "jp": "モジャモン",
       "category": "元祖1-5代",
-      "location": "",
+      "location": "捕捉：無限山下小屋(右門) 第3輪（陰極限定）／捕捉：無限山 第1輪（陰極限定）／捕捉：無限山 第2輪（陰極限定）",
       "stats": {
         "DP": 230,
         "AP": 42,
@@ -930,14 +959,15 @@ window.TAMER_DATA={
         "VP": "46",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 31,
       "name": "亞伯獸",
       "jp": "ナニモン",
       "category": "元祖1-5代",
-      "location": "",
+      "location": "捕捉：無限山下小屋(右門) 第3輪（陽極／陰極）／捕捉：無限山 第2輪（陽極／陰極）",
       "stats": {
         "DP": 230,
         "AP": 42,
@@ -961,14 +991,15 @@ window.TAMER_DATA={
         "VP": "46",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 32,
       "name": "狡猾獸",
       "jp": "ズルモン",
       "category": "元祖1-5代",
-      "location": "",
+      "location": "捕捉：無限山 第2輪（陽極／陰極）／捕捉：無限山 第3輪（陽極／陰極）／捕捉：無限山 第4輪（陽極／陰極）／捕捉：隱藏關卡A 第5輪（陽極限定）／捕捉：隱藏關卡A 第6輪（陽極限定）／任務完成獎勵：無限山（陽極／陰極）",
       "stats": {
         "DP": 50,
         "AP": 22,
@@ -992,14 +1023,15 @@ window.TAMER_DATA={
         "VP": "10",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 33,
       "name": "柏古獸",
       "jp": "パグモン",
       "category": "元祖1-5代",
-      "location": "",
+      "location": "捕捉：無限山 第3輪（陽極／陰極）／捕捉：無限山 第4輪（陽極／陰極）／捕捉：隱藏關卡A 第6輪（陽極限定）／捕捉：隱藏關卡A 第7輪（陽極限定）／捕捉：隱藏關卡B 第2輪（陽極限定）／捕捉：隱藏關卡B 第3輪（陽極限定）／捕捉：隱藏關卡B 第7輪（陽極限定）／任務完成獎勵：隱藏關卡B（陽極限定）",
       "stats": {
         "DP": 40,
         "AP": 22,
@@ -1023,14 +1055,15 @@ window.TAMER_DATA={
         "VP": "10",
         "MP": "5"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 34,
       "name": "加支獸",
       "jp": "ガジモン",
       "category": "元祖1-5代",
-      "location": "千年第7關",
+      "location": "捕捉：無限山 第3輪（陽極／陰極）／捕捉：無限山 第4輪（陽極／陰極）／捕捉：無限山 第5輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第8輪（陽極／陰極）／捕捉：隱藏關卡C 第3輪（陽極／陰極）／捕捉：隱藏關卡A 第2輪（陰極限定）／捕捉：隱藏關卡A 第3輪（陰極限定）／捕捉：隱藏關卡A 第7輪（陰極限定）／任務完成獎勵：隱藏關卡A（陰極限定）",
       "stats": {
         "DP": 150,
         "AP": 30,
@@ -1054,14 +1087,15 @@ window.TAMER_DATA={
         "VP": "24",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "千年第7關"
     },
     {
       "id": 35,
       "name": "基剎獸",
       "jp": "ギザモン",
       "category": "元祖1-5代",
-      "location": "",
+      "location": "捕捉：無限山 第3輪（陽極／陰極）／捕捉：無限山 第4輪（陽極／陰極）／捕捉：隱藏關卡A 第2輪（陰極限定）／捕捉：隱藏關卡A 第3輪（陰極限定）／捕捉：隱藏關卡B 第1輪（陰極限定）／捕捉：隱藏關卡B 第4輪（陰極限定）／捕捉：隱藏關卡B 第5輪（陰極限定）／捕捉：隱藏關卡B 第7輪（陰極限定）／任務完成獎勵：無限山（陰極限定；三隻夥伴全部存活）",
       "stats": {
         "DP": 150,
         "AP": 24,
@@ -1085,14 +1119,15 @@ window.TAMER_DATA={
         "VP": "24",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 36,
       "name": "黑暗巨龍獸",
       "jp": "ダークティラノモン",
       "category": "元祖1-5代",
-      "location": "",
+      "location": "捕捉：無限山 第3輪（陽極／陰極）",
       "stats": {
         "DP": 230,
         "AP": 42,
@@ -1116,14 +1151,15 @@ window.TAMER_DATA={
         "VP": "46",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 37,
       "name": "獨眼龍獸",
       "jp": "サイクロモン",
       "category": "元祖1-5代",
-      "location": "",
+      "location": "捕捉：無限山 第3輪（陽極／陰極）",
       "stats": {
         "DP": 230,
         "AP": 42,
@@ -1147,14 +1183,15 @@ window.TAMER_DATA={
         "VP": "46",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 38,
       "name": "邪龍獸",
       "jp": "デビドラモン",
       "category": "元祖1-5代",
-      "location": "",
+      "location": "捕捉：無限山 第5輪（陽極／陰極）／捕捉：隱藏關卡B 第2輪（陽極限定）／捕捉：隱藏關卡B 第3輪（陽極限定）／捕捉：隱藏關卡B 第5輪（陽極限定）／任務完成獎勵：隱藏關卡B（陽極限定；三隻夥伴全部存活）",
       "stats": {
         "DP": 200,
         "AP": 42,
@@ -1178,14 +1215,15 @@ window.TAMER_DATA={
         "VP": "46",
         "MP": "4"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 39,
       "name": "大角獸",
       "jp": "タスクモン",
       "category": "元祖1-5代",
-      "location": "",
+      "location": "捕捉：無限山 第4輪（陽極／陰極）",
       "stats": {
         "DP": 230,
         "AP": 42,
@@ -1209,14 +1247,15 @@ window.TAMER_DATA={
         "VP": "46",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 40,
       "name": "黃蜂獸",
       "jp": "フライモン",
       "category": "元祖1-5代",
-      "location": "",
+      "location": "捕捉：無限山 第4輪（陽極／陰極）／捕捉：隱藏關卡B 第3輪（陽極限定）／捕捉：隱藏關卡B 第4輪（陽極限定）／捕捉：隱藏關卡B 第5輪（陽極限定）／捕捉：隱藏關卡B 第6輪（陽極限定）／任務完成獎勵：無限山（陽極限定；三隻夥伴全部存活）",
       "stats": {
         "DP": 200,
         "AP": 42,
@@ -1240,14 +1279,15 @@ window.TAMER_DATA={
         "VP": "46",
         "MP": "4"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 41,
       "name": "三頭龍獸",
       "jp": "デルタモン",
       "category": "元祖1-5代",
-      "location": "",
+      "location": "捕捉：無限山 第4輪（陽極／陰極）",
       "stats": {
         "DP": 230,
         "AP": 42,
@@ -1271,14 +1311,15 @@ window.TAMER_DATA={
         "VP": "46",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 42,
       "name": "爛泥獸",
       "jp": "レアモン",
       "category": "元祖1-5代",
-      "location": "",
+      "location": "捕捉：無限山 第4輪（陽極／陰極）",
       "stats": {
         "DP": 230,
         "AP": 42,
@@ -1302,14 +1343,15 @@ window.TAMER_DATA={
         "VP": "46",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 43,
       "name": "泡沬獸",
       "jp": "バブモン",
       "category": "超龍1-5代",
-      "location": "",
+      "location": "捕捉：悟空獸區小屋 第1輪（陽極／陰極）／捕捉：悟空獸區小屋 第2輪（陽極／陰極）／捕捉：悟空獸區小屋 第3輪（陽極／陰極）／捕捉：小丑皇區左屋 第1輪（陽極／陰極）／捕捉：小丑皇區右屋 第1輪（陽極／陰極）／捕捉：隱藏關卡A 第1輪（陽極限定）／捕捉：隱藏關卡A 第7輪（陽極限定）／任務完成獎勵：悟空獸區小屋（陽極／陰極）",
       "stats": {
         "DP": 60,
         "AP": 24,
@@ -1333,14 +1375,15 @@ window.TAMER_DATA={
         "VP": "15",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 44,
       "name": "年糕獸",
       "jp": "モチモン",
       "category": "超龍1-5代",
-      "location": "",
+      "location": "捕捉：悟空獸區小屋 第1輪（陽極／陰極）／捕捉：悟空獸區小屋 第2輪（陽極／陰極）／捕捉：悟空獸區小屋 第3輪（陽極／陰極）／捕捉：悟空獸據點 第1輪（陽極限定）／捕捉：吸血魔獸區左屋 第1輪（陽極／陰極）／捕捉：小丑皇區左屋 第1輪（陽極／陰極）／捕捉：小丑皇區右屋 第1輪（陽極／陰極）／捕捉：隱藏關卡A 第1輪（陽極限定）／捕捉：隱藏關卡A 第2輪（陽極限定）／捕捉：隱藏關卡A 第7輪（陽極限定）／任務完成獎勵：小丑皇區左屋（陽極／陰極）",
       "stats": {
         "DP": 60,
         "AP": 24,
@@ -1364,14 +1407,15 @@ window.TAMER_DATA={
         "VP": "15",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 45,
       "name": "甲蟲獸",
       "jp": "テントモン",
       "category": "超龍1-5代",
-      "location": "打敗惡魔獸後加入/隱藏關卡D",
+      "location": "捕捉：隱藏關卡D 第3輪（陽極／陰極）／捕捉：隱藏關卡D 第5輪（陽極／陰極）／打敗惡魔獸後加入",
       "stats": {
         "DP": 175,
         "AP": 42,
@@ -1395,14 +1439,15 @@ window.TAMER_DATA={
         "VP": "30",
         "MP": "5"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "打敗惡魔獸後加入/隱藏關卡D"
     },
     {
       "id": 46,
       "name": "礦石獸",
       "jp": "ゴツモン",
       "category": "超龍1-5代",
-      "location": "千年第1關",
+      "location": "捕捉：悟空獸區小屋 第1輪（陰極限定）／捕捉：悟空獸區小屋 第3輪（陰極限定）／捕捉：悟空獸據點 第1輪（陰極限定）／捕捉：小丑皇區左屋 第1輪（陰極限定）／捕捉：小丑皇區右屋 第1輪（陰極限定）／捕捉：最終關卡千年獸據點 第1輪（陰極限定）／捕捉：隱藏關卡A 第3輪（陰極限定）／捕捉：隱藏關卡A 第4輪（陰極限定）",
       "stats": {
         "DP": 160,
         "AP": 32,
@@ -1426,14 +1471,15 @@ window.TAMER_DATA={
         "VP": "30",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "千年第1關"
     },
     {
       "id": 47,
       "name": "蝌蚪獸",
       "jp": "オタマモン",
       "category": "超龍1-5代",
-      "location": "四天王區右屋第1關",
+      "location": "捕捉：悟空獸區小屋 第1輪（陽極／陰極）／捕捉：悟空獸區小屋 第3輪（陽極／陰極）／捕捉：悟空獸據點 第1輪（陽極／陰極）／捕捉：吸血魔獸區左屋 第1輪（陽極／陰極）／捕捉：小丑皇區右屋 第1輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第1輪（陽極／陰極）／捕捉：隱藏關卡A 第4輪（陰極限定）／捕捉：隱藏關卡A 第5輪（陰極限定）／捕捉：隱藏關卡B 第1輪（陰極限定）／捕捉：隱藏關卡B 第2輪（陰極限定）／捕捉：隱藏關卡B 第5輪（陰極限定）／捕捉：隱藏關卡B 第6輪（陰極限定）／捕捉：隱藏關卡B 第7輪（陰極限定）／任務完成獎勵：悟空獸區小屋（陰極限定；三隻夥伴全部存活）",
       "stats": {
         "DP": 160,
         "AP": 24,
@@ -1457,14 +1503,15 @@ window.TAMER_DATA={
         "VP": "30",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "四天王區右屋第1關"
     },
     {
       "id": 48,
       "name": "多達獸",
       "jp": "トータモン",
       "category": "超龍1-5代",
-      "location": "",
+      "location": "捕捉：悟空獸區小屋 第1輪（陽極限定）／捕捉：悟空獸區小屋 第3輪（陽極限定）／捕捉：小丑皇區左屋 第1輪（陽極限定）／捕捉：小丑皇區右屋 第1輪（陽極限定）／捕捉：最終關卡千年獸據點 第1輪（陽極限定）／任務完成獎勵：悟空獸區小屋（陽極限定；三隻夥伴全部存活）",
       "stats": {
         "DP": 240,
         "AP": 44,
@@ -1488,14 +1535,15 @@ window.TAMER_DATA={
         "VP": "52",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 49,
       "name": "角龍獸",
       "jp": "モノクロモン",
       "category": "超龍1-5代",
-      "location": "四天王區左屋第1關",
+      "location": "捕捉：悟空獸區小屋 第1輪（陽極／陰極）／捕捉：悟空獸區小屋 第2輪（陽極／陰極）／捕捉：小丑皇區左屋 第1輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第1輪（陽極／陰極）／捕捉：悟空獸區小屋 第3輪（陰極限定）／任務完成獎勵：最終關卡千年獸據點（陽極／陰極）",
       "stats": {
         "DP": 240,
         "AP": 44,
@@ -1519,14 +1567,15 @@ window.TAMER_DATA={
         "VP": "52",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "四天王區左屋第1關"
     },
     {
       "id": 50,
       "name": "流星獸",
       "jp": "スターモン",
       "category": "超龍1-5代",
-      "location": "千年第2關",
+      "location": "捕捉：悟空獸區小屋 第2輪（陽極／陰極）／捕捉：悟空獸區小屋 第3輪（陽極／陰極）／捕捉：小丑皇區左屋 第1輪（陽極／陰極）／捕捉：小丑皇區右屋 第1輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第1輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第2輪（陰極限定）",
       "stats": {
         "DP": 240,
         "AP": 44,
@@ -1550,14 +1599,15 @@ window.TAMER_DATA={
         "VP": "52",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "千年第2關"
     },
     {
       "id": 51,
       "name": "古加獸",
       "jp": "クワガーモン",
       "category": "超龍1-5代",
-      "location": "四天王區右屋第1關",
+      "location": "捕捉：悟空獸區小屋 第2輪（陽極／陰極）／捕捉：悟空獸區小屋 第3輪（陽極／陰極）／捕捉：小丑皇區右屋 第1輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第1輪（陽極／陰極）／捕捉：隱藏關卡B 第2輪（陽極限定）／捕捉：隱藏關卡B 第4輪（陽極限定）／捕捉：隱藏關卡B 第5輪（陽極限定）／捕捉：隱藏關卡B 第6輪（陽極限定）／任務完成獎勵：悟空獸據點（陽極限定；三隻夥伴全部存活）",
       "stats": {
         "DP": 200,
         "AP": 44,
@@ -1581,14 +1631,15 @@ window.TAMER_DATA={
         "VP": "52",
         "MP": "4"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "四天王區右屋第1關"
     },
     {
       "id": 52,
       "name": "怪蛙獸",
       "jp": "ゲコモン",
       "category": "超龍1-5代",
-      "location": "以蝌蚪獸通訊交換",
+      "location": "交換限定：蝌蚪獸通訊交換後變化",
       "stats": {
         "DP": 240,
         "AP": 36,
@@ -1612,14 +1663,15 @@ window.TAMER_DATA={
         "VP": "52",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "以蝌蚪獸通訊交換"
     },
     {
       "id": 53,
       "name": "比茲獸",
       "jp": "ピチモン",
       "category": "超龍1-5代",
-      "location": "",
+      "location": "捕捉：悟空獸據點 第1輪（陽極／陰極）／捕捉：悟空獸據點 第2輪（陽極／陰極）／捕捉：吸血魔獸區左屋 第1輪（陽極／陰極）／捕捉：吸血魔獸區左屋 第2輪（陽極／陰極）／捕捉：吸血魔獸區右屋 第1輪（陽極／陰極）／捕捉：吸血魔獸據點 第1輪（陽極／陰極）／捕捉：小丑皇區左屋 第2輪（陽極／陰極）／捕捉：小丑皇區右屋 第2輪（陽極／陰極）／捕捉：小丑皇區據點 第1輪（陽極／陰極）／捕捉：隱藏關卡A 第1輪（陽極限定）／捕捉：隱藏關卡A 第2輪（陽極限定）／捕捉：隱藏關卡B 第1輪（陰極限定）／捕捉：隱藏關卡B 第2輪（陰極限定）／捕捉：隱藏關卡B 第3輪（陰極限定）／任務完成獎勵：悟空獸據點（陽極／陰極）",
       "stats": {
         "DP": 60,
         "AP": 24,
@@ -1643,14 +1695,15 @@ window.TAMER_DATA={
         "VP": "15",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 54,
       "name": "布加獸",
       "jp": "プカモン",
       "category": "超龍1-5代",
-      "location": "",
+      "location": "捕捉：悟空獸據點 第1輪（陽極／陰極）／捕捉：悟空獸據點 第2輪（陽極／陰極）／捕捉：吸血魔獸區左屋 第1輪（陽極／陰極）／捕捉：吸血魔獸區左屋 第2輪（陽極／陰極）／捕捉：吸血魔獸區右屋 第1輪（陽極／陰極）／捕捉：吸血魔獸據點 第1輪（陽極／陰極）／捕捉：小丑皇區左屋 第2輪（陽極／陰極）／捕捉：小丑皇區右屋 第2輪（陽極／陰極）／捕捉：小丑皇區據點 第1輪（陽極／陰極）／捕捉：隱藏關卡A 第2輪（陽極限定）／捕捉：隱藏關卡A 第3輪（陽極限定）／捕捉：隱藏關卡B 第3輪（陰極限定）／捕捉：隱藏關卡B 第4輪（陰極限定）／任務完成獎勵：小丑皇區右屋（陽極／陰極）",
       "stats": {
         "DP": 60,
         "AP": 24,
@@ -1674,14 +1727,15 @@ window.TAMER_DATA={
         "VP": "15",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 55,
       "name": "哥瑪獸",
       "jp": "ゴマモン",
       "category": "超龍1-5代",
-      "location": "擊敗吸血魔獸加入/隱藏關卡D",
+      "location": "捕捉：隱藏關卡D 第1輪（陽極／陰極）／捕捉：隱藏關卡D 第2輪（陽極／陰極）／擊敗吸血魔獸加入",
       "stats": {
         "DP": 210,
         "AP": 36,
@@ -1705,14 +1759,15 @@ window.TAMER_DATA={
         "VP": "30",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "擊敗吸血魔獸加入/隱藏關卡D"
     },
     {
       "id": 56,
       "name": "螃蟹獸",
       "jp": "ガニモン",
       "category": "超龍1-5代",
-      "location": "吸血魔區左屋第1關",
+      "location": "捕捉：悟空獸據點 第1輪（陽極／陰極）／捕捉：悟空獸據點 第2輪（陽極／陰極）／捕捉：悟空獸據點 第4輪（陽極／陰極）／捕捉：吸血魔獸區左屋 第1輪（陽極／陰極）／捕捉：吸血魔獸區左屋 第2輪（陽極／陰極）／捕捉：吸血魔獸區右屋 第1輪（陽極／陰極）／捕捉：吸血魔獸據點 第1輪（陽極／陰極）／捕捉：小丑皇區右屋 第2輪（陽極／陰極）／捕捉：小丑皇區據點 第1輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第2輪（陽極／陰極）／捕捉：隱藏關卡A 第5輪（陰極限定）／捕捉：隱藏關卡A 第6輪（陰極限定）／捕捉：隱藏關卡B 第4輪（陰極限定）／捕捉：隱藏關卡B 第5輪（陰極限定）／任務完成獎勵：悟空獸據點（陰極限定；三隻夥伴全部存活）",
       "stats": {
         "DP": 160,
         "AP": 26,
@@ -1736,14 +1791,15 @@ window.TAMER_DATA={
         "VP": "30",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "吸血魔區左屋第1關"
     },
     {
       "id": 57,
       "name": "蜆殼獸",
       "jp": "シャコモン",
       "category": "超龍1-5代",
-      "location": "吸血魔區左屋第2關",
+      "location": "捕捉：悟空獸據點 第1輪（陽極／陰極）／捕捉：悟空獸據點 第2輪（陽極／陰極）／捕捉：吸血魔獸區左屋 第1輪（陽極／陰極）／捕捉：吸血魔獸區左屋 第2輪（陽極／陰極）／捕捉：吸血魔獸區右屋 第1輪（陽極／陰極）／捕捉：吸血魔獸據點 第1輪（陽極／陰極）／捕捉：小丑皇區右屋 第2輪（陽極／陰極）／捕捉：小丑皇區據點 第1輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第2輪（陽極／陰極）／捕捉：隱藏關卡A 第5輪（陰極限定）／捕捉：隱藏關卡A 第6輪（陰極限定）／捕捉：隱藏關卡B 第4輪（陰極限定）／捕捉：隱藏關卡B 第5輪（陰極限定）／任務完成獎勵：隱藏關卡A（陰極限定；三隻夥伴全部存活）",
       "stats": {
         "DP": 160,
         "AP": 26,
@@ -1767,14 +1823,15 @@ window.TAMER_DATA={
         "VP": "30",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "吸血魔區左屋第2關"
     },
     {
       "id": 58,
       "name": "海豚獸",
       "jp": "ルカモン",
       "category": "超龍1-5代",
-      "location": "四天王區左屋第2關",
+      "location": "捕捉：悟空獸據點 第2輪（陽極／陰極）／捕捉：悟空獸據點 第4輪（陽極限定）／捕捉：吸血魔獸區左屋 第2輪（陽極限定）／捕捉：吸血魔獸區右屋 第1輪（陽極／陰極）／捕捉：吸血魔獸據點 第1輪（陽極／陰極）／捕捉：小丑皇區左屋 第2輪（陽極／陰極）／捕捉：小丑皇區右屋 第2輪（陽極／陰極）／捕捉：小丑皇區據點 第1輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第2輪（陽極／陰極）／捕捉：隱藏關卡B 第5輪（陰極限定）／捕捉：隱藏關卡B 第6輪（陰極限定）／任務完成獎勵：小丑皇區左屋（陽極／陰極）／任務完成獎勵：最終關卡千年獸據點（陰極限定）",
       "stats": {
         "DP": 240,
         "AP": 34,
@@ -1798,14 +1855,15 @@ window.TAMER_DATA={
         "VP": "52",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "四天王區左屋第2關"
     },
     {
       "id": 59,
       "name": "海龍獸",
       "jp": "シードラモン",
       "category": "超龍1-5代",
-      "location": "",
+      "location": "捕捉：悟空獸據點 第2輪（陽極限定）／捕捉：吸血魔獸據點 第1輪（陽極限定）／捕捉：小丑皇區左屋 第2輪（陽極限定）／捕捉：小丑皇區右屋 第2輪（陽極限定）／捕捉：小丑皇區據點 第1輪（陽極限定）／捕捉：最終關卡千年獸據點 第2輪（陽極限定）",
       "stats": {
         "DP": 240,
         "AP": 34,
@@ -1829,14 +1887,15 @@ window.TAMER_DATA={
         "VP": "52",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 60,
       "name": "西拉獸",
       "jp": "シーラモン",
       "category": "超龍1-5代",
-      "location": "",
+      "location": "捕捉：悟空獸據點 第2輪（陰極限定）／捕捉：吸血魔獸區右屋 第1輪（陰極限定）／捕捉：小丑皇區左屋 第2輪（陰極限定）／捕捉：最終關卡千年獸據點 第2輪（陰極限定）／捕捉：隱藏關卡B 第6輪（陰極限定）／捕捉：隱藏關卡B 第7輪（陰極限定）／任務完成獎勵：隱藏關卡B（陰極限定；三隻夥伴全部存活）",
       "stats": {
         "DP": 240,
         "AP": 34,
@@ -1860,14 +1919,15 @@ window.TAMER_DATA={
         "VP": "52",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 61,
       "name": "墨魚獸",
       "jp": "ゲソモン",
       "category": "超龍1-5代",
-      "location": "",
+      "location": "捕捉：悟空獸據點 第2輪（陽極／陰極）／捕捉：吸血魔獸區右屋 第1輪（陽極／陰極）／捕捉：吸血魔獸據點 第1輪（陽極／陰極）／捕捉：小丑皇區左屋 第2輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第2輪（陽極／陰極）／捕捉：隱藏關卡B 第1輪（陰極限定）／捕捉：隱藏關卡B 第3輪（陰極限定）／捕捉：隱藏關卡B 第4輪（陰極限定）／捕捉：隱藏關卡B 第7輪（陰極限定）／任務完成獎勵：吸血魔獸區左屋（陰極限定；三隻夥伴全部存活）",
       "stats": {
         "DP": 240,
         "AP": 34,
@@ -1891,14 +1951,15 @@ window.TAMER_DATA={
         "VP": "52",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 62,
       "name": "八爪魚獸",
       "jp": "オクタモン",
       "category": "超龍1-5代",
-      "location": "吸血魔區左屋第2關",
+      "location": "捕捉：悟空獸據點 第4輪（陰極限定）／捕捉：吸血魔獸區左屋 第2輪（陰極限定）／捕捉：吸血魔獸區右屋 第1輪（陰極限定）／捕捉：吸血魔獸據點 第1輪（陰極限定）／捕捉：隱藏關卡B 第1輪（陰極限定）／捕捉：隱藏關卡B 第2輪（陰極限定）／捕捉：隱藏關卡B 第5輪（陰極限定）／捕捉：隱藏關卡B 第6輪（陰極限定）／捕捉：隱藏關卡B 第7輪（陰極限定）／任務完成獎勵：隱藏關卡B（陰極限定）",
       "stats": {
         "DP": 240,
         "AP": 34,
@@ -1922,14 +1983,15 @@ window.TAMER_DATA={
         "VP": "52",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "吸血魔區左屋第2關"
     },
     {
       "id": 63,
       "name": "煙塵獸",
       "jp": "モクモン",
       "category": "超龍1-5代",
-      "location": "吸血魔區左屋第4關",
+      "location": "捕捉：吸血魔獸區左屋 第3輪（陽極／陰極）／捕捉：吸血魔獸區左屋 第4輪（陽極／陰極）／捕捉：小丑皇區左屋 第3輪（陽極／陰極）／捕捉：小丑皇區右屋 第3輪（陽極／陰極）／捕捉：小丑皇區據點 第2輪（陽極／陰極）／捕捉：隱藏關卡A 第3輪（陽極限定）／捕捉：隱藏關卡A 第4輪（陽極限定）／捕捉：隱藏關卡B 第4輪（陽極限定）／捕捉：隱藏關卡B 第5輪（陽極限定）／任務完成獎勵：吸血魔獸區左屋（陽極／陰極）",
       "stats": {
         "DP": 50,
         "AP": 24,
@@ -1953,14 +2015,15 @@ window.TAMER_DATA={
         "VP": "15",
         "MP": "5"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "吸血魔區左屋第4關"
     },
     {
       "id": 64,
       "name": "小火焰獸",
       "jp": "プチメラモン",
       "category": "超龍1-5代",
-      "location": "吸血魔區左屋第3關",
+      "location": "捕捉：吸血魔獸區左屋 第3輪（陽極／陰極）／捕捉：吸血魔獸區左屋 第4輪（陽極／陰極）／捕捉：小丑皇區左屋 第3輪（陽極／陰極）／捕捉：小丑皇區右屋 第3輪（陽極／陰極）／捕捉：小丑皇區據點 第2輪（陽極／陰極）／捕捉：隱藏關卡A 第3輪（陽極限定）／捕捉：隱藏關卡A 第4輪（陽極限定）／捕捉：隱藏關卡B 第5輪（陽極限定）／捕捉：隱藏關卡B 第6輪（陽極限定）／任務完成獎勵：小丑皇區右屋（陽極／陰極）",
       "stats": {
         "DP": 50,
         "AP": 24,
@@ -1984,14 +2047,15 @@ window.TAMER_DATA={
         "VP": "15",
         "MP": "5"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "吸血魔區左屋第3關"
     },
     {
       "id": 65,
       "name": "食夢獸",
       "jp": "バクモン",
       "category": "超龍1-5代",
-      "location": "吸血魔區左屋第3關",
+      "location": "捕捉：吸血魔獸區左屋 第3輪（陽極／陰極）／捕捉：吸血魔獸區左屋 第4輪（陽極／陰極）／捕捉：吸血魔獸區右屋 第2輪（陽極／陰極）／捕捉：吸血魔獸據點 第2輪（陽極／陰極）／捕捉：小丑皇區右屋 第3輪（陽極／陰極）／捕捉：小丑皇區據點 第2輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第3輪（陽極／陰極）／捕捉：吸血魔獸據點 第3輪（陰極限定）／捕捉：最終關卡千年獸據點 第4輪（陰極限定）／捕捉：隱藏關卡A 第6輪（陰極限定）／捕捉：隱藏關卡A 第7輪（陰極限定）／任務完成獎勵：最終關卡千年獸據點（陽極限定）",
       "stats": {
         "DP": 160,
         "AP": 32,
@@ -2015,14 +2079,15 @@ window.TAMER_DATA={
         "VP": "30",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "吸血魔區左屋第3關"
     },
     {
       "id": 66,
       "name": "蠟燭獸",
       "jp": "キャンドモン",
       "category": "超龍1-5代",
-      "location": "千年第4關",
+      "location": "捕捉：吸血魔獸區左屋 第3輪（陽極／陰極）／捕捉：吸血魔獸區左屋 第4輪（陽極／陰極）／捕捉：吸血魔獸區右屋 第2輪（陽極／陰極）／捕捉：吸血魔獸據點 第2輪（陽極／陰極）／捕捉：小丑皇區右屋 第3輪（陽極／陰極）／捕捉：小丑皇區右屋 第4輪（陽極限定）／捕捉：小丑皇區據點 第2輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第3輪（陽極／陰極）／捕捉：隱藏關卡B 第6輪（陽極限定）／捕捉：隱藏關卡B 第7輪（陽極限定）／捕捉：吸血魔獸區右屋 第3輪（陰極限定）／捕捉：吸血魔獸據點 第3輪（陰極限定）／捕捉：小丑皇區據點 第3輪（陰極限定）／捕捉：最終關卡千年獸據點 第4輪（陰極限定）／捕捉：隱藏關卡A 第1輪（陰極限定）／捕捉：隱藏關卡A 第7輪（陰極限定）／任務完成獎勵：吸血魔獸區左屋（陽極限定；三隻夥伴全部存活）",
       "stats": {
         "DP": 140,
         "AP": 32,
@@ -2046,14 +2111,15 @@ window.TAMER_DATA={
         "VP": "30",
         "MP": "5"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "千年第4關"
     },
     {
       "id": 67,
       "name": "小惡魔獸",
       "jp": "ピコデビモン",
       "category": "超龍1-5代",
-      "location": "千年第8關",
+      "location": "捕捉：最終關卡千年獸據點 第9輪（陽極／陰極）／捕捉：隱藏關卡B 第6輪（陽極限定）／捕捉：隱藏關卡B 第7輪（陽極限定）／捕捉：隱藏關卡C 第4輪（陽極／陰極）／捕捉：隱藏關卡A 第1輪（陰極限定）／捕捉：隱藏關卡A 第2輪（陰極限定）／捕捉：隱藏關卡A 第6輪（陰極限定）／捕捉：隱藏關卡A 第7輪（陰極限定）",
       "stats": {
         "DP": 140,
         "AP": 32,
@@ -2077,14 +2143,15 @@ window.TAMER_DATA={
         "VP": "30",
         "MP": "5"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "千年第8關"
     },
     {
       "id": 68,
       "name": "猿人獸",
       "jp": "ハヌモン",
       "category": "超龍1-5代",
-      "location": "吸血魔區右屋第4關",
+      "location": "捕捉：吸血魔獸區左屋 第3輪（陽極／陰極）／捕捉：吸血魔獸區右屋 第2輪（陽極／陰極）／捕捉：吸血魔獸據點 第2輪（陽極／陰極）／捕捉：小丑皇區左屋 第3輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第3輪（陽極／陰極）／捕捉：吸血魔獸區右屋 第3輪（陰極限定）／捕捉：吸血魔獸區右屋 第4輪（陰極限定）／捕捉：最終關卡千年獸據點 第4輪（陰極限定）",
       "stats": {
         "DP": 240,
         "AP": 44,
@@ -2108,14 +2175,15 @@ window.TAMER_DATA={
         "VP": "52",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "吸血魔區右屋第4關"
     },
     {
       "id": 69,
       "name": "火焰獸",
       "jp": "メラモン",
       "category": "超龍1-5代",
-      "location": "吸血魔區左屋第3關",
+      "location": "捕捉：吸血魔獸區左屋 第3輪（陽極／陰極）／捕捉：吸血魔獸區右屋 第2輪（陽極／陰極）／捕捉：吸血魔獸據點 第2輪（陽極／陰極）／捕捉：吸血魔獸據點 第3輪（陽極限定）／捕捉：小丑皇區左屋 第3輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第3輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第4輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第10輪（陽極／陰極）／捕捉：隱藏關卡C 第5輪（陽極／陰極）／捕捉：吸血魔獸區右屋 第4輪（陰極限定）／任務完成獎勵：最終關卡千年獸據點（陰極限定；三隻夥伴全部存活）",
       "stats": {
         "DP": 240,
         "AP": 44,
@@ -2139,14 +2207,15 @@ window.TAMER_DATA={
         "VP": "52",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "吸血魔區左屋第3關"
     },
     {
       "id": 70,
       "name": "巫師獸",
       "jp": "ウィザーモン",
       "category": "超龍1-5代",
-      "location": "吸血魔區右屋第2關",
+      "location": "捕捉：吸血魔獸區左屋 第4輪（陽極／陰極）／捕捉：吸血魔獸區右屋 第2輪（陽極／陰極）／捕捉：吸血魔獸據點 第2輪（陽極／陰極）／捕捉：小丑皇區左屋 第3輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第3輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第4輪（陽極限定）／捕捉：隱藏關卡B 第1輪（陽極限定）／捕捉：隱藏關卡B 第5輪（陽極限定）／捕捉：隱藏關卡B 第6輪（陽極限定）／捕捉：隱藏關卡B 第7輪（陽極限定）／捕捉：悟空獸區小屋 第2輪（陰極限定）／捕捉：吸血魔獸區右屋 第4輪（陰極限定）／任務完成獎勵：吸血魔獸區右屋（陽極限定；三隻夥伴全部存活）",
       "stats": {
         "DP": 200,
         "AP": 44,
@@ -2170,14 +2239,15 @@ window.TAMER_DATA={
         "VP": "52",
         "MP": "4"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "吸血魔區右屋第2關"
     },
     {
       "id": 71,
       "name": "惡魔獸",
       "jp": "デビモン",
       "category": "超龍1-5代",
-      "location": "千年第6關/隱藏關卡C",
+      "location": "捕捉：隱藏關卡C 第2輪（陽極／陰極）",
       "stats": {
         "DP": 240,
         "AP": 48,
@@ -2201,14 +2271,15 @@ window.TAMER_DATA={
         "VP": "75",
         "MP": "4"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "千年第6關/隱藏關卡C"
     },
     {
       "id": 72,
       "name": "猛鬼獸",
       "jp": "バケモン",
       "category": "超龍1-5代",
-      "location": "千年第3關",
+      "location": "捕捉：吸血魔獸區左屋 第4輪（陽極／陰極）／捕捉：吸血魔獸區右屋 第2輪（陽極／陰極）／捕捉：吸血魔獸據點 第2輪（陽極／陰極）／捕捉：小丑皇區左屋 第3輪（陽極／陰極）／捕捉：小丑皇區左屋 第4輪（陽極限定）／捕捉：小丑皇區右屋 第4輪（陽極限定）／捕捉：小丑皇區據點 第3輪（陽極限定）／捕捉：最終關卡千年獸據點 第3輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第4輪（陽極限定）／捕捉：隱藏關卡B 第1輪（陽極限定）／捕捉：隱藏關卡B 第2輪（陽極限定）／捕捉：隱藏關卡B 第3輪（陽極限定）／捕捉：隱藏關卡B 第4輪（陽極限定）／捕捉：隱藏關卡B 第7輪（陽極限定）／任務完成獎勵：最終關卡千年獸據點（陽極限定；三隻夥伴全部存活）",
       "stats": {
         "DP": 200,
         "AP": 44,
@@ -2232,14 +2303,15 @@ window.TAMER_DATA={
         "VP": "52",
         "MP": "4"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "千年第3關"
     },
     {
       "id": 73,
       "name": "吸血魔獸",
       "jp": "ヴァンデモン",
       "category": "超龍1-5代",
-      "location": "千年第8關/隱藏關卡C",
+      "location": "捕捉：隱藏關卡C 第4輪（陽極／陰極）",
       "stats": {
         "DP": 250,
         "AP": 57,
@@ -2263,14 +2335,15 @@ window.TAMER_DATA={
         "VP": "84",
         "MP": "5"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "千年第8關/隱藏關卡C"
     },
     {
       "id": 74,
       "name": "小丑皇",
       "jp": "ピエモン",
       "category": "超龍1-5代",
-      "location": "千年第9關/隱藏關卡C",
+      "location": "捕捉：隱藏關卡C 第5輪（陽極／陰極）",
       "stats": {
         "DP": 310,
         "AP": 62,
@@ -2294,14 +2367,15 @@ window.TAMER_DATA={
         "VP": "96",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "千年第9關/隱藏關卡C"
     },
     {
       "id": 75,
       "name": "種子獸",
       "jp": "ニョキモン",
       "category": "超龍1-5代",
-      "location": "",
+      "location": "捕捉：吸血魔獸區右屋 第2輪（陽極／陰極）／捕捉：吸血魔獸區右屋 第3輪（陽極／陰極）／捕捉：吸血魔獸區右屋 第4輪（陽極／陰極）／捕捉：吸血魔獸據點 第2輪（陽極／陰極）／捕捉：小丑皇區左屋 第4輪（陽極／陰極）／捕捉：小丑皇區右屋 第4輪（陽極／陰極）／捕捉：小丑皇區據點 第3輪（陽極／陰極）／捕捉：隱藏關卡A 第4輪（陽極限定）／捕捉：隱藏關卡A 第5輪（陽極限定）／任務完成獎勵：吸血魔獸區右屋（陽極／陰極）",
       "stats": {
         "DP": 60,
         "AP": 24,
@@ -2325,14 +2399,15 @@ window.TAMER_DATA={
         "VP": "15",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 76,
       "name": "比高獸",
       "jp": "ピョコモン",
       "category": "超龍1-5代",
-      "location": "",
+      "location": "捕捉：吸血魔獸區右屋 第3輪（陽極／陰極）／捕捉：吸血魔獸區右屋 第4輪（陽極／陰極）／捕捉：吸血魔獸據點 第2輪（陽極／陰極）／捕捉：小丑皇區左屋 第4輪（陽極／陰極）／捕捉：小丑皇區右屋 第4輪（陽極／陰極）／捕捉：小丑皇區據點 第3輪（陽極／陰極）／捕捉：隱藏關卡A 第4輪（陽極限定）／捕捉：隱藏關卡A 第5輪（陽極限定）／任務完成獎勵：小丑皇區據點（陽極／陰極）",
       "stats": {
         "DP": 60,
         "AP": 24,
@@ -2356,14 +2431,15 @@ window.TAMER_DATA={
         "VP": "15",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 77,
       "name": "比丘獸",
       "jp": "ピヨモン",
       "category": "超龍1-5代",
-      "location": "擊敗悟空獸加入/隱藏關卡D",
+      "location": "捕捉：隱藏關卡D 第1輪（陽極／陰極）／捕捉：隱藏關卡D 第3輪（陽極／陰極）／捕捉：隱藏關卡D 第4輪（陽極／陰極）／擊敗悟空獸加入",
       "stats": {
         "DP": 190,
         "AP": 44,
@@ -2387,14 +2463,15 @@ window.TAMER_DATA={
         "VP": "30",
         "MP": "5"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "擊敗悟空獸加入/隱藏關卡D"
     },
     {
       "id": 78,
       "name": "花拉獸",
       "jp": "フローラモン",
       "category": "超龍1-5代",
-      "location": "吸血魔區右屋第3關",
+      "location": "捕捉：吸血魔獸區右屋 第3輪（陽極／陰極）／捕捉：吸血魔獸區右屋 第4輪（陽極／陰極）／捕捉：吸血魔獸據點 第3輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第4輪（陽極／陰極）／捕捉：隱藏關卡A 第1輪（陰極限定）／捕捉：隱藏關卡A 第2輪（陰極限定）／捕捉：隱藏關卡A 第7輪（陰極限定）／任務完成獎勵：吸血魔獸區右屋（陰極限定；三隻夥伴全部存活）",
       "stats": {
         "DP": 160,
         "AP": 32,
@@ -2418,14 +2495,15 @@ window.TAMER_DATA={
         "VP": "30",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "吸血魔區右屋第3關"
     },
     {
       "id": 79,
       "name": "蘑菇獸",
       "jp": "マッシュモン",
       "category": "超龍1-5代",
-      "location": "",
+      "location": "捕捉：吸血魔獸區右屋 第3輪（陽極限定）／捕捉：吸血魔獸區右屋 第4輪（陽極限定）／捕捉：吸血魔獸據點 第3輪（陽極限定）／捕捉：最終關卡千年獸據點 第4輪（陽極限定）",
       "stats": {
         "DP": 160,
         "AP": 32,
@@ -2449,7 +2527,8 @@ window.TAMER_DATA={
         "VP": "30",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 80,
@@ -2480,14 +2559,15 @@ window.TAMER_DATA={
         "VP": "52",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "活動限定-斯路(零丸)"
     },
     {
       "id": 81,
       "name": "奇鳥獸",
       "jp": "キウイモン",
       "category": "超龍1-5代",
-      "location": "",
+      "location": "捕捉：吸血魔獸區右屋 第4輪（陽極限定）／捕捉：吸血魔獸據點 第3輪（陽極限定）／捕捉：小丑皇區左屋 第4輪（陽極限定）／捕捉：小丑皇區右屋 第4輪（陽極限定）／捕捉：小丑皇區據點 第3輪（陽極限定）／捕捉：最終關卡千年獸據點 第4輪（陽極限定）",
       "stats": {
         "DP": 240,
         "AP": 44,
@@ -2511,14 +2591,15 @@ window.TAMER_DATA={
         "VP": "52",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 82,
       "name": "巧木獸",
       "jp": "ウッドモン",
       "category": "超龍1-5代",
-      "location": "",
+      "location": "捕捉：吸血魔獸據點 第3輪（陰極限定）／捕捉：小丑皇區左屋 第4輪（陰極限定）／捕捉：小丑皇區右屋 第4輪（陰極限定）／捕捉：小丑皇區據點 第3輪（陰極限定）／捕捉：最終關卡千年獸據點 第4輪（陰極限定）／任務完成獎勵：最終關卡千年獸據點（陰極限定；三隻夥伴全部存活）",
       "stats": {
         "DP": 240,
         "AP": 44,
@@ -2542,14 +2623,15 @@ window.TAMER_DATA={
         "VP": "52",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 83,
       "name": "鼻屎獸",
       "jp": "レッドベジーモン",
       "category": "超龍1-5代",
-      "location": "吸血魔獸第3關",
+      "location": "捕捉：吸血魔獸據點 第3輪（陰極限定）／捕捉：小丑皇區左屋 第4輪（陰極限定）／捕捉：小丑皇區右屋 第4輪（陰極限定）／捕捉：小丑皇區據點 第3輪（陰極限定）／捕捉：最終關卡千年獸據點 第4輪（陰極限定）",
       "stats": {
         "DP": 240,
         "AP": 44,
@@ -2573,14 +2655,15 @@ window.TAMER_DATA={
         "VP": "52",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "吸血魔獸第3關"
     },
     {
       "id": 84,
       "name": "電鼠獸",
       "jp": "チョロモン",
       "category": "超龍1-5代",
-      "location": "吸血魔獸第4關",
+      "location": "捕捉：吸血魔獸據點 第3輪（陽極／陰極）／捕捉：吸血魔獸據點 第4輪（陽極／陰極）／捕捉：吸血魔獸據點 第5輪（陽極／陰極）／捕捉：小丑皇區左屋 第5輪（陽極／陰極）／捕捉：小丑皇區右屋 第5輪（陽極／陰極）／捕捉：小丑皇區據點 第4輪（陽極／陰極）／捕捉：小丑皇區據點 第5輪（陽極／陰極）／捕捉：隱藏關卡A 第5輪（陽極限定）／捕捉：隱藏關卡A 第6輪（陽極限定）／任務完成獎勵：吸血魔獸據點（陽極／陰極）",
       "stats": {
         "DP": 60,
         "AP": 24,
@@ -2604,14 +2687,15 @@ window.TAMER_DATA={
         "VP": "15",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "吸血魔獸第4關"
     },
     {
       "id": 85,
       "name": "加利獸",
       "jp": "カプリモン",
       "category": "超龍1-5代",
-      "location": "吸血魔獸第4關",
+      "location": "捕捉：吸血魔獸據點 第4輪（陽極／陰極）／捕捉：吸血魔獸據點 第5輪（陽極／陰極）／捕捉：小丑皇區左屋 第5輪（陽極／陰極）／捕捉：小丑皇區右屋 第5輪（陽極／陰極）／捕捉：小丑皇區據點 第4輪（陽極／陰極）／捕捉：小丑皇區據點 第5輪（陽極／陰極）／捕捉：隱藏關卡A 第6輪（陽極限定）／捕捉：隱藏關卡A 第7輪（陽極限定）／任務完成獎勵：小丑皇區據點（陽極／陰極）",
       "stats": {
         "DP": 60,
         "AP": 24,
@@ -2635,14 +2719,15 @@ window.TAMER_DATA={
         "VP": "15",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "吸血魔獸第4關"
     },
     {
       "id": 86,
       "name": "積木亞古獸",
       "jp": "トイアグモン",
       "category": "超龍1-5代",
-      "location": "",
+      "location": "捕捉：吸血魔獸據點 第3輪（陽極限定）／捕捉：吸血魔獸據點 第4輪（陽極／陰極）／捕捉：吸血魔獸據點 第5輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第5輪（陽極／陰極）／捕捉：隱藏關卡A 第3輪（陰極限定）／捕捉：隱藏關卡A 第4輪（陰極限定）／任務完成獎勵：吸血魔獸據點（陰極限定；三隻夥伴全部存活）",
       "stats": {
         "DP": 160,
         "AP": 32,
@@ -2666,14 +2751,15 @@ window.TAMER_DATA={
         "VP": "30",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 87,
       "name": "小古加獸",
       "jp": "コクワモン",
       "category": "超龍1-5代",
-      "location": "吸血魔獸尾關",
+      "location": "捕捉：吸血魔獸據點 第4輪（陽極／陰極）／捕捉：吸血魔獸據點 第6輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第5輪（陽極／陰極）／捕捉：隱藏關卡A 第3輪（陰極限定）／捕捉：隱藏關卡A 第4輪（陰極限定）／任務完成獎勵：吸血魔獸據點（陽極限定；三隻夥伴全部存活）",
       "stats": {
         "DP": 160,
         "AP": 32,
@@ -2697,14 +2783,15 @@ window.TAMER_DATA={
         "VP": "30",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "吸血魔獸尾關"
     },
     {
       "id": 88,
       "name": "齒輪獸",
       "jp": "ハグルモン",
       "category": "超龍1-5代",
-      "location": "吸血魔獸第4關",
+      "location": "捕捉：吸血魔獸據點 第4輪（陽極／陰極）／捕捉：吸血魔獸據點 第5輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第5輪（陽極／陰極）／捕捉：隱藏關卡A 第4輪（陰極限定）／捕捉：隱藏關卡A 第5輪（陰極限定）／任務完成獎勵：隱藏關卡A（陰極限定）",
       "stats": {
         "DP": 160,
         "AP": 32,
@@ -2728,14 +2815,15 @@ window.TAMER_DATA={
         "VP": "30",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "吸血魔獸第4關"
     },
     {
       "id": 89,
       "name": "左輪獸",
       "jp": "リボルモン",
       "category": "超龍1-5代",
-      "location": "四天王區左屋第5關",
+      "location": "捕捉：吸血魔獸據點 第4輪（陽極／陰極）／捕捉：小丑皇區左屋 第5輪（陽極／陰極）／捕捉：小丑皇區右屋 第5輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第5輪（陽極／陰極）",
       "stats": {
         "DP": 240,
         "AP": 44,
@@ -2759,14 +2847,15 @@ window.TAMER_DATA={
         "VP": "52",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "四天王區左屋第5關"
     },
     {
       "id": 90,
       "name": "坦克獸",
       "jp": "タンクモン",
       "category": "超龍1-5代",
-      "location": "吸血魔獸第4關",
+      "location": "捕捉：吸血魔獸據點 第5輪（陽極／陰極）／捕捉：小丑皇區左屋 第5輪（陽極／陰極）／捕捉：小丑皇區右屋 第5輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第5輪（陽極／陰極）",
       "stats": {
         "DP": 240,
         "AP": 44,
@@ -2790,14 +2879,15 @@ window.TAMER_DATA={
         "VP": "52",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "吸血魔獸第4關"
     },
     {
       "id": 91,
       "name": "時鐘獸",
       "jp": "クロックモン",
       "category": "超龍1-5代",
-      "location": "吸血魔獸尾關",
+      "location": "捕捉：吸血魔獸據點 第5輪（陽極／陰極）／捕捉：吸血魔獸據點 第6輪（陽極／陰極）／捕捉：小丑皇區左屋 第5輪（陽極／陰極）／捕捉：小丑皇區右屋 第5輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第5輪（陽極／陰極）",
       "stats": {
         "DP": 240,
         "AP": 44,
@@ -2821,14 +2911,15 @@ window.TAMER_DATA={
         "VP": "52",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "吸血魔獸尾關"
     },
     {
       "id": 92,
       "name": "守衛獸",
       "jp": "ガードロモン",
       "category": "超龍1-5代",
-      "location": "",
+      "location": "捕捉：吸血魔獸據點 第5輪（陽極／陰極）／捕捉：小丑皇區左屋 第5輪（陽極／陰極）／捕捉：小丑皇區右屋 第5輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第5輪（陽極／陰極）",
       "stats": {
         "DP": 240,
         "AP": 44,
@@ -2852,14 +2943,15 @@ window.TAMER_DATA={
         "VP": "52",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 93,
       "name": "機械裝甲獸",
       "jp": "メカノリモン",
       "category": "超龍1-5代",
-      "location": "千年第5關",
+      "location": "捕捉：吸血魔獸據點 第5輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第5輪（陽極／陰極）",
       "stats": {
         "DP": 240,
         "AP": 44,
@@ -2883,14 +2975,15 @@ window.TAMER_DATA={
         "VP": "52",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "千年第5關"
     },
     {
       "id": 94,
       "name": "迪路獸",
       "jp": "テイルモン",
       "category": "其他系列(SS/WS系列)",
-      "location": "擊敗吸血魔獸加入/隱藏關卡D",
+      "location": "捕捉：隱藏關卡D 第1輪（陽極／陰極）／擊敗吸血魔獸加入",
       "stats": {
         "DP": 285,
         "AP": 48,
@@ -2914,14 +3007,15 @@ window.TAMER_DATA={
         "VP": "52",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "擊敗吸血魔獸加入/隱藏關卡D"
     },
     {
       "id": 95,
       "name": "龍蝦獸",
       "jp": "エビドラモン",
       "category": "其他系列(SS/WS系列)",
-      "location": "四天王區左屋第1關",
+      "location": "捕捉：小丑皇區左屋 第1輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第6輪（陽極／陰極）／捕捉：隱藏關卡C 第1輪（陽極／陰極）／捕捉：隱藏關卡B 第1輪（陰極限定）／捕捉：隱藏關卡B 第2輪（陰極限定）／捕捉：隱藏關卡B 第6輪（陰極限定）／捕捉：隱藏關卡B 第7輪（陰極限定）／任務完成獎勵：小丑皇區左屋（陰極限定；三隻夥伴全部存活）",
       "stats": {
         "DP": 250,
         "AP": 36,
@@ -2945,14 +3039,15 @@ window.TAMER_DATA={
         "VP": "58",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "四天王區左屋第1關"
     },
     {
       "id": 96,
       "name": "猩猩獸",
       "jp": "ゴリモン",
       "category": "其他系列(SS/WS系列)",
-      "location": "四天王區左屋第2關",
+      "location": "捕捉：小丑皇區左屋 第2輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第6輪（陽極／陰極）／捕捉：隱藏關卡C 第1輪（陽極／陰極）",
       "stats": {
         "DP": 250,
         "AP": 44,
@@ -2976,14 +3071,15 @@ window.TAMER_DATA={
         "VP": "58",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "四天王區左屋第2關"
     },
     {
       "id": 97,
       "name": "邪魔獸",
       "jp": "イビルモン",
       "category": "其他系列(SS/WS系列)",
-      "location": "四天王區左屋第3關",
+      "location": "捕捉：小丑皇區左屋 第3輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第6輪（陽極／陰極）／捕捉：隱藏關卡C 第1輪（陽極／陰極）／任務完成獎勵：隱藏關卡C（陽極／陰極）",
       "stats": {
         "DP": 250,
         "AP": 44,
@@ -3007,14 +3103,15 @@ window.TAMER_DATA={
         "VP": "58",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "四天王區左屋第3關"
     },
     {
       "id": 98,
       "name": "曱甴獸",
       "jp": "ゴキモン",
       "category": "其他系列(SS/WS系列)",
-      "location": "四天王區左屋第4關",
+      "location": "捕捉：小丑皇區左屋 第4輪（陽極／陰極）",
       "stats": {
         "DP": 250,
         "AP": 44,
@@ -3038,14 +3135,15 @@ window.TAMER_DATA={
         "VP": "58",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "四天王區左屋第4關"
     },
     {
       "id": 99,
       "name": "牛人獸",
       "jp": "ミノタルモン",
       "category": "其他系列(SS/WS系列)",
-      "location": "四天王區左屋第5關",
+      "location": "捕捉：小丑皇區左屋 第5輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第6輪（陽極／陰極）／捕捉：隱藏關卡C 第1輪（陽極／陰極）／任務完成獎勵：小丑皇區左屋（陽極限定；三隻夥伴全部存活）",
       "stats": {
         "DP": 250,
         "AP": 44,
@@ -3069,14 +3167,15 @@ window.TAMER_DATA={
         "VP": "58",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "四天王區左屋第5關"
     },
     {
       "id": 100,
       "name": "蜘蛛獸",
       "jp": "ドクグモン",
       "category": "其他系列(SS/WS系列)",
-      "location": "四天王區右屋第2關",
+      "location": "捕捉：小丑皇區右屋 第2輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第6輪（陽極／陰極）／捕捉：隱藏關卡C 第1輪（陽極／陰極）／任務完成獎勵：隱藏關卡C（陽極／陰極）",
       "stats": {
         "DP": 260,
         "AP": 48,
@@ -3100,14 +3199,15 @@ window.TAMER_DATA={
         "VP": "62",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "四天王區右屋第2關"
     },
     {
       "id": 101,
       "name": "武士獸",
       "jp": "ムシャモン",
       "category": "其他系列(SS/WS系列)",
-      "location": "四天王區右屋第3關",
+      "location": "捕捉：小丑皇區右屋 第3輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第6輪（陽極／陰極）／捕捉：隱藏關卡C 第1輪（陽極／陰極）／任務完成獎勵：小丑皇區右屋（陰極限定；三隻夥伴全部存活）",
       "stats": {
         "DP": 260,
         "AP": 48,
@@ -3131,14 +3231,15 @@ window.TAMER_DATA={
         "VP": "62",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "四天王區右屋第3關"
     },
     {
       "id": 102,
       "name": "岩石獸",
       "jp": "ゴーレモン",
       "category": "其他系列(SS/WS系列)",
-      "location": "四天王區右屋第4關",
+      "location": "捕捉：小丑皇區右屋 第4輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第6輪（陽極／陰極）／捕捉：隱藏關卡C 第1輪（陽極／陰極）／任務完成獎勵：隱藏關卡C（陰極限定；三隻夥伴全部存活）",
       "stats": {
         "DP": 260,
         "AP": 48,
@@ -3162,14 +3263,15 @@ window.TAMER_DATA={
         "VP": "62",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "四天王區右屋第4關"
     },
     {
       "id": 103,
       "name": "螳螂獸",
       "jp": "スナイモン",
       "category": "其他系列(SS/WS系列)",
-      "location": "四天王區右屋第5關",
+      "location": "捕捉：小丑皇區右屋 第5輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第6輪（陽極／陰極）／捕捉：隱藏關卡C 第1輪（陽極／陰極）／任務完成獎勵：小丑皇區右屋（陽極限定；三隻夥伴全部存活）",
       "stats": {
         "DP": 260,
         "AP": 48,
@@ -3193,14 +3295,15 @@ window.TAMER_DATA={
         "VP": "62",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "四天王區右屋第5關"
     },
     {
       "id": 104,
       "name": "企鵝獸",
       "jp": "ペンモン",
       "category": "其他系列(SS/WS系列)",
-      "location": "四天王第4關",
+      "location": "捕捉：小丑皇區據點 第4輪（陽極／陰極）／捕捉：小丑皇區據點 第5輪（陽極／陰極）／捕捉：隱藏關卡A 第4輪（陰極限定）／捕捉：隱藏關卡A 第5輪（陰極限定）／捕捉：隱藏關卡B 第2輪（陰極限定）／捕捉：隱藏關卡B 第3輪（陰極限定）／任務完成獎勵：隱藏關卡B（陰極限定）",
       "stats": {
         "DP": 160,
         "AP": 26,
@@ -3224,14 +3327,15 @@ window.TAMER_DATA={
         "VP": "32",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "四天王第4關"
     },
     {
       "id": 105,
       "name": "野人獸",
       "jp": "ゴブリモン",
       "category": "其他系列(SS/WS系列)",
-      "location": "",
+      "location": "捕捉：小丑皇區據點 第4輪（陽極／陰極）／捕捉：小丑皇區據點 第5輪（陽極／陰極）／捕捉：隱藏關卡A 第5輪（陰極限定）／捕捉：隱藏關卡A 第6輪（陰極限定）",
       "stats": {
         "DP": 160,
         "AP": 32,
@@ -3255,14 +3359,15 @@ window.TAMER_DATA={
         "VP": "32",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": ""
     },
     {
       "id": 106,
       "name": "伊賀獸",
       "jp": "イガモン",
       "category": "其他系列(SS/WS系列)",
-      "location": "四天王第1關",
+      "location": "捕捉：小丑皇區據點 第1輪（陽極／陰極）／捕捉：小丑皇區據點 第5輪（陽極／陰極）／捕捉：小丑皇區據點 第6輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第6輪（陽極／陰極）／捕捉：隱藏關卡C 第1輪（陽極／陰極）／任務完成獎勵：小丑皇區據點（陰極限定；三隻夥伴全部存活）",
       "stats": {
         "DP": 260,
         "AP": 48,
@@ -3286,14 +3391,15 @@ window.TAMER_DATA={
         "VP": "64",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "四天王第1關"
     },
     {
       "id": 107,
       "name": "斑紋獨角馬獸",
       "jp": "シマユニモン",
       "category": "其他系列(SS/WS系列)",
-      "location": "四天王第2關",
+      "location": "捕捉：小丑皇區據點 第2輪（陽極／陰極）／捕捉：小丑皇區據點 第5輪（陽極／陰極）／捕捉：小丑皇區據點 第6輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第6輪（陽極／陰極）／捕捉：隱藏關卡C 第1輪（陽極／陰極）／任務完成獎勵：最終關卡千年獸據點（陽極限定；三隻夥伴全部存活）",
       "stats": {
         "DP": 260,
         "AP": 48,
@@ -3317,14 +3423,15 @@ window.TAMER_DATA={
         "VP": "64",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "四天王第2關"
     },
     {
       "id": 108,
       "name": "鬼魂獸",
       "jp": "ソウルモン",
       "category": "其他系列(SS/WS系列)",
-      "location": "以猛鬼獸通訊交換後獲得",
+      "location": "交換限定：猛鬼獸通訊交換後變化",
       "stats": {
         "DP": 220,
         "AP": 48,
@@ -3348,14 +3455,15 @@ window.TAMER_DATA={
         "VP": "64",
         "MP": "4"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "以猛鬼獸通訊交換後獲得"
     },
     {
       "id": 109,
       "name": "火焰蜥蜴獸",
       "jp": "フレアリザモン",
       "category": "其他系列(SS/WS系列)",
-      "location": "四天王第3關",
+      "location": "捕捉：小丑皇區據點 第3輪（陽極／陰極）／捕捉：小丑皇區據點 第5輪（陽極／陰極）／捕捉：小丑皇區據點 第6輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第6輪（陽極／陰極）／捕捉：隱藏關卡C 第1輪（陽極／陰極）／任務完成獎勵：隱藏關卡C（陽極限定；三隻夥伴全部存活）",
       "stats": {
         "DP": 260,
         "AP": 48,
@@ -3379,14 +3487,15 @@ window.TAMER_DATA={
         "VP": "64",
         "MP": "2"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "四天王第3關"
     },
     {
       "id": 110,
       "name": "蜻蜓獸",
       "jp": "ヤンマモン",
       "category": "其他系列(SS/WS系列)",
-      "location": "四天王第4關",
+      "location": "捕捉：小丑皇區據點 第4輪（陽極／陰極）／捕捉：小丑皇區據點 第5輪（陽極／陰極）／捕捉：最終關卡千年獸據點 第6輪（陽極／陰極）／捕捉：隱藏關卡B 第1輪（陽極限定）／捕捉：隱藏關卡B 第2輪（陽極限定）／捕捉：隱藏關卡B 第3輪（陽極限定）／捕捉：隱藏關卡B 第7輪（陽極限定）／捕捉：隱藏關卡C 第1輪（陽極／陰極）／任務完成獎勵：小丑皇區據點（陽極限定；三隻夥伴全部存活）",
       "stats": {
         "DP": 220,
         "AP": 48,
@@ -3410,14 +3519,15 @@ window.TAMER_DATA={
         "VP": "64",
         "MP": "4"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "四天王第4關"
     },
     {
       "id": 111,
       "name": "基米拉獸",
       "jp": "キメラモン",
       "category": "其他系列(SS/WS系列)",
-      "location": "隱藏關卡C(陽極限定)",
+      "location": "捕捉：隱藏關卡C 第6輪（陽極限定）",
       "stats": {
         "DP": 330,
         "AP": 54,
@@ -3441,14 +3551,15 @@ window.TAMER_DATA={
         "VP": "99",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "隱藏關卡C(陽極限定)"
     },
     {
       "id": 112,
       "name": "機械邪龍獸",
       "jp": "ムゲンドラモン",
       "category": "其他系列(SS/WS系列)",
-      "location": "隱藏關卡C(陰極限定)",
+      "location": "捕捉：隱藏關卡C 第6輪（陰極限定）",
       "stats": {
         "DP": 330,
         "AP": 54,
@@ -3472,14 +3583,15 @@ window.TAMER_DATA={
         "VP": "99",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "隱藏關卡C(陰極限定)"
     },
     {
       "id": 113,
       "name": "千年獸",
       "jp": "ミレニアモン",
       "category": "其他系列(SS/WS系列)",
-      "location": "隱藏關卡C",
+      "location": "捕捉：隱藏關卡C 第7輪（陽極／陰極）",
       "stats": {
         "DP": 333,
         "AP": 56,
@@ -3503,7 +3615,8 @@ window.TAMER_DATA={
         "VP": "108",
         "MP": "3"
       },
-      "statSource": "Original Japanese game data"
+      "statSource": "Original Japanese game data",
+      "sheetLocation": "隱藏關卡C"
     }
   ],
   "techniques": [
