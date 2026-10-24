@@ -49,3 +49,6 @@
 - Supplied individual sprites link to existing profiles. Enemies without a matching catalogue entry retain their names; no substitute image is invented.
 - Compare versions shows matching configuration numbers side by side and highlights species that differ in the corresponding enemy position. Mobile comparisons stack with version labels.
 - Removed the separate 捕捉地點 view. Dungeon names and locations remain pending the user's draft.
+
+### Boss entries
+Dungeon sections now include a Boss overview using the first enemy marked by the original initialization code when the slot reaches the dungeon descriptor threshold. Marked battle cards are labeled. Both versions passed 552 isolated flag-calculation checks in total; this is not a complete boss playthrough. An unmarked descriptor is reported as no verified boss entry, never as proof of no boss.
