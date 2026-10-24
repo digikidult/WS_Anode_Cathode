@@ -4923,7 +4923,7 @@ window.TAMER_DATA={
       "image": "assets/image45.png"
     }
   ],
-  "rare": "小知識：AP,PP&VP一般只可培養至2倍，如經Server Room取出及改名後，\n分子獸的對白判斷為「稀有種」，AP,PP&VP可培養最高至基礎的3倍(可用SL大法刷)",
+  "rare": "小知識：AP,PP&VP一般只可培養至2倍，如經Server Room取出及改名後，\n分子獸的對白判斷為「稀有種」（機率約6.25%），AP,PP&VP可培養最高至基礎的3倍(可用SL大法刷)",
   "variableTip": "小知識：透過不斷使用相同的變數技，可以使同行Digimon無視組合，學習該變數技",
   "variableNote": "*只有飛龍V獸可通過組合習得；即使擁有V龍獸，奧米加獸及神龍獸無法透過任何組合習得",
   "distribution": {
