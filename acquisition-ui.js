@@ -13,6 +13,6 @@ let pendingAcquisitionTarget=null;
 function scrollToAcquisition(){if(!pendingAcquisitionTarget||page!=='dungeons')return;const target=document.getElementById(pendingAcquisitionTarget);if(target){target.scrollIntoView({behavior:'instant',block:'start'});target.focus({preventScroll:true});}pendingAcquisitionTarget=null;}
 document.addEventListener('click',e=>{const link=e.target.closest('[data-acq-dungeon]');if(!link)return;$('#detail').close();dungeonId=link.dataset.acqDungeon;dungeonEdition=link.dataset.acqEdition;dungeonDifferences=false;query='';$('#search').value='';pendingAcquisitionTarget=link.dataset.acqTarget;if(page==='dungeons')nav();else location.hash='#/dungeons';});
 
-function acquisitionBadges(m){const a=acquisitionFor(m.id);if(a.exchangeOnly)return '<span class="version-tag">交換限定</span>';const versions=acquisitionEditions(a);return '<span class="version-tag">'+(versions.length===2?'兩版可取得':versions.length===1?(versions[0]==='anode'?'陽極限定':'陰極限定'):'版本待確認')+'</span>';}
+function acquisitionBadges(m){const a=acquisitionFor(m.id);if(m.id===80)return '<span class="version-tag">'+(verZeroOn?'兩版可取得':'配佈限定')+'</span>';if(a.exchangeOnly)return '<span class="version-tag">交換限定</span>';const versions=acquisitionEditions(a);return '<span class="version-tag">'+(versions.length===2?'陽極／陰極可入手':versions.length===1?(versions[0]==='anode'?'陽極限定':'陰極限定'):'版本待確認')+'</span>';}
 
 function acquisitionSearch(m){const a=acquisitionFor(m.id);return acquisitionSummary(m)+' '+[...a.captures,...a.rewards].map(s=>acquisitionDungeon(s.dungeonId)).join(' ');}
