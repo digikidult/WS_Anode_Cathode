@@ -3108,7 +3108,7 @@ window.TAMER_DATA={
     },
     {
       "id": 98,
-      "name": "曱甴獸",
+      "name": "蟑螂獸",
       "jp": "ゴキモン",
       "category": "其他系列(SS/WS系列)",
       "location": "捕捉：小丑皇區左屋 第4輪（陽極／陰極）",
