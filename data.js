@@ -3428,7 +3428,7 @@ window.TAMER_DATA={
     },
     {
       "id": 108,
-      "name": "鬼魂獸",
+      "name": "亡靈獸",
       "jp": "ソウルモン",
       "category": "其他系列(SS/WS系列)",
       "location": "交換限定：猛鬼獸通訊交換後變化",
@@ -3912,7 +3912,7 @@ window.TAMER_DATA={
       "id": 132,
       "name": "河豚獸",
       "jp": "プクモン",
-      "combination": "長牙獸 ＋ 螃蟹獸",
+      "combination": "大角獸 ＋ 螃蟹獸",
       "vp": "9",
       "type": "攻擊",
       "effect": "對一隻敵人造成傷害！如果對手係地面型傷害就會增加",
@@ -4616,7 +4616,7 @@ window.TAMER_DATA={
     },
     {
       "id": 176,
-      "name": "華麗獸",
+      "name": "地拉獸",
       "jp": "デラモン",
       "combination": "Pen.4成長期兩體",
       "vp": "10",
